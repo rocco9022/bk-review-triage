@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
-"""Print App Store reviews not yet logged in reviews.csv, as JSON lines.
-Each line: {"id","date","rating","version","title","body"}."""
-import csv, json, sys, urllib.request
-FEED="https://itunes.apple.com/us/rss/customerreviews/id=638323895/sortBy=mostRecent/json"
+"""Filter App Store review lines to only those NOT yet in reviews.csv.
+
+Reads pipe-delimited lines from stdin: ID|RATING|DATE|TITLE|BODY
+(produced by WebFetch on the App Store review feed).
+Prints only lines whose ID is not already logged in reviews.csv.
+The sandbox proxy blocks direct HTTP, so fetching is done via the
+WebFetch tool by the agent; this script only does dedup."""
+import csv, sys
 seen=set()
 try:
     with open("reviews.csv",newline="") as f:
@@ -10,19 +14,11 @@ try:
             if r.get("Review ID"): seen.add(r["Review ID"].strip())
 except FileNotFoundError:
     pass
-req=urllib.request.Request(FEED,headers={"User-Agent":"bk-review-triage"})
-data=json.load(urllib.request.urlopen(req,timeout=30))
-entries=data["feed"].get("entry",[])
-# first entry is app metadata (has no im:rating)
-out=[]
-for x in entries:
-    if "im:rating" not in x: continue
-    rid=x["id"]["label"].strip()
-    if rid in seen: continue
-    out.append({"id":rid,"date":x.get("updated",{}).get("label","")[:10],
-                "rating":x["im:rating"]["label"],
-                "version":x.get("im:version",{}).get("label",""),
-                "title":x["title"]["label"],
-                "body":x["content"]["label"]})
-for o in out: print(json.dumps(o,ensure_ascii=False))
-print(f"# {len(out)} new review(s)",file=sys.stderr)
+n=0
+for line in sys.stdin:
+    line=line.rstrip("\n")
+    if not line.strip() or "|" not in line: continue
+    rid=line.split("|",1)[0].strip()
+    if rid and rid not in seen:
+        print(line); n+=1
+print(f"# {n} new review(s)",file=sys.stderr)
