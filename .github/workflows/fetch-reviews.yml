@@ -17,14 +17,16 @@ jobs:
         run: pip install google-play-scraper
       - name: Fetch feeds
         run: python3 fetch_feed.py
+      - name: Prune reviews older than 40 days
+        run: python3 prune_old.py
       - name: Commit if changed
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          if ! git diff --quiet feed.txt; then
-            git add feed.txt
-            git commit -m "Update feed.txt ($(date -u +%Y-%m-%d))"
+          git add feed.txt reviews.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "Update feed + prune >40d ($(date -u +%Y-%m-%d))"
             git push
           else
-            echo "feed.txt unchanged"
+            echo "nothing to commit"
           fi
