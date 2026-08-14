@@ -8,17 +8,17 @@ Automated UX/UI review triage for the Burger King app (design team).
 3. A **Google Sheet** live-imports `reviews.csv` via `=IMPORTDATA(<raw url>)`.
 
 ## Files
-- `reviews.csv` — UX/UI issues only. Columns: `Fecha, Plataforma, Área, Severidad, Recurrente, Resumen, Comentario original, Link`.
+- `reviews.csv` — UX/UI issues only. Columns: `Date, Platform, Area, Severity, Recurring, Summary, Original comment, Link`.
 - `processed_ids.txt` — every review id ever evaluated (dedup ledger).
 - `feed.txt` — latest fetched reviews (input for the routine).
 - `new_reviews.py` — prints feed lines whose id is not in processed_ids.txt.
 - `fetch_feed.py` — fetches iOS + Android into feed.txt.
 
-## Área (functional buckets)
-Pagos y checkout · Flujo de pedido · Menú y ofertas · Rewards/Loyalty · Cuenta/Login · Performance/Crashes · Navegación/UI · Ubicación/Tienda · Personalización · Otro
+## Area (functional buckets)
+Payments & checkout · Ordering flow · Menu & offers · Rewards/Loyalty · Account/Login · Performance/Crashes · Navigation/UI · Location/Store · Customization · Other
 
 ## Severidad
 High = blocks a purchase/core flow · Medium = noticeable friction · Low = minor annoyance.
 
-## Recurrente
-"Sí" if the same problem/area was already logged before, else "No".
+## Recurring
+"Yes" if the same problem/area was already logged before, else "No".
