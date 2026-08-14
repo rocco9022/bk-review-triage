@@ -1,4 +1,4 @@
-name: Fetch BK App Store reviews
+name: Fetch BK reviews (iOS + Android)
 on:
   schedule:
     - cron: "0 11 * * *"   # daily 11:00 UTC (routine classifies at 12:00 UTC)
@@ -10,7 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch feed
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install google-play-scraper
+      - name: Fetch feeds
         run: python3 fetch_feed.py
       - name: Commit if changed
         run: |
