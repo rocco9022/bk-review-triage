@@ -1,0 +1,25 @@
+name: Fetch BK App Store reviews
+on:
+  schedule:
+    - cron: "0 11 * * *"   # daily 11:00 UTC (routine classifies at 12:00 UTC)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch feed
+        run: python3 fetch_feed.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          if ! git diff --quiet feed.txt; then
+            git add feed.txt
+            git commit -m "Update feed.txt ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "feed.txt unchanged"
+          fi

@@ -1,25 +1,50 @@
 Date,Summary,Category,Severity,Review ID,Review Link
-2026-08-13,Generic five-star praise with no specific detail.,UNCLEAR,,3755804727,https://app.appbot.co/reviews/3755804727_2992938
-2026-08-13,App unusable — menu and offers will not load.,UX/UI ISSUE,High,3755799304,https://app.appbot.co/reviews/3755799304_2992938
-2026-08-11,Order was missing requested sauce and items.,OPERATIONAL,,3755680380,https://app.appbot.co/reviews/3755680380_3249783
-2026-08-11,Generic five-star praise with no specific detail.,UNCLEAR,,3755680379,https://app.appbot.co/reviews/3755680379_3249783
-2026-08-12,App keeps refunding and failing to submit orders.,UX/UI ISSUE,High,3755680378,https://app.appbot.co/reviews/3755680378_3249783
-2026-08-12,Ordered via app but still waited a long time at the window.,OPERATIONAL,,3755680377,https://app.appbot.co/reviews/3755680377_3249783
-2026-08-13,Generic five-star praise with no specific detail.,UNCLEAR,,3755659436,https://app.appbot.co/reviews/3755659436_2992938
-2026-08-13,"Praise for correct, hot, well-made orders.",OPERATIONAL,,3755655577,https://app.appbot.co/reviews/3755655577_2992938
-2026-08-11,App wrongly suggests a closer store every time with no way to dismiss the alert.,UX/UI ISSUE,Medium,3755645224,https://app.appbot.co/reviews/3755645224_3249783
-2026-08-13,Praise for improved speed of service and hot food.,OPERATIONAL,,3755638725,https://app.appbot.co/reviews/3755638725_2992938
-2026-08-12,Praise for the Whopper Wednesday promotional deal.,OPERATIONAL,,3755628709,https://app.appbot.co/reviews/3755628709_2992938
-2026-08-12,Constant 'uh oh' errors while trying to order.,UX/UI ISSUE,High,3755628708,https://app.appbot.co/reviews/3755628708_2992938
-2026-08-11,Praise for Duo and Trio deals and drink value.,OPERATIONAL,,3755611511,https://app.appbot.co/reviews/3755611511_3249783
-2026-08-11,Cannot customize croissant options or drink choices in the ordering flow.,UX/UI ISSUE,Medium,3755611510,https://app.appbot.co/reviews/3755611510_3249783
-2026-08-11,Generic positive comment about liking the app.,UNCLEAR,,3755611509,https://app.appbot.co/reviews/3755611509_3249783
-2026-08-11,Political boycott complaint unrelated to the app or store operations.,UNCLEAR,,3755611508,https://app.appbot.co/reviews/3755611508_3249783
-2026-08-12,Complaint about price and lukewarm food.,OPERATIONAL,,3755609469,https://app.appbot.co/reviews/3755609469_2992938
-2026-08-11,Ordered in app but waited about 20 minutes for staff help.,OPERATIONAL,,3755611507,https://app.appbot.co/reviews/3755611507_3249783
-2026-08-12,"Complaint that food is not fresh, with stale buns.",OPERATIONAL,,3755609468,https://app.appbot.co/reviews/3755609468_2992938
-2026-08-12,Generic comment 'good deals' with no detail.,UNCLEAR,,3755599192,https://app.appbot.co/reviews/3755599192_2992938
-2026-08-12,Praise for the crew at a specific location.,OPERATIONAL,,3755590611,https://app.appbot.co/reviews/3755590611_2992938
-2026-08-12,Praise for convenience and loyalty crown rewards.,OPERATIONAL,,3755538080,https://app.appbot.co/reviews/3755538080_2992938
-2026-08-12,Generic praise for service.,OPERATIONAL,,3755527532,https://app.appbot.co/reviews/3755527532_2992938
-2026-08-12,User cannot mobile order at a specific location.,UX/UI ISSUE,Medium,3755522333,https://app.appbot.co/reviews/3755522333_2992938
+2026-08-11,User frustrated by long wait at the window despite ordering ahead.,OPERATIONAL,,14417115539,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-11,App keeps refunding and failing to submit orders.,UX/UI ISSUE,High,14417063134,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-11,Generic five-star praise with no specific detail.,UNCLEAR,,14416519552,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-11,Order was missing requested sauce and items.,OPERATIONAL,,14416435945,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-11,App repeatedly suggests a wrong 'closer' store with no way to dismiss the alert.,UX/UI ISSUE,Medium,14416282199,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-11,Long in-store wait for help after ordering in the app.,OPERATIONAL,,14415395803,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-11,Political boycott statement unrelated to the app or store operations.,UNCLEAR,,14415282572,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-11,Generic positive comment about liking the app.,UNCLEAR,,14415163039,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-11,"Cannot customize croissant options, condiments, or drink choices when ordering.",UX/UI ISSUE,Medium,14414599626,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-10,Praise for Duo and Trio deals and drink value.,OPERATIONAL,,14413329740,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-10,Praise for friendly service and an intuitive app.,OPERATIONAL,,14412414982,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-10,Repeated 20-minute waits for food at a location.,OPERATIONAL,,14411542426,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-10,Generic five-star praise with no specific detail.,UNCLEAR,,14411500850,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-10,App charges the card but does not place the order.,UX/UI ISSUE,High,14411069308,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-10,"Generic praise that the app is fast, easy, and rewarding.",UNCLEAR,,14410718865,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-10,Praise that a location's food is always fresh and made to order.,OPERATIONAL,,14410444648,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-09,App repeatedly charges and refunds without letting the user place an order.,UX/UI ISSUE,High,14409225664,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-09,Political free-speech statement unrelated to the app or store operations.,UNCLEAR,,14408528034,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-09,App displays menu items that are not actually available in the store.,UX/UI ISSUE,Medium,14407981868,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-09,Praise for Burger King's deals and savings.,OPERATIONAL,,14407500762,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-09,Praise for the chicken club and repeat visits.,OPERATIONAL,,14407480680,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-09,Praise that app ordering and pickup are easy and orders are ready on arrival.,OPERATIONAL,,14407360947,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-08,Generic praise for the rewards.,UNCLEAR,,14405346698,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-08,App crashes every time the user tries to order.,UX/UI ISSUE,High,14404417062,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-08,Generic one-word praise for Burger King.,UNCLEAR,,14404385100,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-08,App does not allow split payment with a gift card.,UX/UI ISSUE,Medium,14404311825,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-08,Political statement unrelated to the app or store operations.,UNCLEAR,,14403947798,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-08,Kids meal repeatedly delivered with the milk missing.,OPERATIONAL,,14403919378,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-08,"No way to cancel orders, orders sent to the wrong store, and a broken points-claim link.",UX/UI ISSUE,High,14403008829,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-08,Political statement unrelated to the app or store operations.,UNCLEAR,,14402716537,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-07,"Menu will not load, stuck in an endless pull-to-refresh loop.",UX/UI ISSUE,High,14400458904,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-06,"Still had to wait for food after ordering ahead, and the order was wrong.",OPERATIONAL,,14397263740,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-06,Political statement unrelated to the app or store operations.,UNCLEAR,,14396951053,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-06,"Orders repeatedly cancelled with no explanation, blocking checkout.",UX/UI ISSUE,High,14396654019,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-06,Kids meal earned via points is not listed in the points/rewards catalog.,UX/UI ISSUE,Medium,14396295541,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-06,Generic praise for Burger King and rewards.,UNCLEAR,,14396206693,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-06,"Praise for tasty, good-value breakfast.",OPERATIONAL,,14395599348,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-06,Generic praise with no specific detail.,UNCLEAR,,14395259099,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-05,Complaint that the app's Offers have gotten worse in quality and price.,UX/UI ISSUE,Medium,14392989075,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-05,Praise for food and service at a specific location.,OPERATIONAL,,14392955849,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-05,Payment declined during ordering despite sufficient funds.,UX/UI ISSUE,High,14391926513,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-05,"App described as not user-friendly, with lost rewards points.",UX/UI ISSUE,Medium,14390915913,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-04,Generic praise that the app makes ordering easy.,UNCLEAR,,14389515343,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-04,Food not ready 25 minutes after the app pickup time.,OPERATIONAL,,14389428913,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-04,Rewards points screen is slow to load or fails to load.,UX/UI ISSUE,Medium,14389066030,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-04,App sends orders to the wrong location with no refund.,UX/UI ISSUE,High,14388650088,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-04,Generic praise with no specific detail.,UNCLEAR,,14388455843,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-04,App freezes when entering a receipt code for reward points.,UX/UI ISSUE,Medium,14387935271,https://apps.apple.com/us/app/id638323895?see-all=reviews
+2026-08-04,Advertised drink (Mellow Yellow) not available at the location.,OPERATIONAL,,14387612621,https://apps.apple.com/us/app/id638323895?see-all=reviews
