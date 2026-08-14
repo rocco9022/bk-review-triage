@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Filter App Store review lines to only those NOT yet in reviews.csv.
+"""Filter review lines to only those NOT yet logged in reviews.csv.
 
 Reads pipe-delimited lines from stdin: ID|RATING|DATE|TITLE|BODY
-(produced by WebFetch on the App Store review feed).
-Prints only lines whose ID is not already logged in reviews.csv.
-The sandbox proxy blocks direct HTTP, so fetching is done via the
-WebFetch tool by the agent; this script only does dedup."""
+(the agent produces these by reading the Slack #app-reviews-bk channel
+via the Slack MCP connector, extracting the appbot review id from each
+review's "view" link). Prints only lines whose ID is not already in
+reviews.csv. Dedup only — no network here."""
 import csv, sys
 seen=set()
 try:
