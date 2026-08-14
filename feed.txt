@@ -1,3 +1,6 @@
+14420165399|3|2026-08-12|Pick up|10 min late on time for pick up
+14419962489|1|2026-08-12|App Experience|App needs updating towards selection experience
+14419766396|5|2026-08-12|Whopper|Tastes great
 14419165404|5|2026-08-12|Best food|Love it  😊
 14417115539|2|2026-08-11|Frustrated|What’s the point of using the app to order when you still have to wait forever for your order at the window
 14417063134|1|2026-08-11|Very Buggy|App keeps refunding and not putting the order through, super buggy needs a fix asap
@@ -45,9 +48,8 @@
 14389428913|5|2026-08-04|25 minutes|I ordered on app to be ready for pick up at 6 pm, 25 minutes later the food still wasn’t ready
 14389066030|5|2026-08-04|Good!|Might just be me, but every time I try pulling the rewards to gain points, it tends to take a while, or simply not load. Overall, good! Thank you BK!
 14388650088|1|2026-08-04|no refunds|app will send your order to the wrong location and no one will give you your money back.
-14388455843|5|2026-08-04|Great|It’s best
-14387935271|1|2026-08-04|Constantly freezes|can’t enter receipt code for reward points. App freezes.  Iseless app for reesrd points. May as well just order at drive-thru
-14387612621|2|2026-08-04|Mellow yellow|Every time I come here, they do not have mellow yellow as advertise
+345bc5fa-1877-4132-baaa-af25abc3eaf3|5|2026-08-13||love it it's amazing
+bb46eab7-f502-484a-8691-795e63f0930d|5|2026-08-13||I will never understand why Burger King isn't the top dog of the fast food world. The food is actually a real substantial meal. Our order is always correct, hot, well wrapped, and the burger patty is the same size of the bun. some other places can't say that.
 ce4f775c-3900-4cfe-b628-50c693474c89|4|2026-08-13||Definitely.much better than my last visit. Speed of service was much improved (25 minutes down to 7) and the food was still hot when I got it.
 c28e2a24-ef5b-459e-967f-ced980e017df|2|2026-08-12||constant uh oh errors when ordering
 e20f2f1d-8edf-4f20-8ff5-61ef56251d41|5|2026-08-12||whopper wednsday is a great promotional deal! Awesome
@@ -146,5 +148,3 @@ fb7b8a52-103a-4539-bb49-b5ef2590036d|5|2026-08-04||ordered from the wrong burger
 7397b6c3-1a14-4f80-a2ea-969d5f200c98|4|2026-08-04||Can't pay tonight. Tried three times now. Frustrated. Hopefully restarting my phone will help. Updated my review from a 2 to a 4 from the quick response I received. Thank you! I will try to update or re-download the app. I appreciate yoir timely response of the matter. 🙂
 2390cbc7-6a6d-4dc1-9bfe-ae478b618ca3|5|2026-08-04||i love bk
 73a835f1-4630-428f-8c69-5b31449194be|1|2026-08-04||Pop up adds on the app.
-2223fa2a-ace1-4988-9cf3-1ce5800ebbef|5|2026-08-04||Love their duo deals!
-4e6d00ec-11b8-4fd4-a9a7-ec560eee6327|5|2026-08-04||best burgers ever!
