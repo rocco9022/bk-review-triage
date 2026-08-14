@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
-"""Filter review lines to only those NOT yet logged in reviews.csv.
+"""Filter feed lines to reviews NOT yet processed.
 
-Reads pipe-delimited lines from stdin: ID|RATING|DATE|TITLE|BODY
-(the agent produces these by reading the Slack #app-reviews-bk channel
-via the Slack MCP connector, extracting the appbot review id from each
-review's "view" link). Prints only lines whose ID is not already in
-reviews.csv. Dedup only — no network here."""
-import csv, sys
+Reads pipe lines ID|RATING|DATE|TITLE|BODY from stdin (from feed.txt).
+Dedups against processed_ids.txt (every review id ever evaluated,
+whether or not it ended up in reviews.csv). Prints only unprocessed lines.
+This keeps the routine from re-classifying operational/unclear reviews
+every day even though they are not stored in reviews.csv."""
+import sys
 seen=set()
 try:
-    with open("reviews.csv",newline="") as f:
-        for r in csv.DictReader(f):
-            if r.get("Review ID"): seen.add(r["Review ID"].strip())
+    for l in open("processed_ids.txt"):
+        l=l.strip()
+        if l: seen.add(l)
 except FileNotFoundError:
     pass
 n=0

@@ -1,17 +1,24 @@
 # BK Review Triage
 
-Backing store for the Burger King app review triage tracker (design team).
-Source: the Slack **#app-reviews-bk** channel (appbot mirror of App Store +
-Google Play reviews), read via the Slack MCP connector — this bypasses the
-cloud egress allowlist, so no domain allowlisting is required.
+Automated UX/UI review triage for the Burger King app (design team).
 
-- `reviews.csv` — one row per classified review. Columns: `Date, Summary, Category, Severity, Review ID, Review Link`. `Review ID` is the appbot review id (dedup key).
-- `new_reviews.py` — stdin filter: given `ID|RATING|DATE|TITLE|BODY` lines, prints only those not already in reviews.csv.
+## Flow
+1. **GitHub Action** (`.github/workflows/fetch-reviews.yml`, daily 11:00 UTC) fetches recent reviews from **both stores** — iOS (Apple RSS) and Android (Google Play via `google-play-scraper`) — and writes them to `feed.txt` (`ID|RATING|DATE|TITLE|BODY`, one per line).
+2. **Cloud routine** (daily 12:00 UTC) classifies each NEW review. Only **UX/UI issues** are kept; operational (food, delivery, staff, condiments) and generic/unclear reviews are dropped. Every processed id is recorded in `processed_ids.txt` so nothing is re-evaluated.
+3. A **Google Sheet** live-imports `reviews.csv` via `=IMPORTDATA(<raw url>)`.
 
-A Google Sheet live-imports `reviews.csv` via `=IMPORTDATA(<raw csv url>)`.
+## Files
+- `reviews.csv` — UX/UI issues only. Columns: `Fecha, Plataforma, Área, Severidad, Recurrente, Resumen, Comentario original, Link`.
+- `processed_ids.txt` — every review id ever evaluated (dedup ledger).
+- `feed.txt` — latest fetched reviews (input for the routine).
+- `new_reviews.py` — prints feed lines whose id is not in processed_ids.txt.
+- `fetch_feed.py` — fetches iOS + Android into feed.txt.
 
-## Classification
-- **UX/UI ISSUE** — concrete, nameable app/interface problem. Severity High/Medium/Low.
-- **OPERATIONAL** — store ops (food, wrong/missing items, waits, staff). No severity.
-- **UNCLEAR** — ambiguous / generic praise / off-topic. No severity.
-Borderline UX/UI vs Operational: UX/UI only for a concrete interface problem. Never reclassify existing rows.
+## Área (functional buckets)
+Pagos y checkout · Flujo de pedido · Menú y ofertas · Rewards/Loyalty · Cuenta/Login · Performance/Crashes · Navegación/UI · Ubicación/Tienda · Personalización · Otro
+
+## Severidad
+High = blocks a purchase/core flow · Medium = noticeable friction · Low = minor annoyance.
+
+## Recurrente
+"Sí" if the same problem/area was already logged before, else "No".
