@@ -1,3 +1,7 @@
+14443932302|5|2026-08-18|It’s my way|Great app and easy to use
+14443550722|5|2026-08-18|Great service|Food was amazing and customer service was superb
+14442523163|1|2026-08-18|Fail|Used to be so easy to use, but now rewards try to go straight to mobile order and not be able to be used in person.
+14442369516|1|2026-08-18|Drive thru code|Every time I try to get the 6 - digit code to give to the cashier in the drive thru it just keeps refreshing by itself and doesn’t let me get the code and cannot receive any points for ordering in Burger King.
 14441324071|5|2026-08-17|Regular|Love the food always fresh normally missing things but they have no problem giving me what’s missing and sometimes little extra
 14440595538|1|2026-08-17|Awful|The last two times I have ordered from the app I got to the restaurant only to find at least one of my items was no longer available.  Why bother to even have an app when it’s never up to date.  I’m beyond frustrated and ready to just pass BK on my way to Wendy’s…at least their app is up to date.
 14440325179|2|2026-08-17|Trash service|Takes too long to get food when ordered through mobile app
@@ -11,7 +15,6 @@
 14431488322|3|2026-08-15|Tea needs fixing.|I love the app, but when I order unsweet tea it does not notify the workers at the restaurant. It only tells them “tea” so I am always given sweet
 14430999542|1|2026-08-15|BK won't make any $ if you can't pay|The BK consistently fails to add my credit card.  Tried uninstalling and installing fresh.  If I can't pay, you'll never get any of my business
 14428862803|2|2026-08-14|Very slow and buggy. Removed my Offer when the app froze.|Burger King app froze. I had to force quit it. When I restarted, most of my order was there, but my free Fries offer was removed. I didn't notice, so I didn't get it.
-14428219913|3|2026-08-14|Cannot pick drinks|Everytime I order the drink menu is limited to two drinks and there is no drop down for other drinks. Please fix this
 14427938020|1|2026-08-14|Login takes forever|Trying to login and they send verification code which takes forever to receive. Instead of receiving it immediately it takes 5-10 mins so one is to wait for that before ordering? No password option to login.
 14427583530|1|2026-08-14|App not working|I will probably be charged even though app canceled order
 14427117243|4|2026-08-14|Good food|I love the team and their dedication. The food is good and really tasty, you have to try the whopper meals
@@ -45,9 +48,20 @@
 14407500762|5|2026-08-09|Great savings!|I ALWAYS enjoy a deal, and Burger King has them!
 14407480680|5|2026-08-09|3 times a charm|Hey came here to Burger King 3 days in a row the chicken club awesome
 14407360947|5|2026-08-09|Burger King|I love my double cheeseburger Whopper! The App makes it so easy to order and pick it up. The process is surprisingly simple and fast! My order is always ready when I arrive to pick up! Love the App! Thank you!
-14405346698|5|2026-08-08|I love it|I love the rewards
-14404417062|1|2026-08-08|Can’t ever order food|Every time I go to order food the app crashes and doesn’t work. You’d expect better from such a large corporation
-14404385100|5|2026-08-08|I love BK|yum
+eb16ac44-bb7b-4812-b7f5-d3ed211408ae|1|2026-08-19||IM SCREAMING HELP FOR THIS LOCATION. THE MANAGEMENT IS VERY POOR WITH COMMUNICATION. I ALAWAYS SEBD MY FAMILY AND KIDS THERE TO GET FOOD.. I CAN GEAR IN THE BACKGROUND THAT ITS LACK OF CASHIER.. LACK MANAGEMENT WHO WILL LEAVE YOU STANDING AT THE COUNTER. I CAN HEARE IN THE BACKGROUND THE MANAGEMENT WILL IGNORE YOU. THE FOOD NEVER CORECT ONLY A GOOD DAY THE FRIES ARE COOK FRESH OTHERWISE ITS VERY SALTY SALTY.. BAD...THIS LOCATION PHONE IS ALWAYS BUSY FROM OPEN SHIFT UNTIL CLOSING. POOR
+6030c085-8ef6-43b2-8f30-c4742a1ce559|1|2026-08-19||A few days ago we went to B.K. our order was messed up when we got home. Witnesses even were surprised at how sloppy a jalepeno whopper had mustard on the top of the bun. So I left a message but got no call in return.
+0c8104f7-9322-4cfe-904d-2a3c782da9ac|5|2026-08-19||Great employee's ! Great service!!
+dd29a182-dcfd-4f16-8718-c8c51b470251|5|2026-08-19||good food
+92487932-6784-42be-ae8f-361296506a70|5|2026-08-19||It was good.It was fine. It was tasty.
+6ff0c42f-6ede-4134-be72-a704c2b16eef|5|2026-08-19||superb burgery kingness... p.s. only the impossible whopper. every other whopper is made from dead animal flesh which is a sin to eat. other than great stuff man! Hare Krisha!
+b47ac6ff-0ad7-4dcd-8796-09144875e556|1|2026-08-18||Have ordered before with no real issues until today. Home from vacation...app still thinks I'm across the country. The location I've always ordered from no longer offers chicken tenders??? Tried using the support feature, it's an auto program that answers nothing, then closes the conversation even when asking for a person.....went from a decent useful app to garbage in 2 weeks time. What a waste
+0cae3776-2ec4-4012-86f5-1b1b56ae1e35|5|2026-08-18||always gets my online order correct and always pleasant.
+6ce05ab5-77d8-4f07-8595-c533b8e2edb0|5|2026-08-18||easy to use, no hassle login, points show up right away Mom
+d0a39604-acdc-4f83-aa52-f5cc59ba5175|4|2026-08-18||good customer service!!! whoever runs this location trickles down keep it up
+00e84dd3-de7e-4a95-b815-50d773a9c3df|1|2026-08-18||I didn't authorize to download
+be006f2a-a5c7-46e6-a245-5162846bb664|5|2026-08-18||fast and kind service
+33f43e7d-2fe0-4b31-905b-eef5eb08c561|1|2026-08-18||combo promo said 4 dollars but I was charged more.
+5787be21-9904-42cc-b648-6559a0588358|3|2026-08-18||App works fine, but uses 250mb of storage space. Just order thru website instead of installing app.
 50a6b465-e653-4779-beb1-014086943ce1|4|2026-08-18||most of the time the food is hot other times Lukewarm.
 b54b3f71-9369-4e5d-ad1b-d0419dfddbe9|1|2026-08-18||don't need this app
 dd43fdfe-a36c-4a4a-9d0a-018838526c03|5|2026-08-18||it's awesome when you get there your order is ready
@@ -134,17 +148,3 @@ fe6b0ec3-d730-44d2-8c18-d10e45f362d4|2|2026-08-09||check out doesn't work
 cc79e178-df64-4bcb-b16a-321ae67d09bc|2|2026-08-08||decents deals when it actually works. likes to show theres no items on the menu alot then double charge me when i order. real fun
 89524b38-d0fb-4a94-9753-8299252999ef|1|2026-08-08||Burger King loves stealing customers money and refusing to give customers their food. Fraudulent criminal company. Boycott fraud scams company.
 febebffb-8bed-4e11-b77d-d6b7d2ecbd60|5|2026-08-08||Dope app
-107c8523-e0fe-4a8b-8713-dc12eae47dd9|5|2026-08-08||Easy to use and expedites getting your food. It can be ready and waiting for you when you get to BK.
-713f776d-6872-4669-99a9-cf7ba48fa143|1|2026-08-08||they texted me "click here when you're in-restaurant and ready to redeem your FREE classic Whopper" but it was just a deception to get you there. the "free whopper" was just a coupon for your next visit, if you fulfilled the terms. but the link to the terms is broken and there's nowhere where it says how much you have to spend etc. intentionally deceptive. never going to BK again.
-ae2f8ee6-bd69-498e-8350-9831300734d0|5|2026-08-08||other than not being able to use my VA tax exempt on the app as many others.no being able to use 25% off w/certain coupons. I do enjoy the App
-615a06f5-6d15-41a5-8923-512700855105|2|2026-08-08||The app did not show up on my phone.
-d27ed10a-f161-4323-a5dd-e36a8f48bd78|5|2026-08-08||Burger King is King again!!!
-4a8c9c54-da8d-4fc6-831b-8c369c91fa23|5|2026-08-08||Easy to use. Consistent.
-9fb556db-3b3f-4821-b31c-7853c77893ab|5|2026-08-07||I love it!!!
-95dd4d85-2e5c-435b-84cc-8bd2b6ea1042|3|2026-08-07||they forgot to put my chicken wrap in my order
-631865b5-afdd-459c-82fd-a0d940001324|5|2026-08-07||excellent food and crew
-a6f1b860-2b87-45d7-991c-5dc40a461bd2|5|2026-08-07||great service great community good food
-1bc9748f-d85b-471e-9e6f-318ab61acded|5|2026-08-07||my burger king has been getting it right. Thanks for all your hard work! food hot and fresh everytime.
-d89fe7d5-7f2e-4691-a3ce-223bb82eb757|5|2026-08-07||awesome deals
-eb1f0099-7078-43eb-9fa1-fe3fe982932e|1|2026-08-07||I give one star reviews to all apps that nag me for a review
-15727b28-6c95-42d3-8758-7997982b00da|5|2026-08-07||BEST TASTE, BEST VALUE, BEST CUSTOMER SERVICE 😀!
