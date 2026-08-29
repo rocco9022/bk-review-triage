@@ -1,3 +1,7 @@
+14481607267|1|2026-08-28|Login/Sign up issues|says i made an account. never did..doesnt send a recovery code ir nothing and appearantly is a common issue with many saying theres a duplicate account.
+14480550785|1|2026-08-27|Issues with linking account|having issues linking my Walmart + with BK app to receive my discount and I haven’t had any success trying to reach someone to help me with the issue.  but there is no options for you to choose from for my issues.   can’t find a phone number to call and speak with.
+14480136997|1|2026-08-27|The app is not customer friendly|I clicked on an offer and it did not add it to my order. You should make it more user friendly
+14479275454|1|2026-08-27|Charged but don’t receive the food|The app had problems said known issues yet my payment went through but I didn’t receive any food. There’s no one to call the store just said wow that’s not good but that didn’t help me any so I’m out money and didn’t get to eat on my lunch hour this is a terrible app
 14478279233|5|2026-08-27|⭐️⭐️⭐️⭐️⭐️|⭐️⭐️⭐️⭐️⭐️
 14475584316|5|2026-08-26|Bk|Have it your way
 14475405230|1|2026-08-26|Canada isn’t available|I was gonna try out the app and redeem coupons but no where in Canada is an option which is kinda dumb since there’s Burger Kings all over the place
@@ -44,15 +48,17 @@
 14443550722|5|2026-08-18|Great service|Food was amazing and customer service was superb
 14442523163|1|2026-08-18|Fail|Used to be so easy to use, but now rewards try to go straight to mobile order and not be able to be used in person.
 14442369516|1|2026-08-18|Drive thru code|Every time I try to get the 6 - digit code to give to the cashier in the drive thru it just keeps refreshing by itself and doesn’t let me get the code and cannot receive any points for ordering in Burger King.
-14441324071|5|2026-08-17|Regular|Love the food always fresh normally missing things but they have no problem giving me what’s missing and sometimes little extra
-14440595538|1|2026-08-17|Awful|The last two times I have ordered from the app I got to the restaurant only to find at least one of my items was no longer available.  Why bother to even have an app when it’s never up to date.  I’m beyond frustrated and ready to just pass BK on my way to Wendy’s…at least their app is up to date.
-14440325179|2|2026-08-17|Trash service|Takes too long to get food when ordered through mobile app
-14440236289|5|2026-08-17|Stacie was perfect!!|Stacie was so good! She was super nice!
+9996bb8c-0df4-4c78-9238-4555d8f3cf97|5|2026-08-28||munchies
+30e24139-b8be-4089-aeb7-dfc92a627236|5|2026-08-28||easy to use and fast service
+12d68dbb-e131-44b5-864e-de94b73ea87e|1|2026-08-28||tried to place order, asked for GPS location and then placed the order 4 miles from me and there where 3 other burger kings closer how?!?!
+64155a46-c849-4820-abe0-32aa2786fe0b|5|2026-08-28||so easy and the food 🔥🔥🔥🔥 FINALLY BK IS BACK💪🏾😆
+6d0eac28-0134-49cc-80b7-b4eef85a470d|5|2026-08-28||nice
+d068c989-5175-49db-8230-9693d83c04ea|1|2026-08-28||stupid app stopped working galaxy s23 ultra
+01b30216-a85f-4b02-bdc7-5d8e2914f580|5|2026-08-27||pretty handy and great offers!
 d6fd876f-d3e5-459b-b796-46a47b058e1f|1|2026-08-27||the app is always buggy won't let me log into my account it just gives me a create account of option.
 56b0882f-b6fe-4dbd-bd63-f48cb6159c39|2|2026-08-27||the app just won't work on days they don't have drivers. so it won't go through but that is my assumption because the app won't tell you. I talked to support and they couldn't do anything because the purchase didn't go through. I uninstalled and installed it 2x, nothing.
 92be23f2-8a0d-4baf-998f-badefd7eaa97|2|2026-08-27||Why take away the "use in restaurant" option on free fry... I don't want to mobile order, then have my food sit there till it's picked up. Big Mistake
 38f6c4bc-db0c-4d5a-b738-d3139d4283c5|5|2026-08-27||I love whoppers for breakfast 🔥
-4605e1d0-d8ca-4363-882d-52d32d7b367c|1|2026-08-27||BURGER KING'S SURVEY IS A SCAM YOU WILL NEVER RECEIVE YOUR FREE WHOPPER I PROMISE YOU THAT!!!!!!!!!!
 30b6c607-6181-4ddc-a97a-87a32e20e5ed|5|2026-08-27||Greenville location, very friendly excellent customer service:)
 de921ac7-cd26-4c67-87d8-b812fb2230d6|1|2026-08-27||complete scam!!! everything on the app cost atleast $1 more than in the store. u have to spend like $200 dollars to get a free meal. by the time u do that, u already paid for it twice by the upcharge they charge u to use the app. they also wont let u pay with cash in the store. they just want ur credit card info
 21f98674-b9e3-462d-8093-5e1fd0d2ba18|5|2026-08-27||I really appreciate that you have so many options plus then the food was quality it fed me nearly all day
@@ -142,9 +148,3 @@ cbbdc441-239f-452b-8025-ecbed16344ac|1|2026-08-20||can't cancel orders once plac
 36940b00-c88c-4b23-9997-48877384f890|3|2026-08-19||the rewards are nice. but online order sucks. half the time when I hit order, the screen blinks then won't submit the order. the service in restaurants is way too slow to go in and order or do drive thru. so its costing them business
 fb8f27be-3533-47f4-b671-10894c75c1e0|5|2026-08-19||Great discount n good hot food
 15e415e1-6c5e-44e5-bceb-802b92b5dd18|5|2026-08-19||absolutely wonderful
-07f510b6-42f5-4c68-b1db-56a1d07462f2|5|2026-08-19||I LOVE Burger King. They treat you like a true king🥹🥹
-b9b056b6-5314-43bb-b338-9d3788c10137|5|2026-08-19||I really love ur whopper it's tasty& juicy.
-3d6a46a7-2e13-486f-a10b-a3f1f7a06574|5|2026-08-19||Food was fresh and hot, and staff was amazing
-b66505e2-5840-447d-aa60-c5f28b9038e2|1|2026-08-19||if I could do no stars I would for the passed month they haven't been open on time, they have one person working doing all the prep, and taking orders.
-8f79c803-de61-4926-a053-cec168420ff4|1|2026-08-19||They promised me a code for a free Whopper for taking the survey, but never game me the code.
-eb16ac44-bb7b-4812-b7f5-d3ed211408ae|1|2026-08-19||IM SCREAMING HELP FOR THIS LOCATION. THE MANAGEMENT IS VERY POOR WITH COMMUNICATION. I ALAWAYS SEBD MY FAMILY AND KIDS THERE TO GET FOOD.. I CAN GEAR IN THE BACKGROUND THAT ITS LACK OF CASHIER.. LACK MANAGEMENT WHO WILL LEAVE YOU STANDING AT THE COUNTER. I CAN HEARE IN THE BACKGROUND THE MANAGEMENT WILL IGNORE YOU. THE FOOD NEVER CORECT ONLY A GOOD DAY THE FRIES ARE COOK FRESH OTHERWISE ITS VERY SALTY SALTY.. BAD...THIS LOCATION PHONE IS ALWAYS BUSY FROM OPEN SHIFT UNTIL CLOSING. POOR
