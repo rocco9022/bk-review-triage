@@ -1,0 +1,96 @@
+name: Notify novel UX reviews
+
+on:
+  push:
+    branches: [main]
+    paths: [reviews.csv]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Check for novel rows (Recurring=No)
+        id: check
+        run: |
+          # Get lines added in this push that have Recurring=No (col 5)
+          novel=$(git diff HEAD~1 HEAD -- reviews.csv \
+            | grep '^+' \
+            | grep -v '^+++' \
+            | cut -c2- \
+            | python3 - << 'PYEOF'
+          import sys, csv
+
+          rows = []
+          for line in sys.stdin:
+              line = line.rstrip('\n')
+              try:
+                  parsed = next(csv.reader([line]))
+              except Exception:
+                  continue
+              # 0=Date,1=Platform,2=Area,3=Severity,4=Recurring,5=Summary,6=Original,7=Link
+              if len(parsed) >= 5 and parsed[4].strip() == 'No':
+                  rows.append(parsed)
+
+          if rows:
+              for r in rows:
+                  r += [''] * 8
+                  date, platform, area, severity, _, summary, original, link = r[:8]
+                  print(f"• [{date} | {platform} | {area} | {severity}] {summary}")
+                  print(f"  Original: {original[:200]}")
+                  print(f"  {link}")
+                  print()
+          PYEOF
+          )
+
+          if [ -z "$novel" ]; then
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=true" >> "$GITHUB_OUTPUT"
+            {
+              echo "body<<NOVELEOF"
+              echo "$novel"
+              echo "NOVELEOF"
+            } >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send email via Resend
+        if: steps.check.outputs.found == 'true'
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          BODY: ${{ steps.check.outputs.body }}
+        run: |
+          python3 << 'PYEOF'
+          import os, json, urllib.request
+
+          body = os.environ.get("BODY", "")
+          api_key = os.environ["RESEND_API_KEY"]
+
+          html = "<h2>&#x1F195; Novel UX patterns detected in BK app reviews</h2>"
+          html += "<p>The following reviews describe UX/UI problems <strong>not seen before</strong> in the tracker:</p>"
+          html += "<pre style='font-family:monospace;background:#f4f4f4;padding:12px;border-radius:6px'>"
+          html += body.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+          html += "</pre>"
+          html += "<p><small>Sent by the BK Review Triage routine &middot; <a href='https://github.com/rocco9022/bk-review-triage'>repo</a></small></p>"
+
+          payload = json.dumps({
+              "from": "BK Triage <onboarding@resend.dev>",
+              "to": ["leandro.rocco@santexgroup.com"],
+              "subject": "New novel UX review(s) found in BK app",
+              "html": html,
+          }).encode()
+
+          req = urllib.request.Request(
+              "https://api.resend.com/emails",
+              data=payload,
+              headers={
+                  "Authorization": f"Bearer {api_key}",
+                  "Content-Type": "application/json",
+              },
+          )
+          with urllib.request.urlopen(req) as resp:
+              print("Email sent:", resp.status, resp.read().decode())
+          PYEOF
