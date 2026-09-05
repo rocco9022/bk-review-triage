@@ -23,26 +23,16 @@ jobs:
         id: check
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            # Test mode: use a sample feature from the existing CSV
-            features=$(tail -n 2 competitive_tracker.csv | python3 << 'PYEOF'
-          import sys, csv
-          rows = list(csv.reader(sys.stdin))
-          for r in rows:
-              if len(r) < 4: continue
-              r += [''] * 12
-              date, rtype, competitor, feature, category, confidence, _, _, source, link, notes = r[:11]
-              print(f"FEATURE_START")
-              print(f"App/Competitor: {competitor} [TEST]")
-              print(f"Feature: {feature}")
-              print(f"Category: {category}")
-              print(f"Type: {rtype}")
-              print(f"Source: {source}")
-              print(f"Link: {link}")
-              if notes.strip():
-                  print(f"Notes: {notes}")
-              print(f"FEATURE_END")
-          PYEOF
-          )
+            # Test mode: hardcoded sample so email always fires
+            features="FEATURE_START
+App/Competitor: McDonald's [TEST]
+Feature: Ready on Arrival geofencing — kitchen starts your order when your phone enters the parking lot radius.
+Category: Ordering flow
+Type: Announced
+Source: PYMNTS / App Store reviews
+Link: https://www.pymnts.com/restaurant-innovation/2024/mcdonalds-says-geofencing-technology-helps-boost-customer-satisfaction/
+Notes: Customer satisfaction improved and drive-thru wait times reduced by 60 seconds for curbside orders. Frictionless once location permission is granted.
+FEATURE_END"
           else
             # Normal mode: diff the push
             features=$(git diff HEAD~1 HEAD -- competitive_tracker.csv \
@@ -85,7 +75,8 @@ jobs:
             echo "found=true" >> "$GITHUB_OUTPUT"
             {
               echo "features<<FEATEOF"
-              echo "$features"
+              printf '%s' "$features"
+              echo ""
               echo "FEATEOF"
             } >> "$GITHUB_OUTPUT"
           fi
