@@ -1,3 +1,10 @@
+14520842911|4|2026-09-07|Food|Most of the time my food is made to my order and fries are nice and fresh but I’d say about 10% of the time that is not the case, would still order from there. BK rules
+14519443086|1|2026-09-06|Can’t sign in|I try to login. It says create account. So I click that. Then it says contact support because you have an account (but wasn’t an option earlier!). Contact support ALWAYS FREEZES. Can’t type or choose options
+14519404568|1|2026-09-06|Don’t ever order through the app|If you place an order through the app directly and there’s a customer service issue, you absolutely get screwed and have no recourse even when the issue falls 100% on BK, their stores and outsourced services.
+14519357984|5|2026-09-06|Nice|Good service
+14518540668|5|2026-09-06|Great deals on the app|Always good deals!
+14518275460|1|2026-09-06|New Receipt Survey Issue|Why change the survey receipt? It became more difficult to redeem due to logging in email again multiple times. Why not connect to this app? Why does have to be non mobile link? I prefer getting code and write it on the receipt instead getting redeem link from email.
+14518018280|5|2026-09-06|Decent|It’s a good reliable app   Watermelon sock (just added this so you know this isn’t an ai review or a bot)
 14515609880|1|2026-09-05|Horrible sign up process|I tried signing up but it states there’s already an account and only loops me through sign up process. The contact support button doesn’t work and trying to message developer through the App Store is also difficult.  I tried deleting my account but their privacy team stated there is no account. It also says to reply to email if I have any additional questions. However, the privacy request site doesn’t allow you to respond and the email that delivered the link is a no-reply link. Just horrible UX all around.
 14515452674|5|2026-09-05|Burger King|The food was great, although we were missing the dragon ball drink and the toy from the dragon ball chicken nugget meal, we still loved all the food!
 14515165991|5|2026-09-05|Glynn|I have been to many BK’s but the one in Frankfort Ky on Arrowhead ct is by far the best I have eaten in!
@@ -41,16 +48,17 @@
 14495709933|1|2026-08-31|Stop telling me there is a closer location|Title. You keep telling me there is a closer location, let me opt out the location sucks!
 14493859806|5|2026-08-31|They not bad|The food came out fresh the workers are nice and funny! They did their job right and they don’t curse a lot i would definitely recommend coming here
 14493399272|4|2026-08-31|Chicken biscuit|Put it on the app so I can order it online if it’s gonna be made to order. I don’t got time for all that
-14492223138|5|2026-08-30|I like|Good
-14491989741|5|2026-08-30|Better than McD|After having used McDonalds app and noticing how their rewards system is complete garbage. I deleted it and came back to Burger King because.. who’s better than the KING OF BURGERS!!
-14491801970|5|2026-08-30|Burger King|App works perfectly, ordering is easy and the restaurant does a great job get the order accurate and timely. Thank you!
-14491190826|1|2026-08-30|Dine in|Manager looks like she’s on something moving real slow
-14490775426|5|2026-08-30|Best|Just need better rewards
-14488450765|5|2026-08-29|Fantastic Place With Fantastic Foods 🫡|The employees are amazing and the food is delicious 🤤
-14487865447|2|2026-08-29|rip|Other than the tiny bone pieces I had in my 3 nuggets the recipe change for the sweet and sour is not something I enjoy anymore, used to love getting nuggets sinc pairing it with that sauce was amazing. Besides the fries I dont think i’ll be ordering any of the foods that are better enjoyed being dipped into the sauces and now the only things I have left to enjoy are the burgers and shakes.
+d7e9e93e-7eab-4d59-8786-ae2079764044|1|2026-09-07||Logs me out all the time. Support sucks. Don't recommend.
+12d99e2a-0a70-466d-a7c5-a542a13ba5c7|5|2026-09-07||Great people always nice and hot
+d01ca155-3490-4f23-a391-c3c6e6fd9536|1|2026-09-07||app functions, but actual store/restaurants do not. App support is slow and worthless to get anything resolved real time.
+933e2d81-6979-40cf-afe0-abfdb608f330|5|2026-09-06||great food and good service
+be541846-8cd7-4ecd-89d1-5bc2377242d5|1|2026-09-06||wouldn't recommend it used it 2 times and it put my order 30 miles away from my closet burger king couldn't cancel the order before it was to late
+3d11d12c-8d59-4d94-b133-119c4872b917|5|2026-09-06||stop running out of what you have on the meals please
+e273444e-2863-4b48-8bcd-ec4cb286bae5|4|2026-09-06||works ever time !
+6bb27e6c-a26d-4103-a8f4-2a5d763001f5|1|2026-09-06||always glitches when you try to order the trio now
+349502d4-84a8-4421-a4fc-feda64ebfc2b|5|2026-09-06||I love me the kang
 35359a86-d619-4301-a004-7bfb333d6e2f|5|2026-09-06||IF YOU HAVEN'T BEEN TO BK AND TREATED YOURSELF TO THE NEW TASTE OF THEIR MENU THEN YOUR ABSOLUTELY MISSING OUT!! BK RULES!!
 6e46afd0-914c-459f-92cf-9069727e97b2|4|2026-09-06||very good memories 😊 .
-70ad7fb0-5ba6-4ea0-a848-5ee33dd121ae|1|2026-09-06||they gave me the wrong food and no drink after waiting 30 minutes in the lobby bc they didntc myname& when I used support My ticket was closed for a single swear word and then I couldn't open one again, because it was marked as closed. so now I have to file a dispute with my payment processor. The app is really slow especially when you have deals in your cart. if you change from drive-thru to in-store at the same store, it can wipe out your deals, specifically the Walmart plus 25% off. 0 stars.
 b28d9c66-ba19-4bf0-9447-8c9bc7502966|5|2026-09-06||I love ❤️ the whopper my whole life reminds me of my mom r.i.p😌💯🙏🔥
 44a60ec5-e1e5-48a7-a951-9d2d87e54de7|5|2026-09-06||I love burger and the freshness and taste. Quality is top of the line majority of the time.
 6652b668-a8ab-4acc-aed8-06bf3695ed70|4|2026-09-05||Love the app and service, the fish sandwich is just ti soggy.
@@ -64,7 +72,6 @@ c4341b69-3322-4f53-a020-e6d13ea9634e|1|2026-09-05||I downloaded the app and neve
 570ab54f-f781-4c16-911d-7bbe6e959e90|5|2026-09-05||Love my order waiting for me.
 572154ca-8dac-42c1-8773-7c1d68f50e85|1|2026-09-04||The chicken burgers had barley any lettuce. Halfsies were dry and tastless
 57e34db5-1cf2-4639-ae73-cfa9818a37a3|1|2026-09-04||use the app get your food last every time.
-979b6052-9160-45c9-9273-fda9569fa0cd|5|2026-09-04||yes I love this app
 55485b99-fba5-4fcc-8fa9-3737e9a7fabe|5|2026-09-04||love the app. food is ready when I get there!!!
 50d26076-3059-42fe-afd5-092fa14db1cf|5|2026-09-04||I really like the burger king app! it's super easy to use, the point system is awesome, I love the rewards and the badges are fun to earn.
 b1887589-aa01-4bde-be1c-8d6e233aa8c7|5|2026-09-04||Please Add ROOT BEER. 🙏🙏🙏 Nice collab with Walmart+.❤️ -updating to say that the app has root beer now! 🥰
@@ -141,10 +148,3 @@ ef3dc093-0fdc-4291-8bbb-887d18551c6a|5|2026-08-29||💯
 d889c050-6675-4ece-83bc-47bff8d764db|1|2026-08-29||$12 extra just for delivery on a meal is ridiculous yes I have the money but that's not the point you are price gouging plain and simple I can go to the competition and get more food for the same price and still get the burger exactly as it would have been,I can kinda understand charging more for delivery but to upcharge on the meal and then up charge again on delivery is ridiculous
 3fcf2fcf-c9fb-4f1f-be66-373cdbe599f1|1|2026-08-29||Your support is awful. the robot always says it'll connect w a person then ALWAYS closes the support chat. how can I tell what this random receipt is for I'd neither email nor the app will tell me???????????????? Customizations have gotten less restrictive, but I can't use a coupon and get a duo meal or online exclusive bundle. wendys, taco bell, and mcdonalds all let me use a coupon and get a meal bundle. I can't even use a whopper meal coupon for an impossible whopper
 1aab3c31-2552-4833-990b-57b6d2d19fce|5|2026-08-29||convenient and you get rewards points lol
-fd604e2f-fd19-4202-88e5-453805da02b7|4|2026-08-29||ordered W/O pickle, but still there!
-4de50955-4a50-4729-86c5-696002241c03|5|2026-08-29||amazing service
-3af59298-ff08-44a5-a47f-9b4d3d4e242e|5|2026-08-29||makes ordering so much easier!
-fb6cabdf-0d0c-45cb-ac15-09cb7a4c3f0d|5|2026-08-29||It is good to order in this app because you can be reminded what options younhave better than telling thrm to take your order.
-941a8561-9d31-4086-9f6f-5246ec51a423|2|2026-08-29||the application itself has too many bugs and freezes too often.
-1feebdff-cf67-42f3-bebb-a19df3de73cc|5|2026-08-29||where is my code .
-fbda9b6b-2958-4d5f-9147-9538bced25cb|5|2026-08-29||great taste good value 👌
