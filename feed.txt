@@ -1,3 +1,6 @@
+14527512986|5|2026-09-08|You the best bro|Amazing
+14527268898|5|2026-09-08|Amazing|I love the Impossible Whopper. I choose Burger King over McDonald’s any day.
+14525617867|5|2026-09-08|Service|Always fast and nice. Great timing to online orders. Very pleased.
 14523180988|3|2026-09-07|WHERE ARE THE NEW NUGGETS|Please get them on the app fam
 14522788030|5|2026-09-07|Yep|Works
 14520842911|4|2026-09-07|Food|Most of the time my food is made to my order and fries are nice and fresh but I’d say about 10% of the time that is not the case, would still order from there. BK rules
@@ -45,9 +48,19 @@
 14498364513|1|2026-09-01|Horrible!!!|When trying to update information, you are given the runaround. You shouldn’t have to be logged off to update information…
 14498150176|4|2026-09-01|Have it your way|Great people freshly made food
 14497750749|5|2026-09-01|Whopper|I have loved Whoppers for 60 years. They are the best thing that never changes.
-14496960048|1|2026-09-01|Worse app|I can’t even log in to my account on app it keep asking me to create account when I made one . I is broken and will never work .
-14495986885|5|2026-08-31|Always fast|Love the drive through it’s so fast
-14495709933|1|2026-08-31|Stop telling me there is a closer location|Title. You keep telling me there is a closer location, let me opt out the location sucks!
+a22a8651-7057-4eb5-903d-b2c0a38a61b6|5|2026-09-09||works well, points refresh quickly
+c18f5a1c-1b50-4eaa-9f0b-2182c92960ad|5|2026-09-09||Simple, quick, but my order isn't always correct.
+028e4306-8235-4ced-a56e-3507aab4aae6|5|2026-09-08||love the deals and free food
+edd8453c-0d18-4e81-85e9-2d2d5564f186|5|2026-09-08||App works fine...various options and points accumulate quickly.
+05f5860b-7632-4478-9fda-9ffa013599c3|1|2026-09-08||Try to make order. Says there's no account. Try to make an account. Says there's a duplicate account, contact customer support. Customer support refers me back to login. 👍
+b9b9cd9d-3413-4f01-8a27-cd54bfc99899|1|2026-09-08||No refunds after making order. I had slow internet in the area leaving work and the pictures wouldn't load. I made an order for a bacon cheese burger when I wanted the bacon king. There are no ways to refund orders made through the app.
+3c62182e-c360-4508-bec7-c8faafc9501d|1|2026-09-08||never works. circle of death trying to load my order that was clearly already loaded on the screen for 5 minutes. DO BETTER OR IM CALLING WENDYS ON YOU!!!
+177efba3-d79e-47f8-8121-a2c2264d6268|1|2026-09-08||This app is broken. Asks me to log in, only gives the option to create an account. Tells me I have an account already, but there's no where to log in. Then tells me there's an error and I can't create a new account with a different email
+53356731-e96b-4e73-bb84-07419301bd80|1|2026-09-08||app never works. it always says there is an error with my card. I've tried multiple cards and it says the same thing. for over two years I've never once been able to order using the app.
+46dabc4a-0225-409d-9b5c-237f64223943|2|2026-09-08||it says that I need to complete my profile which I did. but the update button doesn't let me click it.
+45a9abb0-01b9-4d9b-845e-e4a26f606459|1|2026-09-08||i order from your Buger king app i wanted delivery not to pick up.I don't drive. I ordered from doordash instead.
+d29b6243-f1f9-4830-a7b5-34db6cb75ed6|3|2026-09-08||Hit or miss
+a1017bd8-9b34-4128-a1dc-3c023b1b1030|4|2026-09-08||wish it would let me change my sides for meals to motz fries in app. But other than that the app is a good experience. good deals. but always the same. McDonald's deals change by the day so you never know what you will get.
 e33cc453-25d1-4e16-8cec-2a8b5564dc04|1|2026-09-08||payment system is trash
 6eeab6a9-4c63-4e29-8045-f1d49ae072b3|4|2026-09-08||needs better deals on the app.....8 dollars for a basic sandwich 🍔 is wild what happen to the 99. whopper 8×s the price and stilling the same sandwich...
 3f268bb3-8e49-40e7-8252-160c1367ce98|5|2026-09-08||love the app - love the deals
@@ -135,16 +148,3 @@ b79d2c69-fb66-4c4a-99f9-8714b3416513|1|2026-09-01||Just lists "toy" for the kids
 d5ffb1df-6d54-4659-9429-e36706f053a8|1|2026-09-01||Extremely disappointing app. Deals suck. Points system sucks. Points SHOULD NOT expire! I was going to use my points yesterday (last day of the month), but ended up staying home bc I didn't feel well. So, I lost them. I'm going to keep the app only until my birthday to see if I can get a freebie, then uninstalling. Congrats on being worthless people.
 7667d100-845c-42ec-80c0-760bb096d18d|5|2026-09-01||good food and great service!
 e644915e-fe1b-4ce3-ba56-7d2df19c721d|5|2026-09-01||always fresh food easy to redeem points
-b4bbbcc6-5a99-4068-84f4-498fb4d346de|5|2026-09-01||awesome
-f1bfc0b6-9a66-4743-8260-5dc5c45821cf|5|2026-09-01||the burger was made my way and the place was very clean and the people worked there were very nice
-aa446ec0-4601-473d-9a42-f1134c5b0c02|1|2026-09-01||They have the worst delivery system and communication. They use doordash to deliver. I tried contacting the driver to ask if her to not forget make my drinks, which the always do. She didn't respond or pick up. When she arrived I was called out my name & food shoved at me. I tried reporting it on the app and the bot just closed out the conversation and said resolved. No way to report to doordash either. Shame on you BK, I guess its only YOUR WAY!
-a6161a2a-6a46-4285-a828-7302f3f5ccfc|5|2026-08-31||Once I started using the app, I personally love it. It saves me a good bit of money.
-386f9473-1619-4754-8284-bf0898882157|5|2026-08-31||happy
-f727b419-1f01-4d1e-be15-ef33aa2b538b|5|2026-08-31||The easiest Fast Food app to use and redeem rewards with.
-487411ab-eb0f-44af-b472-c504f8284624|1|2026-08-31||wish I could do 0
-0282947e-cd6e-4f2b-93ff-75311f3fd493|5|2026-08-31||Affordablilty is really a thank you. Under 10. Five saves me thank you.
-d1060987-8956-4e11-a97e-926b8cdddd6b|1|2026-08-31||I did the survey like I always do n I didnt get a validation code it said download the burger king app
-bd7f3335-7d5d-489b-a115-017138a128a7|2|2026-08-31||Tried to place an order but 2 meals that supposed to be like 50 bucks were 230 at checkout. maybe it's a technical issue, maybe not. But unfortunately couldn't get any support from their help center and couldn't place an order. Really bad app.
-3d838c47-69f7-4491-a248-23b9def2280a|3|2026-08-31||the app works perfectly fine the employees still mess up the orders lol
-0225308c-8f33-4fd5-86c2-a191158e6f51|5|2026-08-30||use the app and get points for free food and the prices are great also
-f8e6e9b7-f8b5-45fc-959e-566533e09139|4|2026-08-30||good deals and fast 😁
