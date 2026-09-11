@@ -1,3 +1,8 @@
+14531208468|1|2026-09-09|Promociones que no se pueden obtener .|Son una mentira las promociones cuando estás ahí y quieres canjearlas la aplicación no permite , lo intento dentro del restaurante en el kiosko o con la cajera y tampoco lo logran hacer , me párese un tipo de publicidad fraudulenta o engañosa para los consumidores .
+14531165012|4|2026-09-09|Take out order|Had to wait 15 minutes because staff was so disorganized
+14530793950|1|2026-09-09|Coupon offer|I was promised a coupon when I had a problem with my order. It never showed up in my app and now I’m told I can’t get the coupon reissued.
+14530465918|1|2026-09-09|The reason the rating is low|The app is one thing , but biggest issue is the restaurant itself because you don’t get your order the right way or even hot.
+14530148027|1|2026-09-09|Poor Customer Service|The app is great! However, the service is horrible. I arrived at the establishment 2 minutes after placing my order. I did literally did not receive my order until 20 minutes after placing the order. I witnessed the employees arguing with each other, ignoring customers, and to top it all off…. MY ORDER WAS WRONG.
 14527512986|5|2026-09-08|You the best bro|Amazing
 14527268898|5|2026-09-08|Amazing|I love the Impossible Whopper. I choose Burger King over McDonald’s any day.
 14525617867|5|2026-09-08|Service|Always fast and nice. Great timing to online orders. Very pleased.
@@ -43,11 +48,19 @@
 14503605178|5|2026-09-02|Loving i|Burger King Rules!
 14503561921|5|2026-09-02|Burgers are great|Flame broilers tastes especially good,
 14503557508|5|2026-09-02|Food was great|everything here is nice and employees are very sweet. best bk in pensacola
-14502571721|5|2026-09-02|Great|Every thing was on point even the worker
-14502384467|1|2026-09-02|Fed up of chat bots|All I wanted to do was change my order from drive-through to in-store pick up because the drive-through was backed up. Instead of making a simple selection to do so like I can on every other major fast food app, I have to talk to a fake chat pod that doesn’t actually let me type. It gives me a list of four options, and none of them even let me change though pick up method. There is no need for me to talk to your garbage, fake AI, just give me a menu to select options from.
-14498364513|1|2026-09-01|Horrible!!!|When trying to update information, you are given the runaround. You shouldn’t have to be logged off to update information…
-14498150176|4|2026-09-01|Have it your way|Great people freshly made food
-14497750749|5|2026-09-01|Whopper|I have loved Whoppers for 60 years. They are the best thing that never changes.
+3d563549-a577-47fc-82a0-c8503bf7a918|5|2026-09-10||So easy and Helpful. Saves Time Too.
+da0a09b0-4acd-48bb-8729-9b2706e6848a|5|2026-09-09||lovvvvvvwweeeeeee it.
+3800fd82-6c82-4789-9993-31d252518949|1|2026-09-09||difficult to place mobile order.
+24720d38-860d-4ef2-adba-e0fbd3a9f6f3|5|2026-09-09||well, I'm sad that prices are so INCREASED. I'm not what you'd call "set for life", which WOULD be nice.
+9ff0c3bc-22ca-458a-a0af-089cc28e1101|3|2026-09-09||ok
+4d9f9d9c-ec45-4674-8a2c-ba1e3dfbb4b1|5|2026-09-09||love 25% off with walmart+
+dc101e6a-6f46-4e3e-9d79-3253e46e73c3|5|2026-09-09||y'all are excellent and good service
+793f6e5b-ea2b-42a7-b398-dee5631333c5|3|2026-09-09||the app is not user friendly.
+fd1a9acb-d632-40c8-b8da-426d2f8ba853|1|2026-09-09||Doesn't let you sign up at all? No matter what email you put it under, it will tell you that you already have an account under that email. if you go to support and ask to talk to a human, they won't give you a human. They'll just close out what you said. And completely ignore it. no matter how many times you say you have an issue, they will tell you. It was resolved automatically. Even though you don't have an account under them, it'll tell you that you have an account edit: it was up to date.
+33dd321e-5188-43bc-9643-ec62354ceaa4|2|2026-09-09||this whopper was trash bottom piece of bread was stale and hard
+2a268a18-d700-4a39-90b5-034aa3786ef4|5|2026-09-09||very good service
+3ac64828-568b-4d03-b147-f502aef873e3|2|2026-09-09||app has been awesome for years, now when I use the trio deal I can select my 1st item just fine, but trying to choose the other 2 items it is barely on my screen, it will be to the right so far I cant even see the items
+82a4e883-5ac5-4724-9e3f-bf7abd72e6e2|5|2026-09-09||Always Delicious 😋 Yuuuummmmmm
 a22a8651-7057-4eb5-903d-b2c0a38a61b6|5|2026-09-09||works well, points refresh quickly
 c18f5a1c-1b50-4eaa-9f0b-2182c92960ad|5|2026-09-09||Simple, quick, but my order isn't always correct.
 028e4306-8235-4ced-a56e-3507aab4aae6|5|2026-09-08||love the deals and free food
@@ -135,16 +148,3 @@ fb24bb6d-e11b-4952-8156-d389e6a5386b|5|2026-09-02||Very friendly every time I'm 
 a93df2df-042c-4beb-8cb8-74ed9cb6d9a7|4|2026-09-02||cool app
 e8d09a2c-4198-4d05-bbce-6967acf3962c|1|2026-09-02||Bring back the Ultimate Breakfast Platter!
 acb2f5ca-2761-4589-9bae-5d2b62e948ab|1|2026-09-02||VERY HAPPY someone added a NO ICE feature-I requested feature to be added on your Beverage Menu!!! Your Freestyle COKE tastes horrible, every nasty flavor poured through Freestyle nozzle is in COKE. Dr. Pepper, a good alternate lately also weird taste at BK. I really don't want to BRING my own CAN or BOTTLE of COKE from my CAR as I now seeing many others are doing because your Freestyle COKE is SO BAD. Much easier to make own Burger and Fries at home, and enjoy COKE that tastes like real COKE.
-8e53ad00-c758-45a2-9bc4-1d2f3aa4cb7c|5|2026-09-02||good app.
-774301e8-3ea6-49ab-ad26-8be82de32893|4|2026-09-02||I wish it were easier to redeem points off a recept.
-065c2eb8-80a5-4bfd-8fcf-3bb9fd9b7894|1|2026-09-02||Did not receive my order, no help from customer service. I was told pictures were sent and it was delivered to an address no one would tell me where. I didn't receive a refund. I really don't recommend. not the first issue I've had with Burger King. not happy with DoorDash either. i'd rate this less if it would let me.
-fb4fe8b0-536f-4881-a21e-ff402c7d4471|4|2026-09-01||Good deals
-882a3074-b06a-4e32-ba5e-916614c10036|5|2026-09-01||Tast aroma smell,Gratafis the tast buds.p
-8de29145-1af3-4b56-bb51-38480da987c6|1|2026-09-01||Instead of making cute little graphics for the app, how about you make it work. Trying to place an order for 20 minutes because it keeps freezing when the panel needs to slide over. When I back up it clears the order. Super fun. Amazing you guys want a cute app so badly I'm about to throw my phone and stop ordering your food (THE PRODUCT YOU SHOULD CARE ABOUT), because your app needs to be super cute. A burger is not worth this frustration.
-8dc83592-32bb-4b65-8b3d-2a4f5f2a295a|5|2026-09-01||one of the Best restaurants
-abf92d57-04a1-4ac3-bb21-74bb6e42aee8|1|2026-09-01||YOU CANNOT USE THIS APP IN THE DRIVE THRU. Such a Horrible app, such a waste of time. I even had to call them to ask how to use the app, and they basically told me it sucks and doesnt work. You have to either put the order thru before you leave your house completely so the food is cold when you get there. or you have to park when you get there, fully order on the phone. then go into the store.
-b79d2c69-fb66-4c4a-99f9-8714b3416513|1|2026-09-01||Just lists "toy" for the kids meals. The McDonalds app lists exactly which toy you'll get. For kids or collectors, this makes it hard to know what you're getting.
-2b78c3c4-4732-4b66-a3a7-2c9efcc36eab|5|2026-09-01||Burger King on Hurstbourne is our go-to place for a quick, economical lunch. Food is good, service is great. Shout out especially to Charley and Jennifer but they have a fantastic staff behind them.
-d5ffb1df-6d54-4659-9429-e36706f053a8|1|2026-09-01||Extremely disappointing app. Deals suck. Points system sucks. Points SHOULD NOT expire! I was going to use my points yesterday (last day of the month), but ended up staying home bc I didn't feel well. So, I lost them. I'm going to keep the app only until my birthday to see if I can get a freebie, then uninstalling. Congrats on being worthless people.
-7667d100-845c-42ec-80c0-760bb096d18d|5|2026-09-01||good food and great service!
-e644915e-fe1b-4ce3-ba56-7d2df19c721d|5|2026-09-01||always fresh food easy to redeem points
