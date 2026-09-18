@@ -1,3 +1,6 @@
+14558544455|1|2026-09-16|Doesn’t matter|It does not matter if your app works or not if your damn employees are dumb as a bag of hammers and can’t be bothered to prepare food consistently or remember to put your sauce for nuggets in the bag!
+14558070959|1|2026-09-16|Too expensive, food too small|Food is way too expensive and the patties, everything has shrunk.smaller than child size. For over regular adult prices.
+14557746642|5|2026-09-16|The best|🔥🔥🔥
 14555366369|5|2026-09-15|Amazing|❤️
 14554776367|4|2026-09-15|Reseña|Antes tenías muchas promociones y cupones ahora ya no
 14554683329|5|2026-09-15|Most Improved Fast Food|I recently tried Burger King again after reading good things on Reddit and they had very good deals for Burger week. At a time when McDonald’s has become outrageously expensive and even worse quality,, Burger King was great with flavor and price.   Since this is an app review, I found the app very intuitive to use. The slider control was very smooth, nice user interface with appropriately sized and styled photos. The combination item pictures are perfect and definitely influenced me to get apple pie and ice cream. Very good job BK team :) there were no issues that I could see upon using the app.   Net promoter score 90%
@@ -45,9 +48,22 @@
 14519357984|5|2026-09-06|Nice|Good service
 14518540668|5|2026-09-06|Great deals on the app|Always good deals!
 14518275460|1|2026-09-06|New Receipt Survey Issue|Why change the survey receipt? It became more difficult to redeem due to logging in email again multiple times. Why not connect to this app? Why does have to be non mobile link? I prefer getting code and write it on the receipt instead getting redeem link from email.
-14518018280|5|2026-09-06|Decent|It’s a good reliable app   Watermelon sock (just added this so you know this isn’t an ai review or a bot)
-14515609880|1|2026-09-05|Horrible sign up process|I tried signing up but it states there’s already an account and only loops me through sign up process. The contact support button doesn’t work and trying to message developer through the App Store is also difficult.  I tried deleting my account but their privacy team stated there is no account. It also says to reply to email if I have any additional questions. However, the privacy request site doesn’t allow you to respond and the email that delivered the link is a no-reply link. Just horrible UX all around.
-14515452674|5|2026-09-05|Burger King|The food was great, although we were missing the dragon ball drink and the toy from the dragon ball chicken nugget meal, we still loved all the food!
+8837c1d3-966d-4684-8f4c-9d4b09297b68|5|2026-09-17||for the first time here of many I like always had to just drive up to the window because I drive a moped and most drive through's can't pick up a moped so while I was sitting there I had a bright idea I know they won't pick my scooter up hey you have a Burger Kind app so I just drove around to the window after making my online order she opened the window and I said pick up order for john she smiled and turned put my sandwiches in a bag and gave me the bag then said have a nice day
+0e128b9c-12a1-45a2-8304-a98f1f5f8e10|5|2026-09-17||Easy app to use! Order before going through the drive through.
+675702ca-4100-4f3b-9c8c-7fd22ad51de7|5|2026-09-17||easy to use and get your points
+010a03c4-1d67-4bdd-97bc-aa0bfc22918e|5|2026-09-17||very happy
+37a26dba-20ec-4886-94b8-24bc3ebfb43a|5|2026-09-17||Burger king has really surprised me. I went there yesterday and I had a whopper. I haven't had one since probably a good year. If not longer, I was extremely impressed on the size of the patty, the flavor the texture and how it was put together. I do like the cardboard box.
+64422e11-5056-4ff3-b881-dd45d528ca51|1|2026-09-16||my buger was still raw
+55288295-d12a-4960-a198-f44f412e847e|5|2026-09-16||whopper , nothing like it, best burger ever
+c25db326-bd26-4c50-917e-27ae0e80ab30|5|2026-09-16||please change your log in /create account button. I can't log in because it keeps telling me I'm creating an account when just trying to log in. separate functions included in this button. each side should be able to direct me to the respective actions I need. I have a 2026 model phone, I'm not the issue or the cause of this.
+72aa3169-0d4a-4bac-97ff-d701fe8fc777|5|2026-09-16||I love it
+c7de073e-384d-4690-9df4-6771fc10d1b5|5|2026-09-16||I love this app.
+e718ed36-e8c0-4bd8-90d6-24e5f734ebc0|1|2026-09-16||dogcrap app. says duplicate email no matter which address i use
+dfa8790a-a120-496f-be42-e42cbdd09275|1|2026-09-16||Horrible update. No longer successfully processes credit cards via Google Pay. Tried 3 known good cards, all timed out and Google Pay has to process a refund. Needs fixing ASAP!
+a283a58a-38a0-480e-a3f0-a44bc4a72e4c|3|2026-09-16||ordered on line checked in gave name and waited 20 minutes asked again and it was there waiting. never called my name. food was cold.
+6795c289-6e23-49d8-9ef1-c2d2df1da680|5|2026-09-16||Sending me push notifications with deal reminders in the exact time frame I typically place app orders on my way in to the office? Brilliant! *tips hat to development and/or marketing team*
+2dd32cfb-9224-4bee-bb03-cc7e49bf3371|5|2026-09-16||Good service and friendly staff.
+e123ccd7-f3e7-4259-820d-9be636483bc9|1|2026-09-16||Cant check out due to a RpcClientException
 46fc2497-624c-4361-a3da-a715cdf2e2c6|5|2026-09-16||every single one of the ladies were so nice store very clean my favorite place to be thanks ladies
 af337c0c-933e-4022-86f8-9668d794766e|1|2026-09-16||go back to the paper coupons, the app won't let me choose location. didn't even get to redeem coupon as I don't live in Indiana
 ff71cea9-f6da-4f19-8fcb-aaed7a8219ff|5|2026-09-16||nice deals
@@ -132,19 +148,3 @@ da0a09b0-4acd-48bb-8729-9b2706e6848a|5|2026-09-09||lovvvvvvwweeeeeee it.
 3800fd82-6c82-4789-9993-31d252518949|1|2026-09-09||difficult to place mobile order.
 24720d38-860d-4ef2-adba-e0fbd3a9f6f3|5|2026-09-09||well, I'm sad that prices are so INCREASED. I'm not what you'd call "set for life", which WOULD be nice.
 9ff0c3bc-22ca-458a-a0af-089cc28e1101|3|2026-09-09||ok
-4d9f9d9c-ec45-4674-8a2c-ba1e3dfbb4b1|5|2026-09-09||love 25% off with walmart+
-dc101e6a-6f46-4e3e-9d79-3253e46e73c3|5|2026-09-09||y'all are excellent and good service
-793f6e5b-ea2b-42a7-b398-dee5631333c5|3|2026-09-09||the app is not user friendly.
-fd1a9acb-d632-40c8-b8da-426d2f8ba853|1|2026-09-09||Doesn't let you sign up at all? No matter what email you put it under, it will tell you that you already have an account under that email. if you go to support and ask to talk to a human, they won't give you a human. They'll just close out what you said. And completely ignore it. no matter how many times you say you have an issue, they will tell you. It was resolved automatically. Even though you don't have an account under them, it'll tell you that you have an account edit: it was up to date.
-33dd321e-5188-43bc-9643-ec62354ceaa4|2|2026-09-09||this whopper was trash bottom piece of bread was stale and hard
-2a268a18-d700-4a39-90b5-034aa3786ef4|5|2026-09-09||very good service
-3ac64828-568b-4d03-b147-f502aef873e3|2|2026-09-09||app has been awesome for years, now when I use the trio deal I can select my 1st item just fine, but trying to choose the other 2 items it is barely on my screen, it will be to the right so far I cant even see the items
-82a4e883-5ac5-4724-9e3f-bf7abd72e6e2|5|2026-09-09||Always Delicious 😋 Yuuuummmmmm
-a22a8651-7057-4eb5-903d-b2c0a38a61b6|5|2026-09-09||works well, points refresh quickly
-c18f5a1c-1b50-4eaa-9f0b-2182c92960ad|5|2026-09-09||Simple, quick, but my order isn't always correct.
-028e4306-8235-4ced-a56e-3507aab4aae6|5|2026-09-08||love the deals and free food
-edd8453c-0d18-4e81-85e9-2d2d5564f186|5|2026-09-08||App works fine...various options and points accumulate quickly.
-05f5860b-7632-4478-9fda-9ffa013599c3|1|2026-09-08||Try to make order. Says there's no account. Try to make an account. Says there's a duplicate account, contact customer support. Customer support refers me back to login. 👍
-b9b9cd9d-3413-4f01-8a27-cd54bfc99899|1|2026-09-08||No refunds after making order. I had slow internet in the area leaving work and the pictures wouldn't load. I made an order for a bacon cheese burger when I wanted the bacon king. There are no ways to refund orders made through the app.
-3c62182e-c360-4508-bec7-c8faafc9501d|1|2026-09-08||never works. circle of death trying to load my order that was clearly already loaded on the screen for 5 minutes. DO BETTER OR IM CALLING WENDYS ON YOU!!!
-177efba3-d79e-47f8-8121-a2c2264d6268|1|2026-09-08||This app is broken. Asks me to log in, only gives the option to create an account. Tells me I have an account already, but there's no where to log in. Then tells me there's an error and I can't create a new account with a different email
