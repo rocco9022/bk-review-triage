@@ -1,3 +1,6 @@
+14570443826|5|2026-09-19|Amazing service|Had such a great service.
+14570131234|1|2026-09-19|Allow multiple separate offers in one order.|Fix your app. It's ridiculous that you have all these offers to get people to order from you but the only way to order them is one at a time every hour. If you're going to offer a free item that requires a $3 purchase to get it, don't limit what I can buy with that $3.
+14567623609|5|2026-09-19|Bkapp|Easy to use great deals
 14566122874|1|2026-09-18|Alina|I placed an order today totaling $60, including delivery, but the water and ice cream were missing, as well as the toy my child was really looking forward to. I’m sorry, but I paid for these items with my own money. This is the second time this has happened.
 14565902512|5|2026-09-18|Great|Greater
 14565866930|1|2026-09-18|Wrong Order|I ordered using the app and paid. By the time I went to store I picked up my order and the way I ordered didn’t show in the store. Thanks to the store they made it right. U need to fix app asap
@@ -45,9 +48,18 @@
 14535282194|3|2026-09-10|Service|Order took a bit longer as there was a problem with the system. Finally got it through but it is taking almost an hour to deliver. Of my leg and hip weren’t broken I would’ve Picked it up so I paid almost $20 for an $8.00 order that wasn’t delivered in good time. O only live 3 minutes away….
 14534983240|1|2026-09-10|App does not let employees know schedules orders|I put in an order for 6:35.   I arrived and 6:34:50  and the employee said they did not have an order.  Then after seconds passed, the order showed up.  I had my timing perfect,  and it’s 6:40,  still waiting.  because the system did not prep employee for pickup time.
 14534975915|1|2026-09-10|Worst customer service|I stood at the cash register, I watched the two lady’s go back and forth ignoring myself and two other people.  I get it they were busy, but, not even a we will be right with you. I laced my order and accidentally sent it to the wrong store while I was in the Burger King because I was getting fed up with waiting and because I was flustered due to waiting for so long I accidentally didn’t realize I hit the wrong g store a second time. I was able to fix the situation twice and still not one person helped me and this is fast food omg 20 something minutes there.  Never again.  I am a customer service person myself and I acknowledge patients I work with each and let them know I will be right with the mug I am doing something.  The girls were non stop just speaking Spanish and I felt bad even asking for help and I was running back to the hospital for another shift.   Not good.  Needs a lot more customer service training.  Manager would walk right past us and ignored us also.  Mind you I was inside the building.
-14533986301|5|2026-09-10|Daily offers|This app is saving me money, I can just go to the offers and quickly see an array of offers that save me money or make the apple pie fit into the budget. The crown points, the more you use the app the more free stuff you get.
-14533454441|5|2026-09-10|Always my way|The only bk I eat at
-14532996627|1|2026-09-10|Zzz|Repeatedly given wrong orders and wrong pick up times on mobile orders.
+7bb0b481-5811-406a-a69e-8ade0764e5e1|5|2026-09-20||Good food, great app!
+774e66d4-259a-468d-8020-799ea00170a5|5|2026-09-20||Fee minor issues with the app but only infractions as far as the overall review persay. Iced coffee needs an option to knot have ice mandatory thru the app, and the ability to utilize some of your offers without actually having to pay thru the app digitally. The app offers certain offers for in store use only but could be reviewed for more interactive uses.
+6cf2e4db-9567-4a25-bf42-e98e5c52a2cd|5|2026-09-20||Burger King has gotten better. who knew?
+328ae1f4-fab1-4594-b911-c85aa519dd9d|4|2026-09-20||nice fast and easy
+548126fd-2415-4f15-9a12-58c9f0438b79|5|2026-09-19||love it
+dc737b32-0d95-4afb-89e0-aa5a7eb7fa5b|1|2026-09-19||This app is beyond buggy!!!! You have deals and can't order them back to back is crazy!!! There goes an extra sale!!!
+bd9ca01c-89d4-416e-9aa6-db49143dc909|5|2026-09-19||I have just downloading the app
+3672900d-5a2c-4a7b-8243-60a3e660778f|1|2026-09-19||Done w/fast food! You were the last of fast food I could stomach. Who ever had the brilliant idea of having us jump through more hoops for your survey, FIRE! You just lost another customer. 👋🤮
+6346e3a6-69cd-4562-8f25-dc674eed6eb2|3|2026-09-19||It's good when it comes to ordering food and using the points but now it won't let me get my points after using my code. it'll only give me them if I order through it
+9e250d0c-bba7-48d0-b225-f769e6de565e|2|2026-09-19||My whopper bun was hard and seemed old
+1836948c-e70b-4591-ab00-bfa9a271e6d8|3|2026-09-19||Rewards and discounts don't translate to savings.
+760181fb-7639-4542-8ecb-c891fd04f0c0|1|2026-09-19||I ordered a breakfast meal and there was no coffee and the food was ice cold. The restaurant itself doesn't answer the phone. I'm done with them.
 74b301a8-f0b8-4444-b95f-31000824aa38|1|2026-09-19||App orders do not easily allow for placement using cash only... frustration has frequently caused me to leave Burger King restaurants ordering Nothing!
 bd79a1ed-9808-4339-b1f6-54f4a4e64ca4|1|2026-09-19||I'm not getting my crown points. very disappointed. i have a family member that's in a nursing home. And this is the one place that he loves to eat so I am shopping there 3 days a week, twice a day, so that 6 times in a week, at least $24 each time and I am still at 746 Crown points. how?
 b64b7946-6c52-4d3d-8e99-5c88911d4b04|5|2026-09-19||We hardly seldom have a problem at working. Everything goes fine if does go wrong. Which is very seldom? They are right there to correct it. We go to Burger King, probably a couple times a week.All the employees are very friendly and we go there quite often.And our orders are always right. We will continue to buy from burger king
@@ -136,15 +148,3 @@ e82ac5e6-7040-49f9-94b3-1f3394161cd1|5|2026-09-13||Easy to order!!
 6a8bc92c-80f5-4329-a486-dd56d4db6856|1|2026-09-13||I'm sick and tired of ordering from this place and I've never ever gotten a correct order I'm not going to be paying $23.64 for food to get delivered from your place and I do not get the whole order.I'm sick of it. if I didn't want the drink I wouldn't have ordered a combo meal get people that can read
 b87c253f-a5b4-46ff-bf7f-de78db1ae457|1|2026-09-13||Worst customer service app horrible delivery
 e6fc9f20-b6db-4ef2-b47c-661edfacc168|5|2026-09-13||love it have it your way
-da673b90-6a48-4813-9bc6-d8b6a7cd6b41|1|2026-09-13||just waited hour and a half for food thats not even close to worth it! right down the road from the store and still took all night food was awful! open all night for now and for what! worthless place
-3b5a14ba-ca87-4374-abc8-d6113e581062|5|2026-09-13||best app ever great rewards Burger King have it your way!!
-29461839-6313-4db4-8967-c564ec7ae84f|2|2026-09-13||Ordered ice cream, got pie, ordered 3 marinara, got one, ordered zesty sauce, got none. The ice cream I had corrected on site, but when I asked for my other sauces, she gave me another ice cream. I didn't feel like getting into it, so I just took it and left.
-8e7dbdff-e7c5-454a-8b73-3863c35a296c|5|2026-09-12||WOW
-ac1fd796-b72d-4175-8537-1d9fff89d4c3|2|2026-09-12||First mobile order was perfect. 2nd mobile order slop! waste of my money.
-6af05b7b-c8c8-4420-87fa-916a74ee4bf9|5|2026-09-12||Great deal!
-386a2f6d-d867-4e92-a9e1-42a1c256d285|1|2026-09-12||Why is there a limit on items? Do y'all not want money I don't understand.
-bb99c5e1-4f06-4e60-b407-1635c93dc351|5|2026-09-12||it's always worth the wait 🫶
-9b63e8ef-06f4-4d25-92b0-b40a8250467e|1|2026-09-12||doesn't work. can't really order
-6b622d96-fa9b-49ca-b6a1-23b7da9c271c|2|2026-09-12||Not very accurate as for menu items available. Placed a delivery order just to find out an item was removed from the menu 6 months ago! After calling restaurant manager, was told they could not issue refund, because menus & app orders are corporate issue. Two hours later, with a cold Whopper still not eaten... Finally found someone to refund the $3.00 item that should have been removed from the menu 6 months ago! And NOBODY said sorry nor offered at least a $ off your next purchase coupon! 😞
-3684b853-b188-4ff0-913f-b6ee323f382c|1|2026-09-11||meh, that's a burden for your ai, not your customers. it's very peculiar that you insist on ai in certain cs roles and refuse to use it in others.
-d5de0612-210c-45f7-89ef-d3afd3132597|5|2026-09-11||Easy and convenient to use. Location services are very helpful
