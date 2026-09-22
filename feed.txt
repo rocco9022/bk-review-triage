@@ -1,3 +1,8 @@
+14575472974|1|2026-09-21|Defaults orders to the wrong store too often|It takes days for help or refunds.. it’s intentional. Delete it and save the frustration, order in person
+14574287414|1|2026-09-20|Good|Does what it should and doesn’t crash
+14573902271|1|2026-09-20|Terrible|I tried to use my current email to login only to be told to contact support because I already have an account. Created a new email to try to order food and was told that email already had a pre-existing account. This app is nonsense and Burger King is terrible.
+14573690877|5|2026-09-20|Easy to use|Everything good
+14573661349|5|2026-09-20|Awesome|Niceeeeee
 14570443826|5|2026-09-19|Amazing service|Had such a great service.
 14570131234|1|2026-09-19|Allow multiple separate offers in one order.|Fix your app. It's ridiculous that you have all these offers to get people to order from you but the only way to order them is one at a time every hour. If you're going to offer a free item that requires a $3 purchase to get it, don't limit what I can buy with that $3.
 14567623609|5|2026-09-19|Bkapp|Easy to use great deals
@@ -43,11 +48,17 @@
 14538791712|1|2026-09-11|Why bother|Worst app ever it never works for me
 14537745179|1|2026-09-11|Log in|It does not allow me to access my account, I place my email and there is only to create a new account! not to log in  And when trying to contact support, it won't let me select any option; the app freezes.
 14537619966|1|2026-09-11|Poor app|Very poor web app when a person CANNOT Cancle an order.
-14535743857|5|2026-09-10|Great|Great place great service
-14535377803|5|2026-09-10|The King of fast food|I love how easy the app is to navigate, and the fact that there’s always a great deal, exclusive to the app. Rewards stack up easy, and a delicious meal is always a click away. As a first responder, it’s tough to coordinate something filling, while not breaking the bank, but the app makes it so easy. BK makes it easy! Hail the King!
-14535282194|3|2026-09-10|Service|Order took a bit longer as there was a problem with the system. Finally got it through but it is taking almost an hour to deliver. Of my leg and hip weren’t broken I would’ve Picked it up so I paid almost $20 for an $8.00 order that wasn’t delivered in good time. O only live 3 minutes away….
-14534983240|1|2026-09-10|App does not let employees know schedules orders|I put in an order for 6:35.   I arrived and 6:34:50  and the employee said they did not have an order.  Then after seconds passed, the order showed up.  I had my timing perfect,  and it’s 6:40,  still waiting.  because the system did not prep employee for pickup time.
-14534975915|1|2026-09-10|Worst customer service|I stood at the cash register, I watched the two lady’s go back and forth ignoring myself and two other people.  I get it they were busy, but, not even a we will be right with you. I laced my order and accidentally sent it to the wrong store while I was in the Burger King because I was getting fed up with waiting and because I was flustered due to waiting for so long I accidentally didn’t realize I hit the wrong g store a second time. I was able to fix the situation twice and still not one person helped me and this is fast food omg 20 something minutes there.  Never again.  I am a customer service person myself and I acknowledge patients I work with each and let them know I will be right with the mug I am doing something.  The girls were non stop just speaking Spanish and I felt bad even asking for help and I was running back to the hospital for another shift.   Not good.  Needs a lot more customer service training.  Manager would walk right past us and ignored us also.  Mind you I was inside the building.
+0c479e36-32c4-450f-96e8-b7ba55a82a59|5|2026-09-21||customer service is good and they were timely with order
+c1eda9e3-2905-40a0-87b4-f2d60439b414|1|2026-09-21||Royal Perks and Walmart+ options stopped working 7 days ago. Account at Walmart is active and good standing and linked to BK. BK support has not addressed my requests for help
+03f82f8c-2b74-43a6-97f0-103019adaaee|4|2026-09-21||No milkshakes in the app. The reason I took a star away is because for some reason I can never find the milkshakes on the app. Not on the Drinks or the Sweets tabs.
+ecaa4bca-0e4d-4346-900b-86fc9888a6e3|5|2026-09-21||love it
+912ccee8-9670-4a94-a4b4-a06e49a88668|4|2026-09-21||The only thing I would suggest is an option to use paper coupons for discounts.
+7f9572e2-8baa-450e-9955-2e6d666de628|5|2026-09-20||Love the ease
+81fbce66-265e-41f8-a7d0-ec46967b1c49|5|2026-09-20||very convenient when I need a lil ease on the wallet.
+5a2a2d4a-dba9-43f7-a409-3e097bcf2181|4|2026-09-20||French fries were not hot and you workers don't like their job.
+393b08d5-e96c-425b-9010-e35e5a569be0|5|2026-09-20||love the point system
+4e2b2ce0-8f3c-4b62-ab9f-6cdd0e8b5b8b|1|2026-09-20||app doesn't work half the time. and when you c9ntact support they say they can't do anything about it.
+8b95c86e-4c8e-40b4-9ad8-c62ac1a1ad18|5|2026-09-20||awesome
 7bb0b481-5811-406a-a69e-8ade0764e5e1|5|2026-09-20||Good food, great app!
 774e66d4-259a-468d-8020-799ea00170a5|5|2026-09-20||Fee minor issues with the app but only infractions as far as the overall review persay. Iced coffee needs an option to knot have ice mandatory thru the app, and the ability to utilize some of your offers without actually having to pay thru the app digitally. The app offers certain offers for in store use only but could be reviewed for more interactive uses.
 6cf2e4db-9567-4a25-bf42-e98e5c52a2cd|5|2026-09-20||Burger King has gotten better. who knew?
@@ -126,7 +137,6 @@ f1e16229-7088-4d44-adc0-a4b9dbb18b43|1|2026-09-15||It tells me I can't create an
 5f257f95-8277-4aa1-a248-2f7bd3a91438|1|2026-09-15||The "new" sweet and sour sauce is gross. I liked their old sauce and I like their competitors sweet and sour sauce but this new one is disgusting. The new nuggets aren't all that great either. They are juicy but the flavor isn't the best
 56c831cc-f294-408c-9036-36ac8eb35e0a|1|2026-09-15||If I Could Choose no stars I would. I ordered a meal for our entire family (a good 50.00 +) on the app, out in our local store and when we went to pick up the order they said the didn't have an order for us. We showed the manager at the store the online order, order number, and the banking statement that the money had been taken out for said order. The manager still did not honor the order and was rude as well. it was the weekend so I had to wait until Monday for the customer service (from the
 a585797b-bffe-404b-8d31-b01b816403b9|5|2026-09-14||Food is always Hot & Fresh! Love the New Nuggets😋
-43be6e09-d8a2-405d-b1aa-e1013068b063|1|2026-09-14||the app barely works it always freezes on order and many times just plain refuses to load an order and gets stuck in minutes longs que of attempting the order. have resorted to ordering at counter or window. the app is useless. it legitimately will not place orders. even the staff acknowledged it as an ongoing issue
 37b06b94-da9a-45dc-baa7-c8a5417400a9|2|2026-09-14||I completed the online survey & never received the code # for a free whopper. I then loaded your ap thinking it might be there & is not. Your survey is very cumbersome & some parts repeat again. I hate it. I will never get my free whopper with this terrible survey instrument!
 68d092e3-6686-4124-b1ca-4ee3e38bb664|1|2026-09-14||Be careful ordering from this app. if they don't have your order they won't refund your money.
 65d87c7a-810c-4ec3-b119-5e166011f2a0|3|2026-09-14||Apps fine but they dont remove unavailable items so you'll have to show up to find out you wasted your time.
@@ -138,13 +148,3 @@ d0004be0-ea8c-4bc0-929c-bd620f18cf6c|3|2026-09-14||Using the latest version of t
 103edc84-51eb-494e-97bf-e7d4e06f0f42|1|2026-09-14||the service sucked had the most terrible burger and nuggets and drink
 f0b1f7c9-9ce7-45f2-bca9-0e17137c0412|5|2026-09-14||I like burger king
 7329a9c4-6370-43e6-85d4-eeeeacb60da1|2|2026-09-14||my chicken nuggets out of 40 pieces of chicken nuggets they were 10 of them we're hot and the rest were cold
-69b34ab0-e6f4-40e4-b942-f55dd9b613ee|4|2026-09-14||the breading on your new nuggets has no taste Wendy s are much better tasting
-5cc535a4-1742-4321-87dd-f0227729f66a|5|2026-09-14||excellent app and good rewards
-5fbac65f-98e1-4820-bee3-8da4573e6e26|1|2026-09-13||this is the 2nd time I've ordered and am missing items
-493d281a-32a4-4bd6-88a7-b04358cd29e3|5|2026-09-13||great app
-a556cedc-9d9a-4236-80e6-b424ba54d7df|5|2026-09-13||so far good 👍
-ff6b330f-7fda-42a6-ba13-94a93e05f41c|5|2026-09-13||5 STARS AS A WARNING! I ordered a free whopper with purchase. I order 2 purchases, then I delete one of them b4 ordering and the app deletes my free whopper. I had to buy an extra purchase to get my free Whopper! But 1st I looked to delete the order and start over. The people inside the store said No can do anything since the order came from the app, I did not see a way to delete my order and start over. The people in the store said I needed to contact you. But no contact info!
-e82ac5e6-7040-49f9-94b3-1f3394161cd1|5|2026-09-13||Easy to order!!
-6a8bc92c-80f5-4329-a486-dd56d4db6856|1|2026-09-13||I'm sick and tired of ordering from this place and I've never ever gotten a correct order I'm not going to be paying $23.64 for food to get delivered from your place and I do not get the whole order.I'm sick of it. if I didn't want the drink I wouldn't have ordered a combo meal get people that can read
-b87c253f-a5b4-46ff-bf7f-de78db1ae457|1|2026-09-13||Worst customer service app horrible delivery
-e6fc9f20-b6db-4ef2-b47c-661edfacc168|5|2026-09-13||love it have it your way
