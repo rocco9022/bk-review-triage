@@ -82,73 +82,21 @@ jobs:
             } >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Send email via Resend
+      - name: Log new features
         if: steps.check.outputs.found == 'true'
         env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           FEATURES: ${{ steps.check.outputs.features }}
         run: |
-          python3 << 'PYEOF'
-          import os, json, urllib.request, re
+          echo "New competitive features detected:"
+          echo "$FEATURES"
 
-          raw = os.environ.get("FEATURES", "")
-          api_key = os.environ["RESEND_API_KEY"]
-
-          blocks = re.findall(r'FEATURE_START\n(.*?)\nFEATURE_END', raw, re.DOTALL)
-
-          def e(s):
-              return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-
-          cards = ""
-          for block in blocks:
-              fields = {}
-              for line in block.strip().splitlines():
-                  if ": " in line:
-                      k, v = line.split(": ", 1)
-                      fields[k.strip()] = v.strip()
-
-              link = fields.get("Link", "")
-              link_html = f'<a href="{e(link)}">{e(link)}</a>' if link else "-"
-
-              cards += (
-                  '<div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin-bottom:16px;background:#fff;">'
-                  f'<div style="font-size:11px;text-transform:uppercase;color:#888;margin-bottom:4px">{e(fields.get("Type",""))} &middot; {e(fields.get("Category",""))}</div>'
-                  f'<div style="font-size:18px;font-weight:700;color:#D62300;margin-bottom:2px">{e(fields.get("App/Competitor",""))}</div>'
-                  f'<div style="font-size:15px;margin-bottom:10px">{e(fields.get("Feature",""))}</div>'
-                  f'<div style="font-size:13px;color:#555;margin-bottom:4px"><b>Source:</b> {e(fields.get("Source",""))}</div>'
-                  f'<div style="font-size:13px;color:#555;margin-bottom:4px"><b>Link:</b> {link_html}</div>'
-              )
-              if fields.get("Notes"):
-                  cards += f'<div style="font-size:12px;color:#666;border-top:1px solid #eee;margin-top:10px;padding-top:8px">{e(fields.get("Notes",""))}</div>'
-              cards += "</div>"
-
-          count = len(blocks)
-          subject = "New competitive UX feature worth watching" if count == 1 else f"{count} new competitive UX features worth watching"
-
-          html = (
-              '<div style="font-family:sans-serif;max-width:600px;margin:0 auto;background:#f8f8f8;padding:24px">'
-              '<h2 style="color:#D62300;margin-top:0">&#x1F440; Competitive UX Intel</h2>'
-              f'<p style="color:#444">{"A competitor just shipped" if count == 1 else "Competitors just shipped"} something worth watching:</p>'
-              + cards
-              + '<p style="font-size:11px;color:#aaa;margin-top:24px">BK Review Triage &middot; <a href="https://github.com/rocco9022/bk-review-triage">repo</a></p>'
-              "</div>"
-          )
-
-          payload = json.dumps({
-              "from": "BK Triage <onboarding@resend.dev>",
-              "to": ["leandro.rocco@santexgroup.com"],
-              "subject": subject,
-              "html": html,
-          }).encode()
-
-          req = urllib.request.Request(
-              "https://api.resend.com/emails",
-              data=payload,
-              headers={
-                  "Authorization": f"Bearer {api_key}",
-                  "Content-Type": "application/json",
-              },
-          )
-          with urllib.request.urlopen(req) as resp:
-              print("Email sent:", resp.status, resp.read().decode())
-          PYEOF
+      # To re-enable email notifications via Resend, restore the step below
+      # and set the RESEND_API_KEY secret in repo Settings → Secrets.
+      #
+      # - name: Send email via Resend
+      #   if: steps.check.outputs.found == 'true'
+      #   env:
+      #     RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      #     FEATURES: ${{ steps.check.outputs.features }}
+      #   run: |
+      #     ... (email sending logic)
