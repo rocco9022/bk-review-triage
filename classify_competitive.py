@@ -103,21 +103,46 @@ for i in range(0, len(new_lines), BATCH):
 
 print(f"Found {len(new_rows)} new UX features")
 
-# --- Append to competitive_tracker.csv ---
+# --- Append to competitive_tracker.csv and re-sort by date desc ---
+COLS = ["Date","Type","Competitor","Feature","Category","Confidence","Sentiment","Rating","Source","Link","Notes","Alert"]
+
+def parse_date(d):
+    from datetime import datetime
+    for fmt in ("%d.%b.%Y", "%b.%Y", "%d.%B.%Y"):
+        try:
+            return datetime.strptime(d.strip(), fmt)
+        except ValueError:
+            pass
+    return datetime.min
+
 if new_rows:
-    COLS = ["Date","Type","Competitor","Feature","Category","Confidence","Sentiment","Rating","Source","Link","Notes","Alert"]
-    exists = os.path.exists("competitive_tracker.csv")
-    with open("competitive_tracker.csv", "a", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        if not exists:
-            w.writerow(COLS)
-        for r in new_rows:
-            w.writerow([
-                r.get("date",""), r.get("type","Confirmed"), r.get("competitor",""),
-                r.get("feature",""), r.get("category",""), r.get("confidence","Confirmed"),
-                r.get("sentiment",""), r.get("rating",""), r.get("source","App Store reviews"),
-                r.get("link",""), r.get("notes",""), r.get("alert",""),
-            ])
+    # Read existing rows
+    existing = []
+    if os.path.exists("competitive_tracker.csv"):
+        with open("competitive_tracker.csv", newline="", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                existing.append(row)
+
+    # Append new rows
+    for r in new_rows:
+        existing.append({
+            "Date": r.get("date",""), "Type": r.get("type","Confirmed"),
+            "Competitor": r.get("competitor",""), "Feature": r.get("feature",""),
+            "Category": r.get("category",""), "Confidence": r.get("confidence","Confirmed"),
+            "Sentiment": r.get("sentiment",""), "Rating": r.get("rating",""),
+            "Source": r.get("source","App Store reviews"), "Link": r.get("link",""),
+            "Notes": r.get("notes",""), "Alert": r.get("alert",""),
+        })
+
+    # Sort by date descending
+    existing.sort(key=lambda r: parse_date(r.get("Date","")), reverse=True)
+
+    with open("competitive_tracker.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=COLS)
+        w.writeheader()
+        w.writerows(existing)
+
     print(f"Appended {len(new_rows)} rows to competitive_tracker.csv")
 
 # --- Update processed IDs ledger ---
