@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add competitive_tracker.csv competitive_processed_ids.txt
+          git add competitive_reviews.csv competitive_processed_ids.txt
           if ! git diff --cached --quiet; then
             git commit -m "Auto-classify competitive features ($(date -u +%Y-%m-%d))"
             git push

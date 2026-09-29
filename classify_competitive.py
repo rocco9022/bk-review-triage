@@ -103,7 +103,7 @@ for i in range(0, len(new_lines), BATCH):
 
 print(f"Found {len(new_rows)} new UX features")
 
-# --- Append to competitive_tracker.csv and re-sort by date desc ---
+# --- Append to competitive_reviews.csv and re-sort by date desc ---
 COLS = ["Date","Type","Competitor","Feature","Category","Confidence","Sentiment","Rating","Source","Link","Notes","Alert"]
 
 def parse_date(d):
@@ -117,8 +117,8 @@ def parse_date(d):
 
 # Read existing rows
 existing = []
-if os.path.exists("competitive_tracker.csv"):
-    with open("competitive_tracker.csv", newline="", encoding="utf-8") as f:
+if os.path.exists("competitive_reviews.csv"):
+    with open("competitive_reviews.csv", newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             existing.append(row)
@@ -137,13 +137,13 @@ for r in new_rows:
 # Always sort by date descending and rewrite
 existing.sort(key=lambda r: parse_date(r.get("Date","")), reverse=True)
 
-with open("competitive_tracker.csv", "w", newline="", encoding="utf-8") as f:
+with open("competitive_reviews.csv", "w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=COLS, extrasaction="ignore")
     w.writeheader()
     w.writerows(existing)
 
 if new_rows:
-    print(f"Appended {len(new_rows)} rows to competitive_tracker.csv")
+    print(f"Appended {len(new_rows)} rows to competitive_reviews.csv")
 
 # --- Update processed IDs ledger ---
 new_ids = []
