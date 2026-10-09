@@ -1,3 +1,12 @@
+14642106027|1|2026-10-08|BK APP|You really should try broadening up and giving out a little more free so you get people coming back like McDonald’s is doing. They are really beating you in this app game.
+14641886410|5|2026-10-08|Hooked on Whoppers|I started eating Woppers when the BK #1095, at 4695 s 27th st,greenfield,Wisconsin opened.To this day I still think they are the best.I use the receipt to get the best deal.BK has changed the time limit on the receipt.I cannot go that often and therefore can never use a receipt again.there are many “fast food” places but never cared for them.someday I will come back but I do like a deal.I’ve enjoyed the ride and have no complaints but I ‘m sort of lost on my next “fast food” place.
+14641328511|5|2026-10-08|Great app|Good food just don’t forget my sauce next time
+14639848485|3|2026-10-07|Old toppings|Lower your expectations if you’re looking for fresh toppings. Looks like their focus is on chicken nuggets. Lettuce was brown and soggy. Eat somewhere else.
+14639599386|5|2026-10-07|amazing|best burger king
+14639490457|5|2026-10-07|Todo estuvo genial|Atención buena
+14639487708|2|2026-10-07|Cold food|Bad. Need to do better the whole food bundle was / is cold
+14639066091|2|2026-10-07|Used to be really good|The ‘daily special offers’ have changed and are much more limited now and you can’t combine a special offer w/code with actual free crown reward items so I usually don’t even use the crown rewards before they expire. Either let people combine them or just offer better daily specials with discounted prices and take away the rewards. The App was definitely better a couple of years ago and the new changes made it worse.
+14638947293|1|2026-10-07|Don’t use this app|This is the worst app ever it’s very difficult to get a refund & they don’t care about your experience at all. They only want your money
 14636364359|5|2026-10-06|Yum|Yummmm
 14635775994|5|2026-10-06|Burger|I love Burger King App it so convenient
 14635428982|5|2026-10-06|Great|Great
@@ -39,15 +48,19 @@
 14610896564|5|2026-09-30|Cameron|Always smooth and seamless throughout…smiling faces at the time of pick-up….
 14609340813|5|2026-09-29|Me gusta|Me encanta Burger King porke todo fresco y calientetito pues la jente muy amable
 14608796220|5|2026-09-29|Love|Burger King is the go to great deals
-14608652698|5|2026-09-29|Amazing|Amazing
-14605175951|5|2026-09-28|Great Service|Great
-14605167622|5|2026-09-28|Whopper|Good customer service best whoppers ever
-14605025857|1|2026-09-28|Bad customer service|There is no way to cancel your order to get the refund of your crowns if you order from the wrong place or move order to another location. I have to wait at least a day for my crowns and days for a refund. Do better
-14604532186|5|2026-09-28|Easy to Use|I love their app
-14604008979|5|2026-09-28|Jonathan is my favorite|There’s this cashier Jonathan and he’s amazing so kind always makes sure my order is right! Give him a raise!
-14601629920|1|2026-09-27|Useless|App freezes constantly not allowing checkout or editing of cart, have to delete and reinstall, heaven forbid you try to use a coupon cause Burger King ain’t about to let that happen that’s an immediate frozen app, not useful at all
-14600982166|5|2026-09-27|Best App for Burgers in the Go|Been loving how much customization and control I have over the orders. As a vegan I see so much potential to make this even better! But overall it’s a great app and the deals are insane sometimes.
-14600689268|1|2026-09-27|Terrible service|Not a single person in the drive thru or store and make me sit and wait for almost 7 mins before even letting me check in. Manager was super rude and said they are busy inside. No they are not, there is 1 customer inside. Terrible service every single time I come and the manager is always the rudest ones there
+ec6d19f0-74de-434d-aa01-ebe818867cf5|5|2026-10-08||just to started eating here and the app is a plus
+d7e37851-536b-4b56-8743-2f6077fe2d74|1|2026-10-08||you cant even see the breakfast items. writing this in the morning as i tried to order something but couldnt cause it just shows the lunch/dinner menu
+d1cabbd0-895e-44b4-a4ac-7cc9d42053f0|5|2026-10-08||excellent support and good solutions.
+6a653255-1fa1-476e-9c01-6681e9d5891b|5|2026-10-07||best around
+a6b4b594-8f2a-4092-9f6b-1a538ee662b5|4|2026-10-07||not enough tartar sauce.
+1b34552c-1913-4626-b397-75ce10431020|1|2026-10-07||They no longer offer any sort of dietary substitutes at my local stores. So can't recommend them at all. They used to be so friendly and inclusive, but not anymore.
+ddde4839-1d41-4990-af09-a7fe6f764bbd|5|2026-10-07||king 👑🔥💯 salt the fries keep the burgers large.
+39d20124-1cd9-4382-9c5c-20c4a2dbbe26|5|2026-10-07||amazing service and food
+ea5c9e00-d35e-4309-bbbb-e96014412c43|4|2026-10-07||better burgers but very slow workers.
+17cef1a2-f6dd-4abb-be31-09d7bb7e69f7|1|2026-10-07||Every time you ask for a human being, the AI assistant disconnects you, and it marks the order that you were inquiring about but couldn't get help with as "Resolved." It has to be intentionally broken by design, because there's no way a developer could be this incompetent – especially at a company as large as Burger King. Shameful!
+0accb2e8-0459-41c1-846d-d24cdcab03a4|5|2026-10-07||App is great
+272c2168-de22-4861-bf4a-5ad13703fbf3|5|2026-10-07||very good service
+c7fb0f02-471d-4851-8547-7c9248321101|1|2026-10-07||nobody speaks English waited 25 minutes for a cheese burger that I ordered online
 31ecdd5c-cf92-49dc-8153-046719beb03a|5|2026-10-07||Awesome food and service
 7c6b5805-0c9c-4742-8e81-dd51db45eb91|1|2026-10-07||you can't see lunch deals before lunch. If it's breakfast you can't see any of the later day deals till it's time to decide
 c92aa3a8-f8a8-4de5-9cd0-813855542a54|5|2026-10-07||the best burgers
@@ -135,16 +148,3 @@ bfff734f-6673-43d9-b0a2-fa4c895d29e5|5|2026-10-01||Very good deals.
 297c98e8-6a9c-4294-b684-b94148680793|5|2026-10-01||did what it sbould
 d1aebce1-d628-4433-8e3f-b24621c41a04|5|2026-10-01||ladies at drive thru are pleasant and friendly ☆☆☆
 ab1d3fe1-87af-4c76-8f2f-099077ac276f|5|2026-10-01||Fast and fresh Whoppers! Yummy 😋 onion rings ❤️ 😍
-5e1dbc69-5ad8-468e-8a21-65cdc6160e36|1|2026-10-01||They changed the eggnormous to sausage at restaurants automatically but on the app it shows bacon and theres no edit features so if I order my eggnormus from the app I automatically get sausage from store cause I can't change it. it seems like a marketing move to me. replace the bacon with sausage because it's cheaper. for example I stopped at the restaurant ordered one and they gave it to me with sausage and said that's the way they do it now but on the app you can't request bacon so what now?
-dc6e8629-a2ee-49e2-9827-564cd73643cc|1|2026-10-01||downloaded deleted immediately if I cant see offers unless the store is open screw it
-3684b853-b188-4ff0-913f-b6ee323f382c|1|2026-10-01||new nuggets? now do that awful foresaken OG chicken samich. and, no, I tried your artificial dumbness. it just can't even. you platform types never think it's you.
-8f35149b-508f-4dd8-b9e0-067f605041f1|5|2026-10-01||love the food
-56bee7ae-4ccb-4ea0-b056-52062ee6365c|5|2026-10-01||Fast and friendly!
-c397a6a4-7ca8-452f-a764-fb8057eaed5d|5|2026-10-01||Very easy to navigate, always get My BK, My Way! I think it's absolutely amazing 🤩
-1c19be5e-58e7-4c52-a867-c1845c459ca1|1|2026-09-30||8x Placing your order, 8x Oh no something went wrong delivered via email. Tried lots of combinations to get it to work before pulling into the drive thru and ordering. Apps are much more convenient, but only when they work.
-47a21ed6-9bd9-41ca-92a8-19e5d7d87c1d|1|2026-09-30||Its really depressing when even with a discount, a single burger is almost $20. Id rather starve.
-42bed821-8dca-4d85-9575-c5051d055015|1|2026-09-30||I used the app for whopper Wednesday and I didn't get a free whopper. what's wrong with this app? 😡
-14740117-ca2f-488d-b3f4-e48c35b35f70|1|2026-09-30||Changed my order location from Location 1 to Location 2, because Location 2 is on my way back and 1 is out of the way. app says payment information is wrong, update, place order. Get to Location 2 to find out the app changed my order location and didnt tell me. if i could give 0 stars i would.
-2be6e486-af15-4d39-8c4a-3d2697282f62|5|2026-09-30||Wonderful order was perfect.
-5d653655-1280-4a9d-85c6-fbcbd43e7c0d|2|2026-09-30||They must have done a new update.Because orders are not being processed
-4f2ae7f6-65df-4cf3-aafc-bd8199526add|5|2026-09-30||Im Loving It 🤣 really i am though
