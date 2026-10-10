@@ -1,3 +1,6 @@
+14644204066|3|2026-10-08|Burger Capitalist|It should NOT cost $40 for me to get a whopper meal and a fancy drink in delivery.  I would pay $40 for a ribeye steak, not Burger King. Times are tough I get it but holy capitalistic greed.
+14643852011|5|2026-10-08|Bk the best|Love the food the one here on Edgemont Avenue is one of the best always packed at night time get there early
+14643248458|1|2026-10-08|You gave me meat|You gave me the wrong order
 14642106027|1|2026-10-08|BK APP|You really should try broadening up and giving out a little more free so you get people coming back like McDonald’s is doing. They are really beating you in this app game.
 14641886410|5|2026-10-08|Hooked on Whoppers|I started eating Woppers when the BK #1095, at 4695 s 27th st,greenfield,Wisconsin opened.To this day I still think they are the best.I use the receipt to get the best deal.BK has changed the time limit on the receipt.I cannot go that often and therefore can never use a receipt again.there are many “fast food” places but never cared for them.someday I will come back but I do like a deal.I’ve enjoyed the ride and have no complaints but I ‘m sort of lost on my next “fast food” place.
 14641328511|5|2026-10-08|Great app|Good food just don’t forget my sauce next time
@@ -32,7 +35,6 @@
 14619909891|1|2026-10-02|Too many price raises|Good app but they keep raising prices and I’m just done with being price gouged at every corner.
 14619591150|5|2026-10-02|Love them impossible whoppers|Wat one almost every day
 14619334601|5|2026-10-02|Awesome|The Food Is Always Good And On Time! The Service Is Great!
-14619134626|2|2026-10-02|Cant add points manually, app freezes|I ordered my breakfast sandwiches and then decided I would try the app. I figured I could keep the points since I had just purchased before downloading. The app seems to work except for the part of adding the points manually that screen just freezes up.
 14618823876|5|2026-10-02|Review Burger King|I am always treated well and the food and coffee are excellent
 14616881513|5|2026-10-01|Delicioso|Delicioso
 14615973426|5|2026-10-01|Dyson|Amazing
@@ -46,8 +48,12 @@
 14612236573|5|2026-09-30|Love|Makes it so easy to order and pick up!
 14611127633|1|2026-09-30|Can’t get a simple breakfast sandwich right|Horrible service drive thru worker rude!
 14610896564|5|2026-09-30|Cameron|Always smooth and seamless throughout…smiling faces at the time of pick-up….
-14609340813|5|2026-09-29|Me gusta|Me encanta Burger King porke todo fresco y calientetito pues la jente muy amable
-14608796220|5|2026-09-29|Love|Burger King is the go to great deals
+ed007d38-15e1-4c8d-a68a-1e94014cb3a6|2|2026-10-09||burger king was good once, now nickel and diming everything. what a shame , as they have good burgers
+b31e1a6c-7033-45c0-9648-fd77d6d51c32|5|2026-10-08||very delicious, i love Burger King
+fe692ea1-cb23-42b0-8990-df91d4d19c41|1|2026-10-08||update the app and can't login to it now
+3684b853-b188-4ff0-913f-b6ee323f382c|1|2026-10-08||uugh, I can't stand the real monopoly game, much less the fake monopoly game. seeya, maybe, next month.
+7e71f32f-b161-4d49-8c04-bce98727835b|5|2026-10-08||the app is the best
+27dbffe1-3876-49e8-8c7f-d12abf78716b|4|2026-10-08||Where on earth is the Kids Menu? Why do you bury the option so deep, it can't be found? Everything else is great.
 ec6d19f0-74de-434d-aa01-ebe818867cf5|5|2026-10-08||just to started eating here and the app is a plus
 d7e37851-536b-4b56-8743-2f6077fe2d74|1|2026-10-08||you cant even see the breakfast items. writing this in the morning as i tried to order something but couldnt cause it just shows the lunch/dinner menu
 d1cabbd0-895e-44b4-a4ac-7cc9d42053f0|5|2026-10-08||excellent support and good solutions.
@@ -142,9 +148,3 @@ a4b14261-e2ab-4f9c-bd17-cba52afea3bd|5|2026-10-01||got a free fries with my orde
 b8474181-3087-4f11-bf85-40dbd33931d1|5|2026-10-01||always fast and friendly
 8e6e35a8-125a-4fd1-b60e-6e51a9b4a088|5|2026-10-01||Burger King has that special charbroil Burger that has that unique taste, which I choose overall the others for a great burger!!! For over 30 years
 bfff734f-6673-43d9-b0a2-fa4c895d29e5|5|2026-10-01||Very good deals.
-28b5513b-87d0-4af2-862c-ef654f11750e|2|2026-10-01||With an over 25 minute wait in the drive thru is unacceptable. We won't be back!
-05367416-2b86-4eeb-b071-050b3e3ab964|5|2026-10-01||easy-to-use
-04c8f14e-ecc0-4c2b-be5c-b682b6a79ca5|1|2026-10-01||Support is absolutely lousy. Been trying to get ahold of them about a delivery that got delivered to the wrong house, so now I'm out money and food. Might as well not have been lazy and drove myself. Not using this again for anything.
-297c98e8-6a9c-4294-b684-b94148680793|5|2026-10-01||did what it sbould
-d1aebce1-d628-4433-8e3f-b24621c41a04|5|2026-10-01||ladies at drive thru are pleasant and friendly ☆☆☆
-ab1d3fe1-87af-4c76-8f2f-099077ac276f|5|2026-10-01||Fast and fresh Whoppers! Yummy 😋 onion rings ❤️ 😍
