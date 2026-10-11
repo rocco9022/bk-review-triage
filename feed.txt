@@ -1,3 +1,7 @@
+14648183558|5|2026-10-09|Low carbs|Love that there is a low carb option on the menu and it taste delicious
+14646992314|4|2026-10-09|Good service|Really good service
+14646625967|1|2026-10-09|Crashing|Going to the Transaction ID page to redeem points crashes the app.
+14645538268|1|2026-10-09|CANT ADD ITEMS!|How ironic is it that a restaurant who advertises “have it your way” cannot manage an app to allow you to add extra cheese, extra pickles, extra anything?!?!The app literally will only let you take away, or it completely blocks you and grays out the ability to add anything extra. How does this happen? How is the tagline of your restaurant have it your way and every other fast food app can do what you can’t?!?! Mind blown!
 14644204066|3|2026-10-08|Burger Capitalist|It should NOT cost $40 for me to get a whopper meal and a fancy drink in delivery.  I would pay $40 for a ribeye steak, not Burger King. Times are tough I get it but holy capitalistic greed.
 14643852011|5|2026-10-08|Bk the best|Love the food the one here on Edgemont Avenue is one of the best always packed at night time get there early
 14643248458|1|2026-10-08|You gave me meat|You gave me the wrong order
@@ -44,10 +48,15 @@
 14615367393|5|2026-10-01|Love the smoky grilled flavors|I like the smoky grilled flavor of the meat because it’s like I cooked it on the grill myself
 14614541322|1|2026-10-01|Too many cooldowns, expirations, and dead ends.|Burger King pushes Royal Perks hard, but actually trying to use these rewards in the real world is incredibly frustrating. Earning points is only half the battle; redeeming them feels like a trap. Why is there a 60-minute cooldown between redeeming a free item and using a promotional offer? It’s fast food! Nobody is waiting an hour in the lobby just to redeem an offer for free any-size fries to go with my Walmart+ partnership-exclusive offer of a free Whopper every quarter. You essentially have to choose between your hard-earned reward or the daily deal. It becomes practically impossible to use both.  On top of that, Crowns expire on a confusing calendar-based schedule, forcing you to constantly monitor your balance so you don't lose the value you earned. And worse, you never know which local franchises actually participate in the deals until you're there.  I recently went into a location in Ocean City, MD, to get help figuring out the app restrictions so I could stretch a very tight budget. The staff had no idea how it worked and told me to figure it out myself.  A loyalty program should make your life easier and reward you for coming back. Right now, the Royal Perks app just makes you falsely believe you have multiple offers available to you if you patronize their establishment. No one is waiting an hour or more trying to redeem an offer and save a couple of dollars. Time is money, and this was supposed to be fast food. Please consider removing the 60-minute cooldowns and make restrictions clear and specifically list which locations actually accept the offers shown on the home screen.
 14613419136|1|2026-09-30|App doesn’t work|When checking out, it just loads
-14613132960|1|2026-09-30|Absolutely worst ever|The Burger King in Grants Pass Oregon could not possibly be any worse than it is. I was in line at the drive through over 30 minutes only to get every single thing in my order wrong. At least the person at the counter was rude, that was nice. The only satisfied person there was the crazy methhead with his meal spread all over the sidewalk blocking the door. Absolutely pathetic.
-14612236573|5|2026-09-30|Love|Makes it so easy to order and pick up!
-14611127633|1|2026-09-30|Can’t get a simple breakfast sandwich right|Horrible service drive thru worker rude!
-14610896564|5|2026-09-30|Cameron|Always smooth and seamless throughout…smiling faces at the time of pick-up….
+db945da2-09c0-4bd4-8c89-404dbe195521|1|2026-10-10||App does not have accurate info on what is available. support does not exist. avoid if possible.
+58aa84d1-4373-482f-9052-7083d3190ffd|5|2026-10-10||l love B.K.
+1f794024-9ce4-4e58-acc9-e90273766d9b|5|2026-10-10||best burger king on the planet
+05403b14-6d4a-47f2-ba21-742edfae1dab|5|2026-10-10||works very well 👌 Excellent
+a8bcddff-9ab2-486e-819f-26c1eea8c126|1|2026-10-10||I tried to cancel an order due to the broiler in the restaurant being down the the AI could not have been less helpful.
+e25f622a-ab6d-4fb8-a32d-9d1576875fda|5|2026-10-09||Food was great and hot!
+134bbe30-0291-477c-b581-de26d4d8d481|5|2026-10-09||got my impossible Whopper and I'm happy to say it's a tasty whopper folks
+ee68f020-1248-4acc-a205-8a5b161be63a|5|2026-10-09||Great fast food
+d4846178-10e2-47bd-a3cd-1132c8fd2311|5|2026-10-09||thank you . maje it your way. I wanted toasted the bread more. excellent service. I do recommend especially That I get 25 percent off each time I order because I use the Walmart + membership.
 ed007d38-15e1-4c8d-a68a-1e94014cb3a6|2|2026-10-09||burger king was good once, now nickel and diming everything. what a shame , as they have good burgers
 b31e1a6c-7033-45c0-9648-fd77d6d51c32|5|2026-10-08||very delicious, i love Burger King
 fe692ea1-cb23-42b0-8990-df91d4d19c41|1|2026-10-08||update the app and can't login to it now
@@ -139,12 +148,3 @@ ed04021d-f530-47db-947d-83752a863d9c|4|2026-10-02||your prices are higher than o
 f0deef2d-6461-4567-bd83-045465b8e51c|1|2026-10-02||they took my money and it is so hard to contact an actual person to talk to. not worth it
 24e58d60-a74a-41b3-a8bc-4a8add684f72|5|2026-10-02||Leslie went above and beyond her normal routine . She rules!!!!!!
 2beb95f8-d0e6-4f89-b4d7-b4e62d3477f6|5|2026-10-02||Great
-36f922eb-8649-4c07-a4e6-11491fb13ef8|3|2026-10-02||If you're going to make customers wait 30+ minutes at least let it be because you're cooking food to order. I hardly eat fast food and when I do I don't expect to wait 35 minutes for mediocre food.
-2705f2df-d7f0-4467-9a3c-61f63a44a8c2|5|2026-10-01||easy to use, saves some $.
-a4b14261-e2ab-4f9c-bd17-cba52afea3bd|5|2026-10-01||got a free fries with my order
-7b1718f1-77d9-4df7-a150-4f2a2de140b7|5|2026-10-01||its good
-3401563d-1587-4361-85fb-6f8afda8ce8c|1|2026-10-01||the meat was raw and it tasted like a can of potted meat it was nasty. I have always loved Burger King especially the Whopper but we ordered two Whopper meals when I got home and was eating my burger it tasted nasty. I'm being honest and tomorrow I will go up there and ask for a refund cuz that was nasty I am worried if I'm going to get sick now because the meat was pink and it tasted nasty
-62f710c7-d130-447e-8d05-653e2fae1e16|5|2026-10-01||easy to use. no problems at any time
-b8474181-3087-4f11-bf85-40dbd33931d1|5|2026-10-01||always fast and friendly
-8e6e35a8-125a-4fd1-b60e-6e51a9b4a088|5|2026-10-01||Burger King has that special charbroil Burger that has that unique taste, which I choose overall the others for a great burger!!! For over 30 years
-bfff734f-6673-43d9-b0a2-fa4c895d29e5|5|2026-10-01||Very good deals.
