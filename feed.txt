@@ -1,3 +1,9 @@
+14664686032|1|2026-10-14|Shame|They close at 4 but never take order at 3:40 😒😒🙄
+14664079236|5|2026-10-13|Hi|Love it so much
+14663134105|5|2026-10-13|I rule|Love using the app, so easy and fast service!
+14662952628|5|2026-10-13|Alonso|I love it
+14662670040|5|2026-10-13|👍🏼|🤗
+14662412589|1|2026-10-13|😠😠😠|I HATE FORCED UPDATES
 14659734715|1|2026-10-12|Why Bother?|Why should people bother to order using the app if Burger King’s employees don’t bother to read the instructions for the order???
 14659675418|5|2026-10-12|Great deals for families|👍
 14659419778|4|2026-10-12|Timing|Waited 8 minutes for my orders and when of the order was done wrong
@@ -42,12 +48,21 @@
 14631157492|5|2026-10-05|Amazing app|They always have good deals I check before doing everytime and get a lot of rewards
 14631093047|1|2026-10-05|Customer service|What’s terrible is that the restaurant you order form can get your order completely wrong, but you won’t get a refund for being upset about having multiple missing items.
 14628505886|5|2026-10-04|Easy to earn points than McDonald’s|Since I downloaded this app, I’m already a 1,000 points in just a few uses.
-14627777086|5|2026-10-04|Best place to eat|Love the food selections/options pricing and food quality and acceptable service
-14624491257|1|2026-10-03|No veggie options|The app is too complicated to customize if you’re a vegetarian.
-14624128724|4|2026-10-03|Item not available|It’s frustrating to order a Blue Frozen Fanta on the app. Driving to the store only to be told the location doesn’t have it 🤯🤬
-14623069297|2|2026-10-03|Have it your way twice|The app itself would be fine other then a habit of toning up orders twice. The store can’t correct this and the app won’t fix the issue unless you provid them with the contact info I use Apple Pay to avoid giving out. At this point I just order at the drive through  The savings aren’t worth the hassle.
-14622719833|5|2026-10-03|Frequent Good Deals|We don’t eat out often, but when we do, the BK app usually has a pretty good deal that really helps with the cost of food.
-14621742415|1|2026-10-03|Terrible|The app barely works, it’s extremely slow with processing orders and giving actual updates. It doesn’t show driver on map only that eta and majority of the time the eta is wrong. Don’t bother using it just get it in person or order McDonald’s
+9b8ebf16-7dff-41f9-b824-ae00c23189ab|1|2026-10-14||my order was not correct
+600e17ff-8b10-4607-86f2-6c1c3cd0116c|5|2026-10-14||I love Burger King better than any fast food around . big fan cause I'm the King
+3fda33d9-5002-42f6-8eec-1555427596b9|3|2026-10-14||Food is great, but there is a constant issue with processing orders on the app. 60% of the time, my order just wont go through, ive tried relaunching the app, refreshing my cart, changing locations and payment methods and none of it works. plz fix
+ded55ae5-754c-4b97-8402-59d733f54092|1|2026-10-14||won't eat there ever again your not the king just the idiot who trusted them and their cold food
+a9a33271-b74b-49a6-a392-537835a25698|5|2026-10-14||good
+a69fe7d9-b083-41e6-b74c-079794e5475c|2|2026-10-14||bad
+abd47341-5766-475a-ac79-29c425186e99|5|2026-10-13||Great food! Nice employees 👍
+d1a108a8-2ebe-43ac-84ce-1365736f70b7|5|2026-10-13||good prices good service
+0893d1b8-e22d-4025-9f97-26d8a9500875|1|2026-10-13||hard to use seems to change hard to figure out how to use it
+68f1dbf4-e442-486f-bf6a-58ba3244b428|1|2026-10-13||Had crowns removed with no confirmation screen to play a game on the app. lost all the crowns that were being saved up.
+6342808a-f183-4396-a472-eb604ae28c20|5|2026-10-13||great service very clean establishment
+f5d2c632-6dc5-479c-89bd-674a4609f35d|1|2026-10-13||The pretzels burger horrible
+8f19d4a9-f78b-48bd-a32f-570b8ae93658|5|2026-10-13||Great food and good service.
+adcae362-7e4d-4cfb-b05b-baa25751257c|1|2026-10-13||the breakfast menu won't load, so hopefully you're not trying to order breakfast through the app
+b0689213-0df4-494f-98dc-d89e0db4c70f|2|2026-10-13||working here is a joke, the managers are beyond two faced and if you like waiting in amusement park style lines this is the place for you. #1090 Wilkes-Barre Township PA Location.
 95f7e635-84a6-4a9c-ad64-963dd139d6b9|1|2026-10-13||the most laziness design can't even add my phone number too get points the only thing I can get is use code
 acff6206-172d-44bc-98ae-cd0386605d06|3|2026-10-13||had 307 crowns. finished a taste for 125 crowns, and now my crown balance is 328. It's not making any sense.
 89cea008-27a9-41d6-9782-0d507ac001bd|5|2026-10-13||use it at least twice a month
@@ -133,18 +148,3 @@ d91052ff-47c0-44e1-979b-3d12f9c7014b|5|2026-10-05||Food is always fresh & staff 
 ed61ce77-028b-4479-a80f-e83e6ed1ec1a|5|2026-10-05||I like the app its well organized and easy to use I just wish they would fix the soda machine in the dining room at the Elmira NY location on Lake Street
 122dac66-f801-41f9-8d28-93b9f0c10480|5|2026-10-05||great flavors 333
 c9e3c934-2f8f-4bc8-8817-c151a8bb602d|1|2026-10-05||AVOID. waited over 45 min to check in at restaurant with 0 in line before me. 99% of my experience with this is same. AVOID. NO CUSTOMER SUPPORT TO IMMEDIATELY ADDRESS ISSUES
-5ccfd0a9-d84a-4ede-b918-46fa751642ee|1|2026-10-05||false advertisement.... inside lid of the whopper box is a QR code. it's says, "let us know how we can improve your experience". so it makes you download the app but there is no place to "let them know" without buying something. this is classic bait and switch advertising. also when you what to add something extra on a sandwich it's and extra .50-1.00. but if you choose to remove anything, do you get credit? no.
-ee3e9c9b-ccd1-40bc-888f-dcf8cc6d2638|1|2026-10-05||The single star says it all for me. No words necessary.
-3b92e66f-045e-460d-939f-ed4ec736eba6|2|2026-10-05||McDonald's app is more user friendly than Burger King's. Matching the offer to the code and to the location so that the order is received quickly and correctly is frustrating.
-c3ced9a6-1c39-43b1-b154-d40043b92600|3|2026-10-05||tables dirty food fast but prepared poorly
-b86f4f89-5262-4323-aba5-2d98e2336da9|4|2026-10-05||not to many deals
-01f863c7-0efc-4772-a956-0e86ed88f927|5|2026-10-05||Convenient, affordable, friendly people and tasty food/drinks. Big Fan. Keep it up .
-5e4eddb6-acab-461c-a6b0-07e4d23c655c|1|2026-10-05||Wake up people you gave me the wrong order idiots
-8bb63164-f48e-40e8-afcd-2770a88fdfbb|1|2026-10-05||This app is BROKEN. After several failed payment attempts on the app, I brought it to an employee in the store and they replicated the same failed results with 2 other employees. After rudely suggesting maybe there was something wrong with my card, the payment went thru immediately on their register. Sorry! they did say, but this app is still broken. I LOVE Burger King, but this app is a joke 🤣
-9e41a2cd-91fa-4c6b-b48a-c4144b5c09e0|5|2026-10-05||fast & clean Great Employees!!
-e9320a8f-da49-401d-8ff4-57437a0de3b4|5|2026-10-05||very easy to use the app and convenience when you are in a hurry.
-b90348c7-4dd9-4ed1-a96e-5b7f8e897567|1|2026-10-05||stop taking my points away that I have spend my hard earned money on. no reason why I cant save my points. to spend when im ready to use them not rush to use them. greedy America
-c963176b-1f1a-4ef6-adfc-69147f91504f|1|2026-10-05||Used to have the best food deals, Now its bogus, 2 small whopper meals for 19.99, they cost 10.49 at regular price. And now you cant even upside your fries or drink.
-fc8e8c2b-5bed-4b94-9351-7e152a96a267|5|2026-10-05||Much love to Burger King 🍔 Great APP! Thank you!
-0649c08f-f2b8-4c81-96d2-fc626d689065|3|2026-10-05||this particular night they didn't even acknowledge our online order until we waited then asked for it.. the order hadn't even been started 5-10 minutes after the scheduled pick up time. positive note- food was exactly what we expected. Hopefully better service next time.
-3a3c8208-c961-4663-b491-4229cda5e46a|5|2026-10-05||good hot food
