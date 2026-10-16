@@ -48,6 +48,17 @@
 14631157492|5|2026-10-05|Amazing app|They always have good deals I check before doing everytime and get a lot of rewards
 14631093047|1|2026-10-05|Customer service|What’s terrible is that the restaurant you order form can get your order completely wrong, but you won’t get a refund for being upset about having multiple missing items.
 14628505886|5|2026-10-04|Easy to earn points than McDonald’s|Since I downloaded this app, I’m already a 1,000 points in just a few uses.
+0af34f9a-8eff-4bdf-bb1c-9b193bfcf3cc|5|2026-10-15||Burger King is having a comeback and im here for it
+b77d1dba-3c1d-4f2c-9a5f-f9c8b12b00a1|1|2026-10-15||Did your survey but didn't get a code or anything at the end...won't happen again.
+81aed84e-fec7-45c4-8bc6-8bfa1c964d5e|2|2026-10-15||food wasn't hot last time.
+f19d38a3-9868-4603-a236-53d2e5118093|5|2026-10-15||Very easy to use and customization options are nearly endless.
+02dd6f61-abbe-4b69-b1c2-4f26594fb44e|5|2026-10-15||Jacob B, Justin B, Janie, and Erin, you all are amazing. Showed TRUE Team work, AMAZING customer service and I hope you all are recognized because BK they RULE, thank you
+dc299c37-d4bd-411c-876d-6b613aed8a27|5|2026-10-15||It's Burger King. This location had Friendly service.
+e61ba8f7-855b-4a4c-989a-fe2f71804815|1|2026-10-14||randomly started to declining all forms of payment
+a177ad0f-4041-46df-9c78-a83ffc460cca|4|2026-10-14||I ENJOYED MY VISIT AND SO DID MY SON AND DAUGHTER.
+5ba2c69b-8568-4f49-a444-35e352c0aa09|1|2026-10-14||no way this app is rated 4.5 if you look at the reviews they're almost all ones and two stars. it's a piece of junk for me doesn't work never opens properly can't load coupons can't order. this is confirmed on two smartphones that doesn't work
+58c4edd0-66e8-40ae-b7c3-6078f9bc4f08|4|2026-10-14||The app is fine but a free impossible whopper should be redeemable for 700 stars just like the regular whopper. 1000 stars? What are we doing?
+6d280a9e-64d8-405c-bfd2-15e68e76fb91|5|2026-10-14||easy to use. gives you full control of your order
 9b8ebf16-7dff-41f9-b824-ae00c23189ab|1|2026-10-14||my order was not correct
 600e17ff-8b10-4607-86f2-6c1c3cd0116c|5|2026-10-14||I love Burger King better than any fast food around . big fan cause I'm the King
 3fda33d9-5002-42f6-8eec-1555427596b9|3|2026-10-14||Food is great, but there is a constant issue with processing orders on the app. 60% of the time, my order just wont go through, ive tried relaunching the app, refreshing my cart, changing locations and payment methods and none of it works. plz fix
@@ -73,7 +84,6 @@ e12befe4-ec91-41df-8235-f19f79ed4d46|2|2026-10-13||I waited over a half hour for
 cc81c029-d3d1-4c20-9818-07fbac4819c4|1|2026-10-12||App was fine until today when I was forced to update it. Now I can't order the Duo or the Trio because when I choose an item, the screen isn't visible, only a tiny slice of it. Nothing works. Not force stopping etc. Want my deals!
 55a2191a-a679-430b-b213-e6fb7c6a9328|5|2026-10-12||Very easy to navigate and find what you are looking for
 59329661-9e70-4b74-b2fe-976305f3594d|1|2026-10-12||the App sucks
-92f3b3d4-a1f5-49c3-b4de-fc3e553fe32e|5|2026-10-12||I love Burger King
 cce5e5a8-ffc5-4282-89a2-c1da1f095741|3|2026-10-12||I request and demand a scheduling option. Taco Bell does it. So does Panera. Also McDonald's. Most of these restaurants let you schedule a pick up. How do you not?
 5b69c863-b38b-4cfd-94c6-c1cc09763917|1|2026-10-11||would not load my code embarrassing at the window
 8154d620-cbb2-424f-a851-d420b4aa2213|1|2026-10-11||NOT EVEN RELIABLE. The app won't give me a code, its just keeps saying error. I have an s25 ultra, definitely not the phone. I cleared cache and data, Uninstalled and reinstalled it 3 times and it kept doing the same thing!!
@@ -138,13 +148,3 @@ d5770096-1598-4dc7-9065-6ad3d3beb665|5|2026-10-06||great place
 4fb650d7-f59c-4780-9fb0-4762cfe9746c|1|2026-10-06||App has never has any deals. All the "coupons" are incredibly expensive and a ripoff. Burger King is nasty and I'm not gonna pay $8 for a Whopper.
 9744bd97-a38a-47c8-bf6d-5b1f20c8234e|1|2026-10-06||make it where you can pay at the restaurant, sick of paying for stuff you are out of and getting a refund through my card
 02c12569-cb5a-4dd5-9b9d-88120cf5f8a0|1|2026-10-06||tired of every time I try to order on the app either the store is closed and the app says it's open or the app says the store is closed but they're open with it being 2026 and you guys want to go to technology you might want to fix it just had a request a refund because of your issue and just putting into the store opens up at 6:00 a.m.
-8474b5dd-56db-49de-8204-dc7ccc711a21|5|2026-10-06||all good
-ae0251fb-d334-424b-821a-0654b291c927|5|2026-10-06||excellent interface, very easy to use!
-501a5789-59e0-402b-942c-5ac91ad6e6cd|1|2026-10-06||burger king gathers your data so they can hinder you for using their offers. After I used their offer twice they changed the offers and claim the restaurant I use no longer participates in that offer. Walmart+ is supposed to have 20% off and a free whopper every 3 months. Then they removed it and don't honor it when you sign up. total scam
-b483c1af-35fb-46f5-a7ce-eb0e5275d54c|1|2026-10-05||tried to place an order but it failed like 5 times before I gave up
-d91052ff-47c0-44e1-979b-3d12f9c7014b|5|2026-10-05||Food is always fresh & staff is incredibly friendly. The Whopper Jr [cut in half] meal in small is the perfect portion size for an adult. I share my soda with my husband and we share the fries too. He usually gets a plain Cheeseburger and we're both happy "eating junkfood" and stay without some semblance of regular portion sizes. The food is fresh & very good and you can ask for them to cut the burger in half. 🍔🍟🥓🥤
-69a4641d-d875-468e-ae86-d70382294d20|1|2026-10-05||man these people at Burger King don't know what the he'll they're doing they need to get their stuff together and work as a team if you want to know witch burger King the one elida road
-467c1497-aa88-4795-934a-9f85847b69e3|1|2026-10-05||crappie food
-ed61ce77-028b-4479-a80f-e83e6ed1ec1a|5|2026-10-05||I like the app its well organized and easy to use I just wish they would fix the soda machine in the dining room at the Elmira NY location on Lake Street
-122dac66-f801-41f9-8d28-93b9f0c10480|5|2026-10-05||great flavors 333
-c9e3c934-2f8f-4bc8-8817-c151a8bb602d|1|2026-10-05||AVOID. waited over 45 min to check in at restaurant with 0 in line before me. 99% of my experience with this is same. AVOID. NO CUSTOMER SUPPORT TO IMMEDIATELY ADDRESS ISSUES
