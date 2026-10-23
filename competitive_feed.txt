@@ -1,3 +1,35 @@
+McDonalds|14696917776|1|2026-10-22|I have used this app for years on many different versions. They have ALL had the same bug and I’m finally done. McDonald’s uses location tracking to find out when you’re close to their restaurant, but they never turn this tracking off. You have to manually dismiss the app for it to stop. I got food last night and woke up to them still tracking my phone. This happens regularly. This is not an accident, they sell your location data. Turn your location permissions off for this app, even setting it to ‘only while using’ doesn’t work.
+McDonalds|14696911757|2|2026-10-22|I have had the app for over a year now. The deals are good and I really enjoyed them, but the app has always been super slow for me and I have heard the same feedback from others. I know I am in an area with 5G in the app still will not load probably half of the time I go up to the drive-through.
+McDonalds|14696879319|3|2026-10-22|Sure, you get points for free food BUT it takes about 7,000 points to get a $5 item!  Ridiculous
+McDonalds|14696414158|2|2026-10-22|Unfortunately, the app seems pretty spotty. I add an a deal to use at the restaurant. A number pops up, and then the app freezes, and then it registers that I used the deal, so I can’t use it again, even though I never used. Very frustrating, and I know there’s other options I can go to
+McDonalds|14695966300|1|2026-10-21|Sign up requires captcha. Trick or treat requires me to enter a new password instead of using my existing account. Captcha requires me to click 10 different pictures. So annoying.  And let me use the app without update.
+McDonalds|14695953141|1|2026-10-21|They keep their GPS tracking on well after you place your order. Why don't they turn it off? Why when the app is closed does it keep tracking gps in the background? It used 18% of my battery life in 6 hours running only in the background. It is shady and should be investigated.
+McDonalds|14695900910|1|2026-10-21|Keeps asking for precise location and throwing errors if it’s not allowed . You aren’t able to view rewards and deals without it (even if you’ve manually selected a store location). This is clearly not about app functionality and has everything to do with selling information (the very first thing you see when installing the app is related to targeted advertising permissions).
+McDonalds|14695853526|2|2026-10-21|Drains 1/3 of my battery from background usage. Have to manually force stop the app.
+McDonalds|14695588081|1|2026-10-21|Every time I open the app it closes when I’m trying to add a code. How does a multi billion dollar company not have a basic app?
+McDonalds|14695575542|1|2026-10-21|I ordered a simple cone and they couldn’t even get that order right. After waiting a long time to receive my order, the app stated I had already received it when I was still waiting. I still had to wait in the drive through to pick up a simple cone.
+McDonalds|14695533763|1|2026-10-21|Hey @McDonalds @McDonaldsCorp — please escalate this iOS blocker bug to your mobile engineering team while Monopoly is still running!  Environment: • Device: iPhone 17 Pro Max (MFXM4LL/A) • OS: iOS 27.0.1 (Latest) • McDonald's App: v26.72.5 (Latest)  The Monopoly "Scan Your Code" UI requires holding the phone 3–4 inches from the game piece to fit the white scan brackets, but the app locks the camera to the raw 1x lens (which physically cannot focus closer than ~8 inches on Pro iPhones) and disables tap-to-focus.  Side-by-side at the exact same distance: • iOS Camera App: Auto-switches to Macro Mode (yellow flower icon) + tap-to-focus works. Razor sharp. • McDonald's App v26.72.5: Locked to 1x lens, tap-to-focus dead, 100% blurry. I've had to manually type every single code.  Switching the scanner's AVCaptureDevice to .builtInTripleCamera (or defaulting the scanner preview to 2x zoom) fixes this immediately!
+McDonalds|14695505353|1|2026-10-21|What a stupid app when you try to get a direction it sends you to another place, such a bad service!
+McDonalds|14695003616|5|2026-10-21|Problem fixed . I can use my monopoly tickets . Thank you !
+McDonalds|14694899154|2|2026-10-21|The apps malfunction at times. It won’t let you see your rewards, keeps lagging when you try to log off to log back in to see if that works… is been like this for days
+McDonalds|14694805973|1|2026-10-21|Doesn’t let me log into the Kiosk at McDonald’s pls fix asap
+McDonalds|14694657960|1|2026-10-21|App is fine, but the deals suck.  What’s worse, you can only use one reward OR one deal per order.  Never both, never more than one item.  Then you’re locked out from ordering for 15 mins.  So the app is fine, but they’re full of it on the rewards and deals.
+McDonalds|14694649238|1|2026-10-21|I purchased a small sausage muffin meal in VA 10-21-26 around 7:30am, upon looking I didn’t receive my points. No number to call and I can’t find my receipt. Monitor your points after purchases.
+McDonalds|14694632554|3|2026-10-21|For the most part, this app works fine as intended, but please, PLEASE fix the scanner for the Monopoly game, it is awful and rarely actually scans a piece.
+McDonalds|14694568912|1|2026-10-21|this app sucks. constantly not working and not giving me points
+McDonalds|14694433213|1|2026-10-21|Your scanner for Monopoly is awful. I guess the best way to save money is to make the person type in every 300 digit code. My kid eats your food like it’s free and when I finally get free food, through the game, I have to jump through hoops like some stupid quest. Thanks for nothing.
+McDonalds|14694363364|1|2026-10-21|Just downloaded the app. Then, when I tried to go back and use it….nothing. Nothing but ads. No icon on my phone is visible.   Then again, it could be my IPhone…..a phone that does whatever it wants to do. In this case, not listing the McDonalds icon.
+McDonalds|14694330639|1|2026-10-21|The last 10 time I went to I give the code they’re saying it expired…. I even tried a different item on a different day and the staff member says the same thing I’m not understanding How the code expires when I literally JUST claimed it right before I got in line and when I try to refresh it says to wait 15min to redeem again
+McDonalds|14694284236|1|2026-10-21|there's no way there's this many people saying the app works no issues, the app has CONSTANT issues EVERY SINGLE TIME i use it there's an issue, and it's usually pertaining to the address. just let me put in and select a mcdonald's you don't need MY address for it and it's making your app suck. the amount of times i have just closed the app and not ordered anything because of how frustrating it is is pathetic
+McDonalds|14694086264|1|2026-10-21|The frequency of updates makes it really discouraging to use the app
+McDonalds|14693972888|1|2026-10-21|Kiosk sucks because it’s a pain to pay and check out it’s like it’s trying to force you to buy more. After I finely got my order in it left me know way clearer to pay no one comes to front to ask how to pay and others are very upset with me because I can’t make this thing work and I’ve been hearing the meat they make dogfood with is the same meat you make my burger with it’s a wonder im not barking.
+McDonalds|14693870103|2|2026-10-21|In general it works.  The frustrating part that appears to have never been addressed is being able to see your current order.  Whether you close the app or look elsewhere, you seem not to be able to go back to the current pending order.  You can buy more stuff.  You can see it as a past order to order again, but you simply can’t just go back to it like when you ordered it in the first place.  If I am wrong, then it is not easy to do.  What is Easy is giving them more money.  It’s also easy to be stuck with where you ordered.  Miss the exit and want to move it to another Mc D’s.  Good luck.  Have a problem when using a deal and having to leave to try again….sorry deal is gone until tomorrow even though they know money was never tendered and deal should still be good.   I challenge the brass at McDonald’s to be heavy users and truly experience what the target audience experiences.
+McDonalds|14693857562|5|2026-10-21|Great app and deals are good as well ;)
+McDonalds|14693423688|1|2026-10-21|I’ve tried numerous times and methods to sign in. Always errors out.  Sent requests for help and never got any responses.  McD just sucks
+McDonalds|14693293587|1|2026-10-21|I end up not getting anything often because the app thinks I redeemed when I haven’t. Today it was at kiosk inside because my drink order was doubled and I was trying to get back to remove one drink. So the app thinks I already redeemed even though I never completed order. Your app can’t tell if the deal was redeemed? Stupid! If I can’t get my order because of the app then guess what? I stop going to McD’s!
+McDonalds|14693095136|1|2026-10-21|I ordered an egg McMuffin. Everyone knows that’s the one with Canadian bacon. Then I try to redeem my points to pay for the sandwich as I’ve spent HUNDREDS OF DOLLARS at McDonald’s by now. I’m sure they can spare an egg McMuffin. Then I’m told it only applies to sausage McMuffins, so I can’t use my points and I pay cash. I pull up get my order. Get to work, look in the bag and it’s a NASTY sausage McMuffin that I PAID FOR. I can’t even eat my food because the sausage McMuffin is too greasy and upsets my stomach. Not loving it…I have dozens of these stories. That’s why I stopped going to McDonald’s. Too cheap to really offer desirable rewards for loyal customers.
+McDonalds|14693087956|1|2026-10-21|I shouldn’t be limited to 1 receipt 30 days! The kiosks don’t work all the time to use the codes, which is already an inconvenience! Then to be told you can’t still use your receipt to claims points😡😡 it’s not fair! Fix plz
+McDonalds|14692900277|1|2026-10-21|app doesnt work.  tried using the coffee coupon in drive thru and said wait 15 minutes.  left without even ordering and angry at mcdonalds
 McDonalds|14692478669|3|2026-10-21|Don’t order anything that they normally don’t have ie. ice cream or a limited time item
 McDonalds|14692007833|1|2026-10-20|I have only been using the app for the last couple of months because I like the fries. So far, only a few of the codes work at the restaurant and the app stole 3,000 (t) points from me. I also won a monopoly prize which promptly disappeared when I tried to claim. Done.
 McDonalds|14691929893|1|2026-10-20|I’ve tried to use this app for months. It hasn’t worked the whole time. The monopoly game???? I can’t load any pieces.
@@ -16,38 +48,24 @@ McDonalds|14690911660|1|2026-10-20|The app glitched and took my payment and then
 McDonalds|14690793587|1|2026-10-20|I can no longer use the app because it wants me to update and I can’t
 McDonalds|14690741232|1|2026-10-20|guess its my loss thanks a lot multi billion dollar corporation for getting my order wrong when i barely have money to go there
 McDonalds|14690615273|1|2026-10-20|I used 3500 points to order a 6 piece nuggets, it took the points, canceled the order as soon as I pulled in the drive thru, and won’t give me back my points. Customer service is non existent, my message just recieved a generic “thanks for the feedback” email but no resolution.
-McDonalds|14690442719|1|2026-10-20|Read title
-McDonalds|14690419301|3|2026-10-20|Frustrating that you have to update the app like once a week
-McDonalds|14690319599|2|2026-10-20|Often times the curbside number input doesn’t work and you have to physically walk into the store, wait for an employee, and ask for your food.
-McDonalds|14690242489|1|2026-10-20|Tried to download multiple times keep telling me to update address all the way at top of screen and can’t even click on the banner during the registration process. Says try again later it’s been 2 days. The app is honestly to large and I don’t even have any major apps that would prevent me from adding this one.
-McDonalds|14690217524|1|2026-10-20|It won’t let me app my monopoly codes to the app it’s a scam
-McDonalds|14690215459|3|2026-10-20|I gave the McDonald’s app 3 stars because of an issue I experienced while placing my order.  I had everything ready to go, but when I tapped “Submit,” the app suddenly disappeared from my screen. When I reopened it, my order was still there, so I went ahead and submitted it. However, I should have double-checked everything because, without me realizing it, the app had changed my drink selection and size, and charged an upgrade.   I didn’t notice the mistake until the employee handed me my drink. When I told her it wasn’t what I ordered, she asked what I had ordered. I checked my receipt, and sure enough, the order had changed. At that point, I just told her to forget about it.  Unfortunately, the employee wasn’t very courteous about the situation either, but that’s a customer service issue and has nothing to do with the app itself.  On a positive note, I do enjoy the rewards program! I appreciate being able to earn points and redeem them for free items. I just wish the app were a little more reliable when placing orders.  Overall, the rewards are great, but the ordering experience could definitely use some improvement. My wife says she usually has issues with it too.
-McDonalds|14690095354|1|2026-10-20|Did you even test a device when scanning the pieces?  It will not focus and read on an iphone18 pro.  Also while I’m eating I wanted to enter game pieces but there is no link to do so!  What are you doing?
-McDonalds|14690012172|2|2026-10-20|Sometimes it works sometimes it forgets my account and have to re log sometimes / most of the time it dosent let me log in so I can’t bend order food
-McDonalds|14689982745|3|2026-10-20|App works fine, one bug is that when I place a pickup order, I’ll get a notification that the order is ready, but when I arrive at the location, the app will say that my order will be ready soon. Also, some text inside buttons are small, such as the Review and Pay button when completing an order. The size of the button is big, but the text is tiny inside the button.
-McDonalds|14689821169|1|2026-10-20|Some stores don’t even have receipts anymore and with the app not working i don’t get to collect my rewards. this app is basically taking up space and a waste of it at that
-McDonalds|14689507135|2|2026-10-20|The new App doesn’t work (10/19/2026) and when you go through the Drive-Through your order is not ready @ the Pick Up Window anymore.  But  (Ultimately it is my fault for not managing my time well)  Blessings Sam Ephesians 2:1-10
-McDonalds|14689420105|1|2026-10-20|I don’t know how else to submit a bug report so trying here. When entering codes for the Monopoly game, the camera doesn’t work at all. The focus doesn’t adjust so when you’re close enough to see the code it’s all blurry. I’ve had to enter every code manually.
-McDonalds|14689356394|1|2026-10-20|Cant even login with my email.  No wonder why stock price is 4 year low
-McDonalds|14689334489|1|2026-10-20|This app is total trash and zero support from McDonald’s. Had a lot of points saved and were still over a month from expiring when suddenly my app updated and kicked me out for nice I logged back in all my points were erased and haven’t been able to get them back so I can use. Not using this app again or McDonald’s in general.
-McDonalds|14689262603|5|2026-10-20|Everyone at this location is constantly putting their hustle on and you can see they’re effectively communicating in order to provide fantastic service to their customers.   Christine at the Sperti location was extremely friendly and was literally doing multiple things at once and was clearly showing her leadership.   Kudos to the employees at the Sperti location in Edgewood, KY
-McDonalds|14689208645|5|2026-10-20|All is working great except my phone won’t scan and I have to enter code each time.
-McDonalds|14688985556|3|2026-10-20|Idk where people are getting the impression that this app works amazing and has no issues. The app is literal trash with constant connectivity issues and lag. Maybe in densely populated areas with constant coverage of service and whatnot it’s fine. But I’ve never had the app run smoothly and responsive for me, and I always make sure it’s up to date. Genuinely frustrating to deal with. Especially when it lags out when I try to do curbside or any form of pickup.
-McDonalds|14688805198|1|2026-10-20|Slow laggy app with overpriced menu and no real deals or offers. The price of everything on the menu goes up every week. Prices are different between stores in the same town!
-McDonalds|14687972021|2|2026-10-19|Connection and login bugs, UI glitches galore. The food is better quality than the app.
-McDonalds|14687876809|1|2026-10-19|I won a cheeseburger, put it in the app. Drove about 5 miles the next day to redeem it for lunch. It was NOT in app and said I’d already scanned the code. Wouldn’t let me scan it again. Employees would not take game piece. They refused. I was hungry all day at work. I will not go back to CrookDonalds!!!!!!!!!!!!!!!!
-McDonalds|14687740368|1|2026-10-19|I upgraded my iPhone and lost my entire profile. I keep trying to recover the info but to no avail. Sucks to have to start completely over after building over the years. I keep trying to find a contact but there’s not one.
-McDonalds|14687733017|4|2026-10-19|I would like to add Big Mac sauce to my filet. Yeah. Please?
-McDonalds|14687731445|1|2026-10-19|app is so fkn slowww
-McDonalds|14687658275|1|2026-10-19|The app continues to log me out and won’t let me sign in. I’ve cleared the cache, redownloaded it and contacted the tech department. At this point I suspect that once you hit a certain amount of points, your  app “experience issues” until your points expire so they can get you to start all over again and spend more money.
-McDonalds|14687598809|1|2026-10-19|We have a store across from our town little league field. Directly across the street.  If I am across the street I don’t understand why it is not being made.  I have to go there and select “ i am already here” and still wait while the drive thru customers are prioritized. Ive had the manager look at my phone and tell me they dont have my order- only to see my ticket come out of their system 30 Minutes after  i placed my order.
-McDonalds|14687379335|1|2026-10-19|I’ve been using the app in and off for a couple years. It goes through periods of when It just stops working. I’ve been trying to use the app for the past week with no luck. All it does is show a blank screen and yes I checked to see if it needed to be updated and even uninstalled it
-McDonalds|14687343138|1|2026-10-19|18 pro and can’t focus on game piece.  Have to type each code manually.
-McDonalds|14686965777|1|2026-10-19|There’s zero help now and I’m just going around and around in circles it’s impossible to log on.
-McDonalds|14686956296|1|2026-10-19|Sucks
-McDonalds|14686946378|1|2026-10-19|Count your days McDonald how is it that the ONE time I order mcdelivery and my order gets CANCELLED. Do better
-McDonalds|14686925339|1|2026-10-19|Once again, the App jammed up and would not load the order screen. Common occurrence, so I always bring cash just in case. It only works about half the time. What a waste of time.
-McDonalds|14686891016|2|2026-10-19|I’ve had versions of this app for years. When it works it’s great. Some versions have been better than others. The newest version makes me sign in every time I open it. The worst part is it hardly ever works. I try to log in multiple ways and have finally given up. Good luck to
+Wendys|14696114927|5|2026-10-21|Get in the choop
+Wendys|14695946578|4|2026-10-21|I love Wendy, despite their decision to shred their lettuce, reducing the potential of their flagstone jbc.  Overall, good app. Rare issues with promos/ ill description of “soft” drinks
+Wendys|14695683161|5|2026-10-21|I always come here and it’s pretty much always late and those kids are ALWAYS SOOO RESPECTFUL.. UNFORTUNATELY IVE FORGOTTEN THEIR NAMES BUT THEY ARE ALLLL VERY RESPECTFUL AND JUST HELPFUL AS WELL!! Thnx yall!! I’m always the one who doesn’t understand why my app is always messing up on my phone.. lol
+Wendys|14695111506|5|2026-10-21|It’s true! Fresh never frozen is simply the best of the best in drive through dining!!
+Wendys|14694970118|1|2026-10-21|Website is NOT user friendly🤬
+Wendys|14694945853|4|2026-10-21|Not sure why I have so many issues. Most frequently my location gets stuck at a singular location and nothing I try resets it including deleting the app.
+Wendys|14694872591|1|2026-10-21|Food cold and a freaking fly wrapped up with my burger!!!
+Wendys|14694866770|1|2026-10-21|That’s stupid
+Wendys|14694663687|4|2026-10-21|Bring the sweet sour sauce back PLEASE!! And add a couple more deals and all will be good.
+Wendys|14694436095|5|2026-10-21|I order from Wendy’s quite a bit, and their app is very easy to navigate. Also, the way they have things categorized is very efficient. Overall, 10/10 app.
+Wendys|14694317307|3|2026-10-21|It kept promoting me for the meal which is a separate menu. If I wanted the combo I would’ve went through that menu. Offers are hard to use.
+Wendys|14694121292|5|2026-10-21|Wendy’s has been having great deals lately and the food is really good. I visit Wendy’s frequently
+Wendys|14694065884|5|2026-10-21|I love that I can pre order lunch
+Wendys|14693996773|5|2026-10-21|The Wendy’s app is awesome!!  Is is so easy to use and saves me money almost every time.  I love it!!
+Wendys|14693926464|1|2026-10-21|This app is garbage there have been countless times where the software simply does not allow you place an order. Why do you have an app if it doesn’t work? Are you paying worthless Indians for the privelage of having an unusable app? Just delete the whole thing or make it work. I simply have given up on this company and will never dine with Wendy’s again. The quality of the food has plummeted, as well as the service. We live in hell in this country now and you’ve set the standard, Wendy’s devs.
+Wendys|14693895449|1|2026-10-21|Wasted my short lunch time trying to order “free” 6 piece nuggets it refused to add nuggets even when my order exceeded the $5 item to qualify
+Wendys|14693448390|3|2026-10-21|Sometimes they mean ash and mess the order up even after taking forever, theres this one guy in particular whos really cool but other than that its very 50/50 on service
+Wendys|14693396832|5|2026-10-21|Good app
 Wendys|14692082773|1|2026-10-20|I use all the apps from all the different places to eat and I literally hate your app with a passion.
 Wendys|14691193942|3|2026-10-20|Please bring back the regular wheat bun for your burgers the new potato bun taste like stale butter
 Wendys|14691082505|1|2026-10-20|Charged my credit card $25 when I only wanted $10. I want to talk to someone in management about this.
@@ -80,24 +98,9 @@ Wendys|14686694708|4|2026-10-19|You guys should have offered sweet tea than the 
 Wendys|14686515197|5|2026-10-19|And not biased bc I am a red head w freckles lol
 Wendys|14686460164|5|2026-10-19|💯💯
 Wendys|14686418747|3|2026-10-19|The app currently will not load any images for the fright challenge. This was happening before and after the most recent update. I’ve deleted and reinstalled the app to no avail. I would like to participate in the promotion but I simply lack an avenue to do so due to the shortcomings of the app. The only things that load on the hone screen of the app are the offers. All other cells are grey
-Wendys|14686236872|5|2026-10-19|I love breakfest wedges
-Wendys|14685874208|5|2026-10-19|I love the app BUT it has to be immediate. You can’t set up a time later to pick it up. Other than that I love it
-Wendys|14685812109|1|2026-10-19|Fix your app why is it ALWAYS GLITCHING, literally unusable.
-Wendys|14685692899|1|2026-10-19|Today was honestly the final straw I needed to get breakfast and I tried to order it a few minutes before the closing point the app decided to buffer for three freaking minutes how convenient I’m so done with Wendy’s hope they go bankrupt soon. I know it’s coming.
-Wendys|14684372157|1|2026-10-18|how can you have the place shut down the registers and still take orders online? I show up and have to waste my whole break waiting for a system to turn back on? Then DONT let us order if thats the case! absolutely ridiculous
-Wendys|14683972705|5|2026-10-18|I quite enjoy this app and the UI. This is a surprisingly good app - other fast food platforms can certainly take notes on this app. Super easy to understand and great favoriting and perks features!
-Wendys|14683958004|5|2026-10-18|They had 50 nuggets and I thought that was pretty cool.
-Wendys|14683814533|1|2026-10-18|Coming to get a frosty have been avoided this location for quite a while. It’s getting worse and worse and worse they have no workers. The speed of service is ridiculously slow.. I don’t think the people who own it or run it care that I’m sitting with about 9 to 10 cars in line waiting as they take one car at a time. I’ve been in this line for about 12 to 15 minutes and if I wouldn’t have already paid online, I would leave.. They just need to shut this location down because they obviously don’t care on a local Leavell or a national Leavell.
-Wendys|14683795801|1|2026-10-18|Manager
-Wendys|14683559602|3|2026-10-18|The App itself typically runs really slow. It is not necessarily user-friendly like so many others out there.  The drinks that you used to be able to pick are no longer available. They don’t have a place to choose any kind of condiments. The app compared to the other fast foods is severely lacking. The only reason I got it three star rating is because I like their food. But if I didn’t, then they’d probably get a one
-Wendys|14683495054|1|2026-10-18|Every time I order through these app, I get the wrong items and there is no support options. The app give you your phone number that is not monitored. There are no options for emailing or chatting with support. This is not acceptable.
-Wendys|14683376450|5|2026-10-18|I appreciate the service you provide. Food is always prompt and delicious. Orders are correct too.
-Wendys|14683291206|4|2026-10-18|Awesome app
-Wendys|14683264429|5|2026-10-18|Amo tudo
-Wendys|14683221339|5|2026-10-18|Wendy’s is awesome they  have extensive menu!
-Wendys|14682827317|1|2026-10-18|The terrible app kept locking up and i couldn’t order
-Wendys|14682785963|1|2026-10-18|I have to reinstall the app every time I need to use it terms & condition gets stuck
-Wendys|14682291744|3|2026-10-18|I use lots of fast food apps and this app has some of the worst deals. We need better deals and free food!
+Dominos|14695355565|1|2026-10-21|Congratulations Dominos, you hold the new title for worst food app ever.  After 15 minutes of trying to figure out how to order, I gave up.  Most unintuitive garbage app ever. Wow.
+Dominos|14695021409|1|2026-10-21|I’ve checked the settings multiple times and the “special offers & deals” notifications are turned off, yet i still get frequent push notifications with random deals and offers. Stop forcing these notifications. The only notifications I have turned on are for the “pizza tracker” and in the past couple years that’s become very inconsistent as well. It used to update every step of the way but now will jump past steps straight to the order being ready.
+Dominos|14694929578|1|2026-10-21|I used to be able to select previous orders. The new update took that away. Garbage.
 Dominos|14691205005|1|2026-10-20|I had a coupon code that did not work. The customers support for this application was bad. There is no customer service number to call for this issue. Also fake advertisement for coupon codes.
 Dominos|14687267426|5|2026-10-19|3 pizzas for 24 dollars. This app is the definition of saving, especially when you realize it’s like $20 for a pizza regularly.
 Dominos|14683451381|1|2026-10-18|The app keeps logging me out and I had to reset my password everytime. Despite the remake of the app, some functions seem to be unstable.
@@ -145,9 +148,26 @@ Dominos|14659950049|1|2026-10-12|Half the time I can’t even order with the app
 Dominos|14659655530|1|2026-10-12|The new app as of October 11, 2026, is terrible. The old versions were really good. This new version kept deleting the wrong pizza, and I didn’t realize it and my order was wrong. I’m going to stop ordering from dominoes until the user interface is fixed.
 Dominos|14659427439|1|2026-10-12|Used a promo code for the new $1 domino pizza that worked then when I go to checkout it says technical difficulties. Even tried to change my order, same thing. App is useless if it won’t let me pay. Wouldn’t even let me pay in store. Fix your app and don’t give out promo codes if you won’t honor them!! Scam!!!
 Dominos|14659244539|1|2026-10-12|It is absolutely ridiculous that Domino’s customers can no longer easily access their order history through either the app or the website. Something as basic as viewing previous orders should be a standard feature, especially for a company as large and established as Domino’s.  I spent an unreasonable amount of time searching both the app and website just to view my last two orders, only to discover that the option is no longer available.   How does a company redesign its digital ordering experience and somehow make it less convenient for customers?  Customers should be able to easily access their previous purchases, including what they ordered, when they ordered it, and how much they paid, without having to dig through emails…  This is simply unacceptable. Removing such a basic and useful feature is a major step backward. Domino’s needs to bring back a clearly accessible, complete order history on both its app and website. There is absolutely no excuse for making something this simple so unnecessarily difficult.
-Dominos|14659207373|1|2026-10-12|Says payment failed when it’s on a credit card that has never declined.
-Dominos|14658766270|1|2026-10-12|Received an email that there was $1 dominoes personal pizza.  Went through the process of ordering it with the code and received message "we're sorry there seems to be a technical problem".  Waste of time!
-Dominos|14658555713|1|2026-10-12|Tried ordering online with Promo “ DOLLARDOMINO” but after putting in my debit card number In & placing my order , I got “ We are experiencing technical difficulties issues “ , also says to call local store which I did but they have no way of putting in a  PROMO CODE to use . Frustrating 😫Domino’s is the only pizza we like ,bummer
+Starbucks|14696933589|4|2026-10-22|I wish to be able to pay with my card instead of a gift card. At the Safeway Starbucks in Piney Branch D.C I rather pick up there.
+Starbucks|14696912812|3|2026-10-22|I love the Starbucks app besides 2 things. Not able to pay with Apple Pay and I can’t add as much as I want for my classic syrup pumps.
+Starbucks|14696797611|3|2026-10-22|Fast and efficient but the menu is difficult to navigate.
+Starbucks|14695693332|5|2026-10-21|always very fast service, easy to navigate app, and good reward systems
+Starbucks|14695244775|3|2026-10-21|It sucks.
+Starbucks|14694866145|5|2026-10-21|Love everything about Starbucks
+Starbucks|14694802737|5|2026-10-21|Love my drink coffe favorite ❤️
+Starbucks|14694788831|4|2026-10-21|When the app says that the order is ready, usually it’s not ready for pick up, so you have to wait extra time in the queue
+Starbucks|14693543543|5|2026-10-21|Starbucks app is my most used app next to tik tok and instagram! I appreciate the stars system. It’s convenient and makes it more simple when rushing in the morning!
+Starbucks|14693292196|5|2026-10-21|I’m obsessed with starbucks but lower your prices for middle class americans i support yall way too much and lowkey two drinks and one break feast sandwich should not cost $20
+Starbucks|14693167323|1|2026-10-21|My account profile shows zero transaction history and zero rewards stars, which is incorrect.   I did not get rewards on my recent purchases.  I first reached out for help on 09-25-2026.   I have dealt with a handful of specialists who are unable to resolve.   The last one told me to open a new account.    I have money on my existing account.  So that makes no sense.  Not a single person who tried to help me in the United States…..  difficult to understand
+Starbucks|14693143402|1|2026-10-21|Since update and customization options were removed I can no longer order my drink the way I like :( very disappointed.
+Starbucks|14693123463|1|2026-10-21|Multiple people have reported crashing - still is
+Starbucks|14693027183|5|2026-10-21|This app is very good easy for use , when you drive
+Starbucks|14693014530|5|2026-10-21|It’s so nice to be able to order ahead no matter where I am, and it's always my specific order and with no waiting.
+Starbucks|14692879112|5|2026-10-21|I love using the Starbucks app! It’s easy to navigate, convenient for ordering ahead, and makes earning rewards simple. It saves me time, especially on busy mornings. Great experience overall. Highly recommended!
+Starbucks|14692819624|5|2026-10-21|Good food and drinks I love this place so much
+Starbucks|14692788641|5|2026-10-21|My baristas are great
+Starbucks|14692719163|1|2026-10-21|For the last week I haven’t been able to open the app. It will not load. Keep checking for an update to no avail.
+Starbucks|14692682333|5|2026-10-21|People in the Shrewsbury, Massachusetts location are very pleasant and they know how to do it where other locations just seem not to. The people do make the difference in this particular location. I do happen to really like these people.
 Starbucks|14692539567|5|2026-10-21|It’s a good app to use and get good deals on
 Starbucks|14691042822|5|2026-10-20|The store rocks🎸   Service five star service⭐️⭐️⭐️⭐️⭐️
 Starbucks|14691013341|5|2026-10-20|Is so amazing. I love Starbucks so much Starbucks is my life. I love I love I love Starbucks. It is my favorite thing to drink. It always saves my day. I love you, Starbucks.
@@ -178,26 +198,29 @@ Starbucks|14687190034|5|2026-10-19|I like to drink espressos options from Starbu
 Starbucks|14686965055|5|2026-10-19|Thank you so much for the mornings you guys make possible 🥰
 Starbucks|14686946721|5|2026-10-19|My favorite app so far.
 Starbucks|14686815642|2|2026-10-19|Update: the app has updated once again and it still won’t open.   Since the update three days ago the app won’t open so I’ve been going to other coffee shops 🤷🏼‍♀️
-Starbucks|14686736957|5|2026-10-19|Soooo worth it!!! Not even a question! If you love Starbucks, this is for you.You can pay super easy with a cool scan feature.You can order ahead of time so you don’t have to wait in line. You can DOORDASH from the app!You save soooo much money with the points you earn. I love Starbucks and this app really upped my coffee game!
-Starbucks|14686648002|5|2026-10-19|I keep getting my drink, sadly there are no many choices for real sugar free. How come in London drinks taste great and less sweet?
-Starbucks|14686169054|1|2026-10-19|I usually love to order ahead because I’m usually running just on time to work. The app has not worked at all in three or four days. I’ve tried uninstalling and reinstalling several times, shutting my phone off and turning it back on. Nothing has worked. Which means I’ve gone to work hungry for the last three days. Fix it!
-Starbucks|14686050699|5|2026-10-19|Todo el personal siempre es muy amable y me gusta que por la aplicación es súper rápido pedir
-Starbucks|14685971879|5|2026-10-19|Love Starbucks I get it in the mornings at work cause it’s literally next door.. Celebrating my birthday today!!!
-Starbucks|14685896866|2|2026-10-19|I absolutely hate the new look of the app , please go back to the old one 😫😫😭
-Starbucks|14685515966|1|2026-10-19|The latest update to the user interface is trash. I guess some dev needed to justify their existence and changed it. If it ain't broke, don't fix it.
-Starbucks|14685251069|5|2026-10-19|The food and drinks are always there when you come if you place an online order.
-Starbucks|14685199525|5|2026-10-19|Great star rewards offered
-Starbucks|14685143130|2|2026-10-19|Prices don’t reflect on individual menu items, check out button moves creating unnecessary additions and then removal of items, lots of UI bugs in this version. I wish I could downgrade to the previous version of the app.
-Starbucks|14685091112|5|2026-10-19|Never disappoints
-Starbucks|14685036940|5|2026-10-19|🩷🩷🩷🩷🩷
-Starbucks|14685031382|5|2026-10-19|The baristas at the 87th location are a 10 with the CUSTOMER SERVICE!!!!
-Starbucks|14684122306|3|2026-10-18|Was not given my croissant
-Starbucks|14683678100|5|2026-10-18|Very clean and organised
-Starbucks|14683539659|5|2026-10-18|Starbuck is always the best for coffee and drinks.
-Starbucks|14683265662|5|2026-10-18|Easy
-Starbucks|14683232728|1|2026-10-18|Can’t login account
-Starbucks|14682987276|1|2026-10-18|It’s very annoying that I can’t add multiple ways of payment. It’s also annoying that you can’t combine your gift card balances. It’s also very annoying that the minimum amount you can reload on a card is $10. Why would I not be able to reload a custom amount. Super inconvenient app. Not Happy.
-Starbucks|14682866697|5|2026-10-18|Great service thank you.
+McDonalds|da2c6415-3a75-42f1-b8d3-b3f912eaa0a8|1|2026-10-22|cant use the app always error
+McDonalds|501682c8-4967-42d1-bf69-ec2b597284d4|1|2026-10-22|at first, no QR code appear, then uninstalled the app and download again. now totally can't install the app as messages "something went wrong"
+McDonalds|50486614-bffd-462d-ac05-8e4beb4e6ff3|1|2026-10-22|no longer working on my phone
+McDonalds|6180e7a1-781c-474a-9ffd-fb9484fc9253|5|2026-10-22|service is Best for new people
+McDonalds|4ff5acc3-0a49-41bf-bad9-dd2447cd81aa|5|2026-10-22|very useful app
+McDonalds|21a0c3ed-0423-4227-84ef-a3f3ad6831b2|5|2026-10-22|McDonald's Malaysia provides access to its menu, promotions, and ordering services. It is a convenient option for customers who enjoy fast food.
+McDonalds|98f0e776-628d-46ab-ae7d-95d209581ea4|1|2026-10-22|This airport's not working
+McDonalds|1ff97c0f-6119-4bed-a46d-cad59f06f028|5|2026-10-22|czwsc ja xgce ocenix mcdonald.pozytywnie... pomagal mi w trudnych czasach :// kiedys mialam 110... kg... :/// ale teraz mam 209😊😊😊 dziekuje!! koham was makdonald... gdyby nie wy... to...niepowiem💞💞💞💞
+McDonalds|4b612a63-5de2-46db-8f69-08e730948e6d|1|2026-10-22|fake
+McDonalds|fd1669f9-37ac-4b98-8ebb-a4845909aa19|5|2026-10-22|awesome 👌 👏
+McDonalds|e28ecd7e-0596-49f1-baf6-1512a54ecdff|4|2026-10-22|Vivo V30 Pro!
+McDonalds|52ea2119-d418-4d58-8fa2-c6eb6880103a|1|2026-10-22|slow download and install
+McDonalds|461fc1b3-b890-42c7-aa1d-a9c1abde189d|5|2026-10-22|I can't open this app
+McDonalds|5ee86360-fc98-407e-b49e-4180f0778fb1|1|2026-10-22|always loading cannot log in. please fix should fix your apps. always had problem with payment and not really convenient apps.
+McDonalds|7b172d29-c1f3-4e77-a7df-1be4fc4c4fdb|5|2026-10-22|always great deals and fast service
+McDonalds|3027c09b-1c0a-4a8f-81af-ef5d31da8170|1|2026-10-22|Loading for 6 minutes
+McDonalds|d8cc262b-1729-4301-9901-5d81a5c9dcf5|1|2026-10-22|Does not work at all with GrapheneOS
+McDonalds|6febba07-2b08-4e11-b9ab-12f0c4bd08e7|1|2026-10-22|Always unable to open the apps.
+McDonalds|1536b174-1b82-4665-8f0a-63e274f60bd3|5|2026-10-21|amazing
+McDonalds|ca1ea597-3301-49c7-bb02-92c48aad6fcb|5|2026-10-21|👍
+McDonalds|24551885-40f6-4a61-808e-b96a71256ec1|1|2026-10-21|I successfully placed a delivery order. But a few minutes later, when I tried checking the status, the app just kept loading. I’m effin hungry, bro! I’ve been waiting for hours!
+McDonalds|f9faee95-be5d-43c7-9e5e-2b90c9039f42|1|2026-10-21|pakatagal super duper ultra mega
+McDonalds|8f145a1e-abca-4dee-bcd1-3873885a9e8d|1|2026-10-21|I installed the app, but it was not working.And I checked the review of this appSo many bad reviews of this app 😐😑
 McDonalds|129e90c4-9563-459c-ba08-623eb970f99f|5|2026-10-21|if you guys get an error whilst having the latest version, try to uninstall Happy Mod or something similar to that
 McDonalds|a4dd26dc-1fd2-4153-9760-8c1a5ac3dc56|1|2026-10-21|waste app and the staff is not good and they are not receiving the customer in the descent manner and app also taking so much time to send code to Email waste Mcdonalds in nexus mall kphb hyderabad
 McDonalds|5d313b33-0d80-4eed-9562-12322d382c22|5|2026-10-21|love the app its so helpful and have alot of fun using this.
@@ -215,29 +238,20 @@ McDonalds|dbee2af6-2c4d-441c-8831-926352688566|5|2026-10-20|I love this app
 McDonalds|79a5bc42-5e83-4764-8c8b-952895d5c2cc|1|2026-10-20|odehg
 McDonalds|4a6bef6f-a5f0-4f8c-a66e-07f7ce5f1c1f|5|2026-10-20|it's good
 McDonalds|5c9da39b-2fef-4891-a35d-7de45722e90b|4|2026-10-20|can crash at times
-McDonalds|52dcd5b2-d5b7-4298-8a49-3c0820994c9a|5|2026-10-20|choice
-McDonalds|0614cbb0-7b3f-4153-a7d7-c0684e46b0bc|1|2026-10-20|Oops! Something went wrong.
-McDonalds|f6beb05a-d898-41f2-b3cd-8c9041c688e1|1|2026-10-20|I got almost hacked on my social media acct when I download it on my phone!
-McDonalds|d363a2dd-1a03-4d75-b530-046212550a2d|5|2026-10-20|its an easy to use app
-McDonalds|e344b49e-8e74-4a41-b25a-1de45c2f92dc|5|2026-10-20|great taste easy to take away!!
-McDonalds|dbdf786e-e9eb-443f-a184-0325afb9b08b|5|2026-10-20|good service 💯
-McDonalds|2044bf40-b6b1-4234-85e7-6ab1218dcfa4|1|2026-10-20|first time buying and ordering mcdo and also first time using its app just to be scammed, i ordered and pay it with gcash and the gmail i use to contact them got blocked, three times
-McDonalds|86fe9bb5-c90e-487b-a97f-667201481f29|1|2026-10-20|one of the worst services ever
-McDonalds|a43087a9-62f5-44fa-b2bf-354a236f771b|1|2026-10-20|Even though I am downloading it from google play. it's telling me that im using a third party app and that I should download It On the google play store.
-McDonalds|dbb64498-c6f4-4ff0-9fa7-002759574b45|1|2026-10-20|Removing free items for points
-McDonalds|13614686-11ef-404e-b62a-fc30add691f9|4|2026-10-20|nice app 🤠🤠👍 of my life is not a problem 😁
-McDonalds|091311b0-f610-4d70-9741-2634bdd59cf0|5|2026-10-20|best and good
-McDonalds|ff13a9ce-e725-44dc-aaef-63b51effa9b9|1|2026-10-20|please train your staff
-McDonalds|8a09f08b-0ad3-4f10-bf84-d46d2dd241c9|5|2026-10-20|This app doesn't open faulty
-McDonalds|46f00525-78f4-4441-9a26-0bd37d6af1d5|5|2026-10-20|great
-McDonalds|0c7d451b-8c7e-437d-891f-23e88ef3e668|1|2026-10-20|od kilku miesięcy aplikacja kompletnie niezdatna do użytku. nie chce się uruchomić wypluwając komunikat o błędzie, albo ładuje się kilka minut. wersja aplikacji oczywiście najnowsza.
-McDonalds|630f03b7-3df5-4ef3-9865-8ed8b2996e84|1|2026-10-20|Unable to update.
-McDonalds|cd0752d9-f87b-4df4-a527-654ff0a81643|5|2026-10-20|perfect.
-McDonalds|d9ba475b-f487-4350-9f05-b130785ee55d|5|2026-10-20|nice aap1
-McDonalds|e7f19e1b-1fdf-4cc4-bc46-b49ec404ff10|1|2026-10-20|nawala prizes ko
-McDonalds|acfd47c3-f7ac-48bd-aa54-d93c7c1bc3d1|1|2026-10-20|My points were deducted, but I couldn’t use them because the McDonald’s app kept showing an error. I hope the team can fix this issue and help restore my points or assist me in redeeming them. Thank you for your assistance!
-McDonalds|c4b1cbf8-3805-4c18-b4c4-2b96a3872d0e|5|2026-10-20|very good
-McDonalds|4830fb48-eb02-419f-b283-1aff1674b281|1|2026-10-20|gopay failed
+Wendys|1a5d48d8-02db-439f-846b-5590f12883cb|1|2026-10-22|You will put a coupon in for 2$ off and it will only apply $0.94 it makes up a random number for the discount instead of giving you the 2$ or whatever you apply
+Wendys|960aaaa9-5c0b-4d70-ab73-db15cbc736c4|3|2026-10-22|App is terrible. Lacks context, ability to view and edit cart. It's easy to get confused navigating the menu. The best burger in the fast food business but the hardest to buy. I want to give you my money but I can't figure out how. That's not good.
+Wendys|5efe9203-40a5-46b3-8337-d4852cb6311d|5|2026-10-22|love it
+Wendys|704087ec-2eaa-4572-ad92-63a4e221bea4|4|2026-10-22|the chicken nuggets and ranch have been absolutely superb today! the perfect 👌 dinner out with my boyfriend; celebrating our anniversary & my bday.. 🫶🪻
+Wendys|1912d454-7394-46c7-89c1-c52d4ef83a22|4|2026-10-21|The process is a bit complicated. but it is fine.
+Wendys|8c8fbb38-6776-47cc-942d-0f3d81939520|1|2026-10-21|this app barely functions
+Wendys|bcec18b3-4a79-4a12-86b8-5150a8135512|1|2026-10-21|This is by far the worst fast food app. if you made this app 10 times better it would still be the worst fast food app. it seems like whoever built this app built it using design principles from the 1990s. user functionality should have been resolved by the year 2026, but Wendy's likes to live in 1998.
+Wendys|678779ae-77bb-4c2d-bcaa-b1f3a068fb70|1|2026-10-21|very rude staff. was yelling across restaurant uppon arrival with the assumption that we were not ordering food. very disrespectful.
+Wendys|6e3cb7bc-6710-4925-978f-8807720f7950|4|2026-10-21|We have good luck with ordering and the orders as well. I really like their salads although they've gotten smaller.
+Wendys|6415e960-f53a-40b2-a830-ef3d8784c680|2|2026-10-21|app is so slow
+Wendys|943ce4f0-c7b8-47eb-8a28-76cf60ca85b9|1|2026-10-21|the app never workj for us.
+Wendys|a26a4af7-86eb-4203-aab5-4e9ae94707f7|5|2026-10-21|Add free nuggets to order and entire meal became free
+Wendys|a4f87b86-62a2-46f6-80cb-994acbafa67b|1|2026-10-21|mehhh
+Wendys|3c04e6c9-915a-4139-b895-432bcca8ee8a|4|2026-10-21|Need just a condiments section, for side of cheese, extra napkins, extra saltines...etc
 Wendys|2cbda4b7-46a1-44b7-90d3-69ca33db53ea|1|2026-10-21|Got told they didn't have burgers because they were cleaning. asked me if I wanted something else then still proceeded to make my order wrong. This is why I never come here.
 Wendys|0262fe08-5722-47b2-a312-671684aff630|5|2026-10-21|the fact that it's not McDonald's automatically gets it a 3 star rating, and being a affordable gets the other two. its nice to see a corporation that has not become so delusional that it charges what they pay their employees for an hour of work for a burger that was 1/3 that price 2 years ago.
 Wendys|aafa0eef-f56b-4324-b156-7abe3b8f7a55|5|2026-10-21|very friendly staff, food is usually fresh and hot, orders are correct every time! I enjoy coming to this store! keep up the good work night crew! you're showing the rest of the Cadillac fast food places up!
@@ -264,20 +278,20 @@ Wendys|81680938-06e9-4489-b714-5add2619fc89|3|2026-10-19|Not user friendly.
 Wendys|fa955575-e6ee-4553-b941-b3e455113597|5|2026-10-19|Always good experience and on point!
 Wendys|4def7530-bd50-492a-91d2-58c3ef0c3ede|5|2026-10-19|Very fast and simple. Great service.
 Wendys|5587ac57-e8cb-4c4f-b57c-15ec3f88e554|1|2026-10-19|I find that when I pay for food I automatically expect it to be made so I can pick it up. in the app you pay for your food then you have to scroll down to the bottom and say make my food which is very stupid in my mind and it should be changed. I will not be using the Wendy's app again until it changes I paid for a burger that I never got.
-Wendys|ee39c05a-c8bd-4c70-8313-b7760e8527b0|5|2026-10-19|like their nuggs and fries.
-Wendys|b3e43f3e-b107-45a1-b13e-6fa7dfdcdf18|5|2026-10-19|very easy to order from the app.
-Wendys|777cec8d-59d9-49b0-854c-8f29ee4a5441|1|2026-10-19|will not start up. installed and un-installed several times with same result.
-Wendys|c20daabb-90ac-4a21-87ae-2566b69c4de7|1|2026-10-19|app never wants to open is extremely slow
-Wendys|a8068424-a88a-4a14-b181-3e60165bbae8|1|2026-10-19|app is always broken. can't make my order so I'll go to a competitor who's app actually works.
-Wendys|9fdcd6c4-ed45-4a91-8888-4cb1b2766848|1|2026-10-19|just loads and loads and loads and nothing ever happens, garbage everytime
-Wendys|2f81fb67-c335-47ba-8898-6012d7dc177e|1|2026-10-19|finally getting the results of their stupid high prices...many franchises failing.
-Wendys|7ad087e8-6688-4131-9d62-ffa979e556b8|1|2026-10-19|wanted to use offer for free chili with $5 purchase but nowhere on app to ADD a chili!? sucked.
-Wendys|2e1ec4cd-873f-445d-92bb-d1c36967b625|1|2026-10-19|This app won't allow you to order certain bugers (son of a baconator, double stack, a few others). I uninstalled/reinstalled and it still won't allow me to do so. Very inconvenient when trying to order drive-thru. I'll update review when this is fixed...
-Wendys|d0758e90-0464-4e6f-8d35-4af1a4d6cf08|5|2026-10-19|Good 👍
-Wendys|843ed544-e38c-4ed6-8faa-d382bae5b77b|1|2026-10-19|APP IS SLOW
-Wendys|54c98be2-2a6d-4bee-a5a8-29fb0d08d791|1|2026-10-19|infinity loading screens makes this app do literally nothing. guess wendys doesnt like money.
-Wendys|66146c07-8aec-4e9d-92f7-e88f8540d439|1|2026-10-19|this app doesn't work half the time, and it's constantly giving errors. having to uninstall and reinstall the app after each use is very annoying.
-Wendys|6a1c6ec9-6f57-4774-8f71-2f1d7d492940|2|2026-10-19|way too many prompts, inputting credit card defaults to photo - and acrivates flashlight. annoying.
+Dominos|f6332989-b37c-41c1-b9c0-382295c09aab|5|2026-10-22|I love you Dominos in Westchester, CA
+Dominos|cb11b366-a374-4728-9336-42ad09aa5c00|1|2026-10-22|Used to work, then they "fixed" it. Now I can't tip when using gift cards or split charges between gift card and credit/debit. Can't redeem the free pizza I got when they screwed up my order, and it refuses to acknowledge my location. Even the stupid "pizza tracker" is less informative now. some corporate moron got paid for this.
+Dominos|26eb4632-2e45-4d98-874b-c8985fccc1ca|4|2026-10-22|Every time I have used it, it has been very easy to use. why is it every time I open the app I need to update it?
+Dominos|0a0b419f-8836-419c-9f1c-5c3c45bba665|1|2026-10-22|i keep getting a recaptcha error when trying to sign in
+Dominos|ad244023-e461-4126-9e42-fe2fc42ba2b7|1|2026-10-22|Wont deliver to my address, drives by my home daily going to 2 Developments ¼mi on each side of me. If I call the China Grove NC location they will deliver. The app is obviously created by a MORON. THERE'S NO WAY TO CORRECT AS SOME LONG TIME EMPLOYEES HAVE TRIED TO CORRECT THE ISSUE BY ASKING MANAGERS FOR HELP. I use to order twice a week. Now if I have to go pickuo,Ill just get Chinese,Wendys or a local food truck. Its your loss,not mine. Its just a minor inconvenience when someone wants pizz,
+Dominos|6e6ef006-9721-411f-8cb1-996498a131eb|1|2026-10-22|wont answer the phone. cook your pizza and let it sit for an hour, then try to deliver it. NO THANKS. ANSWER YOUR PHONE SO WE CAN CANCEL. WE ORDER DELIVERY FOR CONVENIENCE, IF YOU CANNOT FULFILL YOUR OBLIGATIONS I EXPECT A PHONE CALL SO WE CAN CANCEL, OR ANSWER THE PHONE.
+Dominos|afcc89a9-462c-47dd-b145-1cf2c8881311|2|2026-10-22|Prices are too high.
+Dominos|268fa572-3dfa-420a-af67-faab3b4558af|1|2026-10-22|charging 7.49 per on the 6.99 deal. simple Topping, not premium. the glitch is that adding mushrooms to one pizza caused both pizzas to increase in price. Watch your carts folks. be sure to check your totals. they sell 2 million pizzas a day. That is upwards of an extra million bucks per day. There is no itemized breakdown in the app either. shady practices.
+Dominos|df8bbe6f-1769-4e4f-b9be-b7a70a739291|1|2026-10-21|it will just lie about how long your order will take
+Dominos|9a1077fa-2888-4ce4-9985-117917be38c9|5|2026-10-21|I love the app when it's not acting up
+Dominos|c60a1173-2520-401b-b1b8-051204e9111f|3|2026-10-21|I keep having to delete more and more each time there is a update
+Dominos|73b53ab2-fddb-4c64-a924-a8ab527673cd|5|2026-10-21|I enjoy eating from this company, they make it the way you want and I highly recommend to check them out.
+Dominos|96e985f9-a4d0-4d8d-810e-49e0cfdc1d86|5|2026-10-21|quick, easy app to use to order pizza, sandwiches, and pasta. the desserts are scrumptious and the bread bites are very tasty. fast service too.
+Dominos|078f547d-58d6-47aa-9d49-7eb65e0bca74|5|2026-10-21|It's so easy to order.
 Dominos|0c8fb65d-d70f-433e-bf5c-ed02583c526a|5|2026-10-21|yummy
 Dominos|95624eac-7f6e-458d-97c9-fdd5875bce70|1|2026-10-21|The app lies. It said my order started being made 14 mins ago but at the store I see on their screen my order is in queue and nobody has started making it yet. A very nice staff member told me I would have to wait longer and that's fine but if the app hadn't lied to me I wouldn't have gotten to the store so early.
 Dominos|74fd9449-d87a-453e-828e-dffb8cf7400f|3|2026-10-21|This app has gone through a lot of changes in quick succession. likely not enough time spent in QA/UAT, as there are frequent bugs. Most are just annoying, today's bug blocks tracking order updates.
@@ -304,20 +318,23 @@ Dominos|e8709d0a-99d8-4710-a00e-1195bef24aa7|5|2026-10-19|Great look 👌🏾
 Dominos|8430d964-8157-4eee-a52b-b7d932faed3a|5|2026-10-19|it yummy 😋
 Dominos|4cb7b6d6-280b-49af-ac49-c333579155e6|1|2026-10-19|I had bad service at Domino's
 Dominos|28758495-f089-4168-bddb-78ca0eddc57b|5|2026-10-18|Great service and good quality food.
-Dominos|9a04cd79-dae5-4c06-be4f-a03c210fb20f|1|2026-10-18|it's been awhile since i can't pay through the app, it always gives me technical issues and to try again over and over but still says technical issues
-Dominos|03e734b3-fe71-4732-b1f3-3dc2cdaca6ae|2|2026-10-18|some times it's delivered l. looks like it been setting hours and it's hard and cold. I just live 1 mile away.
-Dominos|241a6b81-81ae-4733-866b-616409bb3a49|3|2026-10-18|cheap pizza.
-Dominos|42d93be8-e2e2-427d-a6b1-6170b81a5b9d|5|2026-10-18|I like it & it's easy to use. A definite time saver as I'm heading to work. Update, it was a little tricky figuring out how to switch from "pick up" to "delivery," with yhe updated app. When I am impatient, the adds for trying to get you to buy more are frustrating. But, this is life. We all are slaves to the all might $$$. I do enjoy the ease of the app for sure top tier 👌 Enjoy, my fellow humans. May you all be blessed 🙌
-Dominos|8b667389-af48-4a6c-b187-1164ed75662d|1|2026-10-18|Hey, thanks for now making the app even more confusing to use. 10-18-26 Just try to use this app. It is incredibly incredibly slow. This is unbelievable. I just closed it and decided to go elsewhere. You all need to fix this. This seems like there's often a problem with this app. Hunger and a poor working app don't mix 😒
-Dominos|551699e4-3006-482a-b134-ea09ea6b5f0b|5|2026-10-18|Best cheat day meal. Has been my go to for years now. Preorder and pickup work smoothly, you can easily customize your pizza and they pretty much always get it right. Great treat after a week of hard work
-Dominos|da4280a5-730e-4b2b-86ef-0a2fca1b1f2b|1|2026-10-18|won't let me tip the delivery driver while paying with a gift card
-Dominos|474e3718-bdf5-4be0-ad2a-b19f8e8b9d71|1|2026-10-18|Higher prices when using app
-Dominos|d5f46b54-944b-4d07-916d-5cb2225c188c|4|2026-10-18|very highly recommend but make sure you have a good internet connection cause the dominoes app does tend to be out of service alot more than most...
-Dominos|de8e0556-5fce-4f4f-8462-b2aa81d1d8a4|1|2026-10-18|Never works. Always "Technical difficulties" At checkout.
-Dominos|ee19830a-ab6d-460a-afac-4f975bfbe088|5|2026-10-18|Sometimes there's some bugs or maintenance but overall the app is good
-Dominos|c1851476-0122-425f-b4ff-2735b03e265e|2|2026-10-18|The new workers (young teenagers) at Wilson Rd Newberry do not make pizza good. They need to be trained correctly! I will not go back until I know something changes. Wasted my time twice. 2nd time was a remake. Pizza dry, barely any sauce, the bottom of the pizza look like Papa John's. I rather eat a frozen pizza!!
-Dominos|02edce9c-f706-4f4e-8380-abfccf013dd8|1|2026-10-17|Have twice had this app hacked and received fraudulent charges. Be careful with this one. It is not safe.
-Dominos|d80b4bf8-ff44-48d3-aca9-cd7a3345cb5a|2|2026-10-17|Whats the point of having app only deals if you add them and when you get to checkout and its still full price? everyone check the total before checking out!
+Starbucks|7664f067-4860-45ae-8c4e-35f003e97097|5|2026-10-22|quick and fast ordering
+Starbucks|8d72aae2-f72e-4f29-81d7-db4b2c30cca1|1|2026-10-22|cannot sign in without chrome. please fix this.
+Starbucks|29d0d1de-d2b0-4100-a3b2-2df175239bef|5|2026-10-22|it's a good app. I like that I can order stuff I previously did easily. I do with the drive thru option was the default tho
+Starbucks|293a4707-5a08-4d7d-8814-35055496e108|2|2026-10-22|app is broken now. wants me to reinstall chrome so that I can login. it also always wants me to enable google location services even though I gave it GPS. My GPS shows up just fine on the map but the code is written to depend so heavily on Google Chrome and Location Services that it has no alternative to use
+Starbucks|b8f005ee-a79f-40cf-a4a2-9666c52961cf|3|2026-10-22|Need to add the actual date to receipts. For people that travel for work, "yesterday" and "today" are not helpful for expensing a meal.
+Starbucks|35e36bc1-70fe-4e05-85af-62261bde55af|1|2026-10-22|app doesn't work. web browsers are all up to date yet it pops up saying I need to update my web browser before continuing.
+Starbucks|b5034a35-0c7c-4f81-9ba2-26d42cf1e9d9|1|2026-10-22|worse ad ever
+Starbucks|a01ac756-6230-4de0-9fa7-a66474d2ae6b|1|2026-10-22|Cannot log in! i even tried setting up a new account with the app, but as soon as i log out, it will say wrong email or password. Tried reset password, wrong again! Called customer support, who passed me to tech team. Tech team emailed but the instructions didn't solve my problem. never heard from them again. Call CS again, explained everything. Passed me to tech again, who gave me the same email as before when i already told them it didn't work. Replied but never heard from them again!
+Starbucks|bcb48f52-84a6-43ba-9ca1-07d7c877bcaa|5|2026-10-22|how can I get your app update? can you help me out to get your app updated yes or no?
+Starbucks|507d292b-4d6c-482c-ac9a-529e1dace973|3|2026-10-22|it's coffee
+Starbucks|39646d39-a02b-4d78-823b-0914c0ea21f6|5|2026-10-21|Just want to give a shout out to Naomi at the 1361 Lougheed Coquitlam location. She went above and beyond where customer service is concerned. My car battery died while I sat drinking my coffee and listening to the radio in the parking lot. The store was busy as always but she took time out to run to her car to get me booster cables as I was unable to open the trunk of my car. Thanks Naomi for always being the friendly, kind, helpful person that you are!
+Starbucks|a92ddfdf-1f40-4a35-8ac7-e7674dea1c94|1|2026-10-21|Can't sign in through the app anymore, only on chrome website. On top of that, I completed the matcha creme frappuccino challenge however I didn't receive all my stars and my app froze due to the recent update so that offer doesn't exist anymore. I've contacted a representative multiple times on their website but they ask for proof of me accepting the offer.
+Starbucks|077684ba-86be-405a-8b8a-96c38491ff0f|5|2026-10-21|yummy 😋
+Starbucks|bc94233d-c15e-4363-8df0-7f6ec3099062|5|2026-10-21|Great app
+Starbucks|da11c566-ae6f-4091-a0cd-42b366c35136|5|2026-10-21|Easy to use.
+Starbucks|b9b60b8a-6130-4d7e-9de1-711cf4b61361|5|2026-10-21|Awesome
+Starbucks|5eaad8df-7117-4df4-8067-e3b854ca49c7|5|2026-10-21|love the new ui layout
 Starbucks|a54a1aa7-cbbb-4b6d-b482-b8acc0c92aa2|5|2026-10-21|always on time
 Starbucks|999b027d-b4e3-4afa-b950-7125def9019f|5|2026-10-21|easy to use
 Starbucks|2fbb3466-1635-4d7a-9af5-b0f7ba986122|4|2026-10-21|it works
@@ -341,20 +358,3 @@ Starbucks|02e9aea5-a59c-4282-8454-cb7c44339c20|2|2026-10-20|Can't ever get it to
 Starbucks|bb5caef8-b02a-4fd1-a986-77041788dea2|1|2026-10-20|hasn't worked for me in months, can't find stores, menu doesn't load and trying to make a delivery order makes the app crash
 Starbucks|fcb4e66e-60b8-4877-916e-5135a6195dcd|5|2026-10-20|It's easy to follow!
 Starbucks|11e82246-4a4e-4069-8b84-167f95ce432c|1|2026-10-20|App now requires the use of Google Chrome to work. It refuses to open in my default browser which is Firefox. Deleted the app and accessed my account (and payment ability) through the Firefox browser just fine. Won't be reinstalling their app again.
-Starbucks|6dbd3c27-9953-4d09-8523-e6d4990b2443|5|2026-10-20|Very easy to order from, up to date selections with easy macabre changes.
-Starbucks|d7ba6692-e20a-4aba-8370-56eeb620d80f|1|2026-10-20|I'm sure the app is great and all, but if refuses to sign me in, I put in my information and it loads like it's working then goes back to the main screen asking me to sign in, I know my login works because I've logged in to the website just fine, could just be a bug, needs to be fixed
-Starbucks|90a902a7-9247-4497-8825-4cd80e8003a4|3|2026-10-20|parking lot on 610 too small
-Starbucks|e359dff2-87d1-4876-8df0-e58d4f6ab7b1|5|2026-10-20|fave coffee spot
-Starbucks|53e45e46-bd89-4880-96d0-15444019607f|5|2026-10-20|Great product and great customer service.
-Starbucks|1d11cc3c-e676-4ac3-b184-7defe8d93f67|1|2026-10-20|I installed the app and it doesn't accept my login.
-Starbucks|aabb5a58-526b-4c83-8042-99b63fdc7528|5|2026-10-20|love this place
-Starbucks|81d878b6-361c-4e84-aaeb-6f9bf75d2d98|3|2026-10-20|Where is the option to add steamed milk? It's only an option on one tea, London fog?? I am sad they took away the Royal English Breakfast Tea Latte (the bergamot one left is gross). They still have the ability to make it because it's just a different tea bag, London fog tea vs. Royal English breakfast tea. Now I can't preorder my drink in the app and anyone that wants steamed milk will have to wait 30 min in the morning for a tea! We don't have time for that. Please fix this.
-Starbucks|1e38f261-3ef5-42ec-a1b8-712bace3181e|1|2026-10-20|Needing to have google chrome installed to sign into your app. Goes to show how subhuman you are
-Starbucks|63b56acb-acdd-4aca-8db8-16a3d08cc713|1|2026-10-20|Starbucks loves genocide and hates their employees. why would anyone give their money and data to this company?
-Starbucks|8ae42279-e937-4804-8564-397d5d181531|5|2026-10-19|easy to use
-Starbucks|69757359-123c-47f5-a7a4-8b418f7dca9d|5|2026-10-19|love it
-Starbucks|194ec7f3-d912-407b-aed0-051778f60243|3|2026-10-19|Do not like that you now have to have chrome enabled on your phone to be logged into your starbucks account
-Starbucks|fd071e56-84a6-4a2d-82f9-ac857620e12a|5|2026-10-19|Starbucks fiend here! Love their coffee, app, and rewards!
-Starbucks|3a55e8fc-c5c2-419e-bf89-c84e81fad5fa|1|2026-10-19|I'm not able to sign in to my account.y password and every thing is correct. but every time I select sign in it loads and kicks me out to the sign in screen like I never signed in. I've uninstalled and reinstalled the app. I've check for updates. I was signed in but after the last update I can not. coffee is way to expensive at 7.00 plus a cup for me to not be earning stars
-Starbucks|b82c04eb-de8e-4493-9ae1-15053293d5a8|5|2026-10-19|great drinks, great service
-Starbucks|6a402f04-af64-4589-9630-7902df80963d|5|2026-10-19|I have public anxiety so I love that I can order on this app in my octagon
