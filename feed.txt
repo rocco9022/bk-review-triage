@@ -1,3 +1,5 @@
+14703267782|5|2026-10-23|Delicioso|Rápido y rico
+14701729943|1|2026-10-23|Be prepared to wait and eat cold food|There’s no fast food here. I’ve gotten faster service at an eat in restaurant. “Johnny Love” is the manager and has clearly not trained this group of disorganized workers.
 14699102182|1|2026-10-22|Like the app|I hate the service, it took forever and then I got someone else’s order.  Not really too bad, I like the whopper and chicken sandwich but the other person got chicken nuggets.
 14699074735|5|2026-10-22|Bk|Amazing app for rewards
 14698754811|5|2026-10-22|Good app|It’s easy to use
@@ -46,8 +48,20 @@
 14667723831|5|2026-10-14|Better than McDonalds|Love the new taste
 14667563641|5|2026-10-14|Good food|Cheap prices and excellent service
 14667225934|5|2026-10-14|Free Burger|I had it my way!
-14667217733|1|2026-10-14|Wasn’t made right|My whopper sandwich was made wrong I didn’t get the onion rings on my sandwich like  I ordered. When I got to the restaurant there weren’t any customers inside. I didn’t see any cars in line at the drive thru. Cars must have started coming because I waited at the counter and they were waiting on the drive thru customers before me. Finally after they waited on 6-7 drive thru customers someone asked me what I was waiting for. When I told them my order I had to wait for 3-4 more drive thru customers before they made my order.
-14667109441|5|2026-10-14|Coffee tea|The coffee is so good!! Better get better discounted coffees !!
+fd5cd575-e90c-4be5-bac2-9ddf32ac757c|3|2026-10-24||make sure you ask for sauces,straw and ketchup or you may not get any. double cheese burger bigger than whopper jr.
+f0526562-2074-423c-af67-9c6ef6d92b7c|5|2026-10-24||absolutely 💯 percent great app for really good food!
+e0e7bcb5-0b50-4b71-8550-da543acc7361|5|2026-10-24||awesome! free water.
+4d1a4c33-443a-4a96-a412-0c22cdac01fa|5|2026-10-24||Great
+ad675ad5-22c3-4399-9bd4-cde8600e819a|1|2026-10-24||BK staff almost always mess up my order. And their Whopper Gaurantee is a joke; too difficult to use if not dining in the restaraunt. And the BK app often defaults to Gift Card instead of my preferred way to to pay; gift card defaults to 10 bucks for new charges if insufficient gift card balance, so I pay more on a single purchase when I miss changing it to other pay methods, and they keep the balance remaining on the gift card until I use it at a latter date. I do not trust BK. Sneaky.
+08aedea6-e722-441b-a2dc-0887542780bb|2|2026-10-23||For the last few months now I have had the craziest and most annoying experience when it comes to Burger King in general. I had an extremely display of disgusting treatment at one location where I fully more than deserved a refund. the employee lied about not knowing how to do so. the manager the next morning gave me a fake email to file my complaint to. then the lady manage I finally got to acknowledge my issue offered me a $15 coupon. I accepted BEFORE she informed me that it would (tbc)
+de6ce2a0-8340-42f1-9514-3be24f1ca91e|4|2026-10-23||Just like Bugerking
+117f9d95-96e5-4203-867e-e119929562be|5|2026-10-23||great
+17ed675d-0e4e-4121-bad5-541137745dfc|1|2026-10-23||don't order from Burger King date don't do as their commercial says when they screw up your order they do not fix it I spent $30 got completely the wrong order ice cold food and they never replaced it
+c58d306e-2e2f-4c65-99aa-cc2020b315a8|2|2026-10-23||otder on app not prioritized . Just a long wait after payment
+a7da9110-4ae8-4560-b014-9df784698f14|1|2026-10-23||Ordered a Whopper, got Taco Bell! Ordered on the App. The App said my order was ready. I went to the drive-thru, they said they were still working on my order. I pulled around they then told me they couldn't find the order. I double checked. showed them the order for that location and that it was paid. The in App customer service was useless, said they reach out in 24-48 hours. Called customer support, they said they only refund money. Went to Taco Bell instead. Deleting App. Never going back.
+1e84d53e-3c56-425d-94de-08e83d9b3852|4|2026-10-23||Not all people are friendly.
+2e417fca-7400-4b8a-a3f9-6b375db71705|2|2026-10-23||its said 8 dollars but spent an extra 1,50 for the coffee fix ya self or I'ma find you
+bcf87aa9-738d-4925-9d19-2a4ec3434d55|1|2026-10-23||The " text Tom the owner " is a joke. I have used It twice with no response. we go to different BK's from Kalamazoo west to BK's in Ludington MI. I have texted Tom with positive and negative responses. Nothing has been responded to in over 2 months. Tom wants to sell you Burgers but when there is a problem he is not interested. my issues where not special orders but regular things like I ordered a Whopper with cheese and didn't get it and got no receipt.
 c8836e5f-b23a-406e-b823-0ac13d2544c1|5|2026-10-23||I like how fast points rack up. also they have something for everyone and every point level!!
 80ee4882-e48a-4aa3-98db-ff67dd1f98bb|1|2026-10-23||Ordered food on the burger king app, it said the store was open showed up and it was closed. The pickup time is listed as 9:57am when the store opens at 6am I don't know if this is a store problem or app problem but it needs to be fixed
 bd652162-6839-464e-ac48-17b1b225a6c3|4|2026-10-23||it was o.k.
@@ -134,17 +148,3 @@ f7d863a6-e6fb-4c94-af81-d773565b5c1e|5|2026-10-16||Better than Doordash
 2fb758a4-10f3-41dc-be9f-dd4ce7b1d7b7|5|2026-10-16||easy to use
 ccffb324-e565-4662-b3b5-b8f2bf5c9409|2|2026-10-16||App is fine, what i dont understand is why do employees NOT cook the friggin burger till donE, NOT raw, NOT cold and NOT dripping wet with OIL.
 57e69d4f-df12-4153-a039-7b43830ba5aa|1|2026-10-16||the app is stuck on breakfast for a certain location... its been like that for months 😪
-ef33da03-0820-4d71-80d9-a951ba6548a2|5|2026-10-16||I love eating here they have so many of my favorites .
-c466baec-7b78-4a2c-bc0e-a5ffa83f3bc3|5|2026-10-16||Fast friendly service with quality burgers 🍔 👌
-0f890d99-5c1e-463f-bb32-b500d22f8914|1|2026-10-16||Can't order the duo or trio because the page won't open. Been this way for a while. Done fighting with it.
-f06c314b-74fc-4e56-9b35-6a7ba53e39fa|5|2026-10-16||App is working great! Awesome to be able to customize everything your way! The Brewer Maine crew is fantastic! I appreciate all they do!
-4246bbac-7fbc-4e3f-8189-af5f02f7421c|1|2026-10-16||bad on line app! couldn't get it to work.
-adc973b0-e268-4e00-84e9-3481ee5cd131|5|2026-10-15||this is one time I ordered this day and the food was absolutely fresh I had ordered a Whopper extra onion pickle and mayo and an order of two tacos. so I place this order online and I went to pick it up it was exactly what I expected what I ordered nice and fresh. order number 73 through the drive-thru
-a0e7efdf-044f-4fe1-9b0c-de6c5cffd142|5|2026-10-15||have it ur way the best way im loving it
-46f387c3-01cf-48c6-91c4-754736da1c15|5|2026-10-15||Very kind workers. Food tastes good.
-6f003a2b-7061-466a-80f4-2771aab13e32|1|2026-10-15||trash app mc Donald's is better
-b245d140-69bc-4512-8b8a-3fd493ce2af5|5|2026-10-15||fresh food
-236041d7-3e1c-4e54-ac6c-e5aa7a579b61|5|2026-10-15||Love my BK🍟🍔🌮🥓🧀
-ebad2845-920d-4db3-8909-15237b2c146a|1|2026-10-15||menus don't work
-beba60ab-b6c2-4246-9c18-ae15afdf3abf|5|2026-10-15||the Whopper is fantastic the combination of the Patty and the bun is better than anybody else's and the new fries they got l really like them. the service on Saron Drive is great with very nice staff.
-f471930f-c595-4b1b-8f77-2432eb967b19|1|2026-10-15||no deals, rewards expire quickly
