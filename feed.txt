@@ -1,3 +1,7 @@
+14740870960|1|2026-11-02|Close|It says open 24hours took my order and I didn’t receive my order
+14739739132|5|2026-11-01|Its pretty ight|Its ight
+14739716084|2|2026-11-01|soggy buns cold fries|whats the point of the app if everything is not fresh.
+14738820061|3|2026-11-01|Can't customize|I used to love the app! now there are no options to customize your sandwhich if you wanna do things like no pickles or tomatoes etc. these USED to be options. and they're also not transparent about additional charges and fees anymore. it's almost like the app got worse and regressed with its updates.
 14738151347|5|2026-11-01|Good|I enjoy it
 14736617088|5|2026-10-31|BK|I love BK over any other fast food
 14735406468|5|2026-10-31|Easy to use app|Very easy to use
@@ -44,10 +48,17 @@
 14699102182|1|2026-10-22|Like the app|I hate the service, it took forever and then I got someone else’s order.  Not really too bad, I like the whopper and chicken sandwich but the other person got chicken nuggets.
 14699074735|5|2026-10-22|Bk|Amazing app for rewards
 14698754811|5|2026-10-22|Good app|It’s easy to use
-14698459143|5|2026-10-22|Enjoyable!|I like I get up to speed notifications on the new series coming out! Hello kitty!!!
-14698206506|5|2026-10-22|Great service|Went beyond call of duty
-14697929361|5|2026-10-22|Goood|Everything good
-14697729720|5|2026-10-22|Good food|Always in joy the breakfast
+ee0cd80d-ca2b-4a9e-83c4-e13118ea95b9|5|2026-11-02||I always enjoy Burger King. They got great customer service every time I go there.
+181074a9-701a-4119-8073-0dcf0c70bb01|5|2026-11-02||amazing customer service as well as great with having food hot and no long wait for
+6eda4fea-9c15-46c8-af75-6fa066e8bf4e|1|2026-11-02||This app is pure trash in how they handle the refund process. it's sad you have to call the Burger King location before ordering on the app just to make sure they have everything so you won't have to go through the hassle of a refund process
+6a3f5c5a-94dc-405b-9358-00e35b220642|5|2026-11-02||Quick and convenient. Also easy to use.
+9b92b408-f504-4065-a3b9-3256f0f56970|1|2026-11-02||Strongly Do Not Recommend. There is no customer support, so when all their bad stores give you bad service, they keep your money and you can't get help. Once it double charged me and it took a month to get that money back. My whole family is done with BK after the many many bad experiences with the stores and app. Don't torture yourself or don't give BK your money. They don't care about their customers one bit.
+b92af550-29ec-45c9-9fef-9491819e4467|2|2026-11-02||confusing
+3adeb5a7-354f-4e5c-abdf-eb22ddaf8554|5|2026-11-02||The app couldn't be any better! love the Walmart ➕️ relationship for the discount too! Keep up the good work my local BK crew!
+b6d30bdd-1098-46a6-b72d-38139c6c0b46|1|2026-11-02||again the app constantly keeps crashing and the company does not even care.
+44bd1d2e-790c-4203-9469-9de1b6b17777|4|2026-11-01||pleasant environment
+7f093a41-47fd-44f8-8916-a6171da6841d|1|2026-11-01||I dont nothing I order
+438945ff-c719-4714-a741-8190830d90a0|5|2026-11-01||worth the wait.
 6c16ab36-b2c7-48d9-a2e7-6da8e79f16b4|3|2026-11-01||good app
 a45dd1c0-a40d-405a-b0b7-96cd74087096|5|2026-11-01||fast and on time
 1c89b960-9128-4c08-9be6-e524820b656a|1|2026-11-01||Fine in is design, layout, and rewards, but frequently stops working once you look at your cart. it just hangs and says "loading your order" and "this might take a second" for ten minutes while you're hungry.
@@ -137,14 +148,3 @@ d6396297-d05c-4533-b36e-2661ca34059d|5|2026-10-27||Food, was so good, and I like
 59949545-95f2-4aa0-a99c-f834a89e9ab1|1|2026-10-26||Not coming back to Burger King due to how an waitress shows hostility upon offering fountain drink! She slammed one fountain drink cup on the server counter and said, "Well! I have no time for you! Here! Take your cup and leave!"
 e17271e4-28c7-4aa5-b223-39e5b86ffd3a|3|2026-10-26||I wish u could tell how far ur food is or where the driver is
 2c8f2a0f-999b-4dfe-bc67-c748dfc5bc1a|5|2026-10-26||nom nom
-1898dc04-6283-4778-bce6-cd0e16695ab9|5|2026-10-26||easy to get things
-26e99a22-62fd-4a82-9ef2-94ce61cf8722|2|2026-10-26||Deals are better than most places. Unfortunately, the app crashes seventy five percent of the time
-d9890ed9-463e-4212-aa6d-85996df7b850|5|2026-10-26||Great deals
-317c7098-3fc9-4d1b-bf73-71ae0d503597|4|2026-10-26||easy and accurate orders!!
-9b9491d0-d6ae-4c42-9c54-87b8acee0a3c|5|2026-10-26||good place to eat late
-fd27465e-87ff-4259-985c-f94dc9c52772|2|2026-10-26||Punishes you for being a regular. I used to order almost weekly using the daily reward for free fries. Suddenly that offer disappeared and I'm only able to get a large fry for $2. My friend who only occasionally uses the app still has the reward for free fries. I hope those extra two dollars are worth it because I now order their food way less often altogether. I'd rather order from a restaurant that appreciates customer loyalty.
-5088c820-21d6-4a25-895d-11f6f2f83be4|5|2026-10-26||App is pretty par for the course, and their food has gotten MUCH better than in recent years.
-1d3acc2e-3811-4a6d-ba90-22623b914db2|1|2026-10-25||this is the worst burger king, the security, the staff, every body they are no nice, they ignored the customers
-a5778a8a-ab72-46fa-b182-42cc389c8499|1|2026-10-25||limited options to remove ingredients. you cant remove sauce or change the meat that is allowed at the store in person
-6d54b7fe-4a73-403f-bd1a-0a6565cf5998|5|2026-10-25||always great deals
-02fcba1a-f9d6-49c7-923b-9ddf7125694e|5|2026-10-25||They're GREAT
