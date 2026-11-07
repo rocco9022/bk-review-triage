@@ -1,3 +1,11 @@
+14755871082|1|2026-11-05|Terrible service|I don’t know if it was the bk I went to or what, but it was just so unpleasant hurt my soul to even eat there. 1 star go to torchys
+14755600441|5|2026-11-05|Aum. Oṁ.|Aum. Oṁ.
+14755509732|4|2026-11-05|Easy like a Sunday morning|App is very user friendly
+14754638624|1|2026-11-05|Lack of order customization and missing menu items|The Burger King is dissimilar from and compares poorly with other fast food apps for two major reasons: lack of order customization options and missing menu items. Regarding missing items, I’m referring to the burrito junior. The app allows you to select burrito junior only, but there are two kinds: bacon, egg, and cheese and sausage egg and cheese. When you order burrito junior you get the sausage version, so it’s impossible to order the bacon version on the app. Lack of customization is best illustrated with ordering coffee. One may select cream and/or sugar, but it does not ask how many. When you arrive at the counter or drive in you’re asked how many cream and sugar, which slows the process and negates the benefit of ordering ahead. Worst still, this opens the door for BK staff to then hand you the cream and sugar (so you have to add them). They even do this IN THE DRIVE THRU LINE! The BK app gives less motivated employees and the excuse they need to fail you. Please check the DD app for how this should be corrected.
+14754461467|1|2026-11-05|App loads slow|I put in a new card on the app and it kept taking my money but said I didn’t place the order.
+14754449483|5|2026-11-05|Nice|Nice
+14753882270|5|2026-11-05|Burger King|You can trust this app and is worth it
+14753656387|5|2026-11-05|Great|They have up their game
 14752834340|1|2026-11-05|Cant login or signup|Every time I try to log in or sign up, it says error duplicate account. Seems to be a long term problem according to reddit. Tried whatever i could to try to get around it but cant. I guess burger king doesnt want my money
 14752041490|1|2026-11-04|Fix your app|It sucks the app sucks. Try McDonalds
 14752004593|5|2026-11-04|Thank you|Cashier liked my name and gave it a compliment usually they just say they pictured an old white man, which is okay but dang finally a nice compliment thank you my baby whatever your name was, I should’ve asked your name back!
@@ -40,14 +48,16 @@
 14727024845|5|2026-10-29|Excellent Customer Service|Best customer-friendly staff at this BK location. Always a pleasure going here for my favorite foods.
 14726743821|3|2026-10-29|Rewards and codes|It should auto add rewards and discounts with the code that generates like Taco Bell. Not have to go and add an offer or reward. Pointless having Walmart plus linked but have to add every time.
 14726663437|3|2026-10-29|review|You can’t change pick up time. other than that it’s good.
-14726311943|5|2026-10-29|Best Burger Still|Burger King has produced a great burger for years! You know what? It still tastes delicious!!
-14723486458|1|2026-10-28|Bad customer service|If they get your order wrong it turns out you have to pay for it. Just use doordash instead of this app, that’s who they use anyway. At least with Doordash it’s very easy to dispute an error with an order. I emailed about a missing item and I never got a reply. Then the ai tells me my case was closed.
-14723106491|4|2026-10-28|Surveys aren’t fully transparent|Other than it not saying it unless you read the fine print- the surveys on the receipt for a “free whopper” take you through a lengthy survey for what I thought would be a free whopper coupon but I still had to make a purchase for the free sandwich
-14723086143|1|2026-10-28|No kids meal on the app at all|App a waist of time if you came for the hello kitty kids meal or any kid meal in general. Just a heads up
-14722657915|3|2026-10-28|Me|My burger was not flame broiled it was dry
-14719601727|1|2026-10-27|Slooooow|App is el stinko it’s super slow and freezes. 2 thumbs down
-14719248269|5|2026-10-27|From Orlando|I love this app
-14718992893|5|2026-10-27|Good food|Always have fresh food and good point rewards.
+52efd19a-a2dc-4bb2-8fd4-17c88dcb6f1a|3|2026-11-06||This new update requires ya to place the order in the app. I like placing an order at the counter. Give us that option again.
+b1423680-827c-459a-8f97-214b8c0451de|5|2026-11-06||ok
+7c0cdbc1-f027-4e30-8d5b-1a9002a6d35b|1|2026-11-06||Won't accept my credit card. Suddenly stopped working after years. I put my card number in over and over again and it says there's a mistake. Useless customer support as well
+cd3d5619-ad4a-4bea-858b-4bd573b0121c|1|2026-11-06||disgusting food hair in chicken: ai support says the ticket is closed, no refund. scam.
+ab0daaa8-6bdc-4be5-a4c2-6833ba4c3b1c|1|2026-11-06||We're to start. I walked into the store stood in front of the counter. order was done at 1802 not one person said anything to me until I asked them for my order at 1810. During the process of waiting I watched them do several drive through orders which one pissed me off. instead of making fresh fries no salt. the Mgr took a bunch of fries that were already made and salted. then dumped back into the deep fryer. she waited 1 minute pulled them out and said outloud with a laugh fries no salt set.
+299715de-22f2-42ed-ba28-19b17bae962d|1|2026-11-06||The App is totally misleading. You go through gyrations to fill out a survey in order to get a validation code to cash in later for a free Whopper. That is what is printed on the back of the register tape. But when you get to the end it asks if you want a free reward. if you say yes you get a digital thing sent to your phone. This doesn't work at all because as soon as you open it up you have to cash it in. on the spot. Well I hope you are at the register at a BK to make this work because if you
+58a4ea66-db1b-4b97-ab14-659df3ee7bd1|4|2026-11-05||is convenient but takes to long to load at checkout
+4fd8846d-89b3-4620-a0d9-eecca5f13b7f|1|2026-11-05||What's the point if the app can't receive signal in the store? At least design the front of register signal available.
+bd047217-225a-4da2-8488-504b7ff9f844|5|2026-11-05||Other fast food apps should hire this development team
+7a4b9581-3033-4232-848d-54df6ab104fd|1|2026-11-05||SCAM SAYS YOU CAN GET A FREE WHOPPER WITH PURCHASE THIS IS A LIE! YOU LOST A LONG TIME CUSTOMER!
 655cae9e-5688-4653-9806-37f86e2a6f0f|2|2026-11-05||Constantly missing items.
 88afb245-b67e-495b-aaa1-997ffebdba2e|5|2026-11-05||Ordering is easy,service is fast,food is hot and delicious. Works are very nice and friendly.
 2322d76e-561a-4649-85c0-c471f98b73bb|5|2026-11-05||awesome to order for pickup
@@ -138,13 +148,3 @@ e56e494c-b38f-4e1f-a68f-35a125e03bd5|1|2026-10-30||Won't let me enter birth mont
 8d870114-f130-42e5-bf82-9e393f166055|4|2026-10-30||usually great customer service at most of the stores you go to I hope the employees always get praised by upper level cuz its one place u are always welcomed warmly and even on family trips strangers n different areas but still burger king smiles like they deserve crowns for workers who do go over n beyond in these stores cuz it's always fast paced environment and high turn over for our local ones due to lack of staffing even new hires have such stressful start n areas like that high tense stres
 f3c047de-ce19-4bd8-92bc-65de7b8d7a27|5|2026-10-29||Wow what can I say I love Burger King
 75499e18-545a-4acf-bc53-d58719b99d63|2|2026-10-29||your duo and trio bundle are a scam. It says get any two or get any three yet you are forced to select a sandwich... that's not getting any to Burger King.
-78e44fad-2957-47e0-a4a1-deca859128c4|5|2026-10-29||Works best with the BK where you know they work hardest at customer satisfaction!
-4fb58c9d-2045-474b-bf6d-22f1de181ee3|1|2026-10-29||I have been waiting YEARS for you guys to add Hi-C fruit punch to this app. All of my local BKs have Hi-C fruit punch, yet I can't order it through the app. I have to order another drink, then ask them to pour a different drink when I'm picking up my order. Can you please just add the drink to the app?
-508aa4a4-1e79-4985-8f30-21db84ec209a|5|2026-10-29||so far so good on the app! I appreciate that I can use google pay
-8e44cb63-d104-4030-a546-3d1f3882dbc1|5|2026-10-29||very nice
-1fc8b175-a85a-4f75-ae6b-70642c97c96c|4|2026-10-29||new chicken nuggets suck
-e0b8286c-72cc-4569-b7a6-c994a74db06d|5|2026-10-29||better food
-234b33d8-3d0a-440e-96f5-8169394b56b5|1|2026-10-29||too slow app and service, did not load my cc or process it
-6a940d68-86fd-4b70-8b51-1adb649fd325|5|2026-10-29||No data collection and easy customizations! I only wish there was a smaller option for the impossible Whopper to make it more affordable.
-4b458ceb-d85f-4756-afa9-0aa87e6311a3|1|2026-10-29||Burger King fails to provide quality customer service.
-8910f599-fa5b-4184-8c41-65653f424a5f|2|2026-10-29||rarely works as it should way smaller companies have better working apps
