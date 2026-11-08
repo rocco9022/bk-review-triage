@@ -1,3 +1,7 @@
+14759337742|1|2026-11-06|Broken app|This app is so buggy it is unusable. You can only select small soft drinks individually. Want a sprite well you can’t add it to the combo. And if you want to sub a chocolate milk you get locked into a vanilla shake for an up charge. Fix your cheaply coded app
+14758486455|1|2026-11-06|DISAPPOINTED|Very disappointing experience. The food was awful and served cold, and the soda was flat. I expected a fresh, hot meal and a decent drink, but neither met even basic expectations. A waste of money.
+14758433392|4|2026-11-06|Better cart layout|Good. But need better cart layout
+14758285543|3|2026-11-06|Missing items|My order was missing two choco chip cookies and no syrup cup for the french toast sticks
 14755871082|1|2026-11-05|Terrible service|I don’t know if it was the bk I went to or what, but it was just so unpleasant hurt my soul to even eat there. 1 star go to torchys
 14755600441|5|2026-11-05|Aum. Oṁ.|Aum. Oṁ.
 14755509732|4|2026-11-05|Easy like a Sunday morning|App is very user friendly
@@ -44,10 +48,14 @@
 14728203732|1|2026-10-29|App is very glitchy|App is almost impossible to use, very glitchy.
 14727340054|1|2026-10-29|Terrible experience|Signup/login is same button, logging in gives "you already have an account" message. Tried multiple emails, same message pops up. Tried deleting reinstalling, same thing happened. Waste of 15minutes I'll never get back. Deleting and eating elsewhere.
 14727316428|1|2026-10-29|Need more staff|It was only one lady take orders and packing. Ppl been waiting.
-14727171657|3|2026-10-29|Food|Wish my meals were hotter than what I’ve been getting.    Disappointed when getting home with it.
-14727024845|5|2026-10-29|Excellent Customer Service|Best customer-friendly staff at this BK location. Always a pleasure going here for my favorite foods.
-14726743821|3|2026-10-29|Rewards and codes|It should auto add rewards and discounts with the code that generates like Taco Bell. Not have to go and add an offer or reward. Pointless having Walmart plus linked but have to add every time.
-14726663437|3|2026-10-29|review|You can’t change pick up time. other than that it’s good.
+b4e399d5-58a6-4883-88b3-cbb13e5d599e|1|2026-11-07||Cannot log in. Trying to sign in routes me directly to "Create an Account," which then errors out with "duplicate account" (same loop on the website). Submitted to BK support on Nov 1. A week later, support repeatedly claims the issue is "resolved," yet the Play Store app version hasn't been updated since Oct 26. Reinstalling changes nothing because the broken build hasn't actually been patched. Utter waste of time.
+a31374c8-a2c0-4688-9824-4493d42a5c28|5|2026-11-07||great app
+b69337b1-05bb-45aa-ad4b-643a1bb85917|1|2026-11-07||app refuses to let me create an account. When trying any of my various emails—even the email I created specifically for this app—it claims there's a duplicate account. I contacted support and they uselessly advised me to check my spam folder or create a new account.
+dee17c19-9835-4f08-9b67-6e6faaea5bb8|5|2026-11-06||very bussin.🤤😋
+3460886e-e762-4984-baf0-e38f5844cae6|5|2026-11-06||my food was hot and correct will do again...
+ad26c467-fb05-43b0-b1c4-292e69ea253e|5|2026-11-06||MEALS ARE GOOD 👍 😋 HAPPY TO SURVIVE COSTUMES
+1803b247-f462-4a14-b579-bc7b062a0177|5|2026-11-06||the quality is exceptional. if you haven't tried BK, I'm awhile, give them another opportunity. it has been years and years for me. now it's my go to instead of eating a fake protein bar. I grab BK, get a real sandwich.
+e93f7583-e3e4-41ff-816a-7c3f845998a3|3|2026-11-06||ordered a medium coffee and got a small. since I used the app to preorder did not get a sorry out of cups or anything.
 52efd19a-a2dc-4bb2-8fd4-17c88dcb6f1a|3|2026-11-06||This new update requires ya to place the order in the app. I like placing an order at the counter. Give us that option again.
 b1423680-827c-459a-8f97-214b8c0451de|5|2026-11-06||ok
 7c0cdbc1-f027-4e30-8d5b-1a9002a6d35b|1|2026-11-06||Won't accept my credit card. Suddenly stopped working after years. I put my card number in over and over again and it says there's a mistake. Useless customer support as well
@@ -140,11 +148,3 @@ a8a03190-0a11-411f-b266-06dc5ad34ffb|1|2026-10-30||Don't bother ever using the a
 53f481bc-4580-4a7f-aa0a-96995324bc50|1|2026-10-30||don't use
 e7305a50-c58f-41f1-8109-9411dbf7f6d2|1|2026-10-30||tuve que pedir cada cosa, popote, servilletas, salsas y la bevida tenia 3/4 de bebida y esperar a que la persona regresara ella no esperaba y tuve que pedirlo porque la bolsa no tenia nada dentro, ademas la attitude que tiene es de no tolerancia. tratare de no regresar ahi.
 3bcfc23b-042f-494d-9fa0-b9c0aadad4c2|5|2026-10-30||I highly recommend the hillsdale BK!! THE FOOD WAS FRESH. THE PEOPLE WERE FRIENDLY AND I HAD ZERO COMPLAINTS ABOUT HOW MY FOOD WAS PREPARED! It was hot, fresh and perfected!!
-d83b5422-9472-4b7d-8a95-568735caa505|5|2026-10-30||Burger King is deliciously so tasty that I can have it my way Burger King you absolutely rule🙂
-8d9def08-124e-4216-8e3f-da4c820cc418|4|2026-10-30||food is good
-e56e494c-b38f-4e1f-a68f-35a125e03bd5|1|2026-10-30||Won't let me enter birth month. Will let me type year and day. One of the worse fast food programs. Not worth the effort. Don't even know who to contact.
-68d876d6-d67b-4d08-99d3-755e161eebce|5|2026-10-30||they have best deals for breakfast than other fast food near me
-4089c948-a388-4e14-ad73-6456132f355e|2|2026-10-30||Nice offers but you can't order certain deals properly.
-8d870114-f130-42e5-bf82-9e393f166055|4|2026-10-30||usually great customer service at most of the stores you go to I hope the employees always get praised by upper level cuz its one place u are always welcomed warmly and even on family trips strangers n different areas but still burger king smiles like they deserve crowns for workers who do go over n beyond in these stores cuz it's always fast paced environment and high turn over for our local ones due to lack of staffing even new hires have such stressful start n areas like that high tense stres
-f3c047de-ce19-4bd8-92bc-65de7b8d7a27|5|2026-10-29||Wow what can I say I love Burger King
-75499e18-545a-4acf-bc53-d58719b99d63|2|2026-10-29||your duo and trio bundle are a scam. It says get any two or get any three yet you are forced to select a sandwich... that's not getting any to Burger King.
