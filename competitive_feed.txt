@@ -1,3 +1,21 @@
+McDonalds|14811184670|1|2026-11-19|If you favorite a restaurant, it now only stays in your favorites until the app is closed. Fix your app. This is basic stuff. You’re a multi billion dollar company who has continued to raise their prices and fleece their customers even while average families are struggling. We get it, you’re soulless and would squeeze the last penny out of a homeless man if you could. The least you can do is have a properly functioning app.
+McDonalds|14811118862|1|2026-11-19|I have to delete this app because it doesn’t work anymore
+McDonalds|14810789978|1|2026-11-19|I will never order mcdelivery or mcdonalds again. I relied on you guys confidently for YEARS, never once had a driver unable to find my address. Ever since you idiots changed to uber eats instead of door dash, they cannot find my house. Its a joke. And im done being let down. Im going to try burger king or wendys delivery instead when im in a pinch and i suggest EVERYONE do the same.
+McDonalds|14810561059|3|2026-11-19|I put in a mobile order for pickup and the new auto-start making your food process is not an enhancement to the experience. The nearest McDonald’s to us is 10 miles and we stopped for gas and road snacks near the McDonald’s not aware of this new process. Our food was automatically started because of our proximity/location and not when we checked in. If this came from feedback/requests then add the feature in addition to previous process. Please let customers pick at checkout to use auto-start or check-in with a checkbox option or something. Another alternative could be to tighten the geo fence to a .25-.5 mile. Per Google Maps we were making a planned stop at .9 miles. The app is usually great and pretty smooth, but this one was an unfortunate miss despite the efforts to inform at checkout.
+McDonalds|14810198588|5|2026-11-19|Food is always fresh and hot
+McDonalds|14810161035|2|2026-11-19|I use a deal give them the number but the deal doesn’t go through and my grandfather has to pay 16 dollars for a 20 pc when it could of only been 8.99
+McDonalds|14809761144|2|2026-11-19|App never works in store, they never accept my codes
+McDonalds|14809646538|1|2026-11-19|OK, this review was of the app not of McDonald’s. Every single time there is a software update on my phone or with the McDonald’s app. I have to completely uninstall the app and reinstall it in order to sign in. Signing into the app is not easy and it constantly messes up. Also, when I click on my rewards and add them to a pick up order it often freezes the app and the code it gives me will not work at the store and then sometimes I don’t get the points back when the reward is not used. Overall, I wish they’d do better.
+McDonalds|14809395580|1|2026-11-19|The camera feature for scanning the game pieces is absolutely worthless and does not work.
+McDonalds|14809043621|3|2026-11-19|I will not pay 3 dollars for a hash brown not ever it’s stupid
+McDonalds|14809040890|4|2026-11-19|I like there chicken nuggets and fries and hamburgers but I found  pickles and mustard and ketchup and onions in my kids happy meal but I am sad that they did not make it plain and they have Christmas drinks that look really yummy it’s cranberries!
+McDonalds|14809015276|1|2026-11-19|I wouldn’t even give this app 1 star. Now, when you order delivery on the app they send it to Uber Eats, Door Dash ect. You don’t know which store they are sending it to. MCDonalds prepares you food but they don’t care if it’s wrong. They give you the # to Uber Eats or Door Dash. Terrible customer service. Plus you need thousands of points to get something for free. Why am I bothering? I am done with McDonald’s.
+McDonalds|14808993312|2|2026-11-19|You can set your favorite McDonald 100 times and every time it will still show any other McDonald around you except the favorite. Favorite WONT STAY. I have to keep clicking the start every single time I open the app. It’s super annoying.
+McDonalds|14808804039|2|2026-11-19|I used to go here for breakfast multiple times a week until they decided to take away my $2 sandwich deal… literally lost my service with that. I keep checking; no new deals or the one I used.
+McDonalds|14808450336|1|2026-11-19|The app is super slow. Too many advertisements. The menu arrangement is convulated and unorganized and the most annoying part is, after doing all the ordering amd customization. Im kot able to submit order as it says the restaurant is closed when Im inside the restaurant and the restaurant is taking orders.   I still ended up doing the order in the counter.
+McDonalds|14808360381|1|2026-11-19|I deleted this app after months of frustration. When I click a use this code for a deal, it scrolls and scrolls with a blank white page. On the few times it does come back, the message says “you’ve already used this deal today”. Also, when in line at the drive through, the message you can use this when you are near a location populated. While I am in the drive through! My location setting for McDonald’s is set to always allow. This app seems like a bait and switch. After months of not being able to use my rewards or deals, I deleted the app.
+McDonalds|14808343744|1|2026-11-19|Slow app with too many animations that crashes way too often. Make the app reliable before making it pretty
+McDonalds|14808266883|2|2026-11-19|The app logged you out when it feels like and it always happens at an inappropriate time and times when you do, place an order the app malfunction and says the McDonald’s is closed when it’s actually open
 McDonalds|14807757754|3|2026-11-18|Uber stole money from me for months before my bank caught it. So to see that this app now uses them to deliver food is disheartening. I want to give this app a better rate, but their partnership with Uber has caused me to question if I should even shop at a McDonalds. Either way, I will not be having food delivered to my house through this app now. Not until you kick Uber out.
 McDonalds|14807461160|1|2026-11-18|Always loading, never works, cant get what I want when I want it ever. Just go to the drive through.
 McDonalds|14807189369|1|2026-11-18|One orders in the app, comes to the curb with the menu and is told to go to cashier, there is one car ahead and it is 15 mins stuck unable to do anything. It is the worst and since it is not fast, it is a joke making people late. Worst of all, they have the telemetry in the app, do nothing, and to top it off there is no way to provide feedback about the store. Lastly, the terrible app team responds here to contact them in some url…why is the url not in the app, and they have everything about me, that form is generic. It is pathetic that such a high tech companies has ended up having this terrible service
@@ -30,24 +48,25 @@ McDonalds|14800408607|1|2026-11-16|This app while the legitimate McDonald’s ap
 McDonalds|14800186541|1|2026-11-16|The company at least wants 1 star for how bad they are. They don’t even deserve a 1 star. The app barely works. Customer service is always bad. They never get the order right. Go anywhere but McDonalds
 McDonalds|14799933918|1|2026-11-16|I opened the app this morning and granted it permission to track my location. Normally I only allow my location at that time, but I clicked the wrong option today. The app tracked my location for the rest of the day. They definitely want to track you 24/7 if they can and data mine every piece of data they can get about you.
 McDonalds|14799862201|1|2026-11-16|The deals on this app used to be great now there not as good & they limit you to one coupon an hour - like that little money that we save will effect a billion dollar company.
-McDonalds|14799707284|2|2026-11-16|I’ve realized that after placing a order and receiving the mobile order number that if you don’t completely exit the app the location on it will stay on 🧐
-McDonalds|14799561014|1|2026-11-16|Everything else about the app is fine, but even in the background it it’s constantly monitoring my location. I much swipe it away to make it stop.   Serious privacy concern.
-McDonalds|14799532276|1|2026-11-16|Screwed up my order again. Second time.  Had to search Google for a number to call. Gave me nothing but grief. Took 1/2 hour to get to McDelivery only to be hung up on. Text support no better. No easy way to get help when they mess up an order. Stay away.
-McDonalds|14799482571|1|2026-11-16|Genuinely the worst restaurant app I have ever come across. Consistently glitching, codes don’t work, I miss more deals than I actually get. Not worth it at all.
-McDonalds|14799285947|5|2026-11-16|It’s cool
-McDonalds|14798538802|2|2026-11-16|As someone who goes to McDonald’s a few time a year this whole process seems untested. The first thing the app does is tell/complain that its icon has changed. What? Then QPC offer. What? What’s QPC and is just a normal value meal. Then I go my code and go to most to see a ton of offers with truncate names. “20% off of …” “Free medium fries…” What? The … matters a so why can’t we see them without looking at each one. And at the end there are no real offers. Also no ketchup in stores or someone you can get from unless you hang around the register for few minutes or get lucky stopping one of the people handing out orders and disappearing fast.  McDonalds = Not fun.
-McDonalds|14798500971|1|2026-11-16|So slow to load deals, rewards and barcode.   Even better when code you are given is no longer valid after waiting on drive thru line. Then slowness means no code use.
-McDonalds|14798482081|1|2026-11-16|yeah, we ordered a 10 piece and a six piece and we ordered the six piece with extra fries and we got nothing. We just got a fry and we also ordered multiple pies. We did not get that apple pies.
-McDonalds|14798415916|1|2026-11-16|I went to use a daily deal and it wouldn’t work. I the. Used my points for free hash brown and added a second. The order clearly showed the second. I picked up my food and there was one hash brown I tried to tell them I ordeeed two and not a third breakfast sandwich but their in store receipt showed a different order with my name and order number on it
-McDonalds|14798128145|1|2026-11-16|No matter what i do i cannot sign in
-McDonalds|14798020117|1|2026-11-16|The app is so slow it never loads for me and my wifi connection is great the app constantly logs me out and gives me a hard time to log back in it’s honestly not even worth the headache in my opinion.
-McDonalds|14796265078|1|2026-11-15|Order never showed up and the support system is terrible, just use Ubers app
-McDonalds|14796181944|1|2026-11-15|Used McDelivery straight from the app, food was missing, called store and they said I needed to contact Uber about missing food even though McDonald’s bagged it and sealed it. Store manager of Portland Texas location would not offer any apology or refund or food that was missing.
-McDonalds|14796134013|1|2026-11-15|Awful app design  Always has to refresh- never works fully
-McDonalds|14796112825|1|2026-11-15|If I order something and delivery doesn’t work I don’t want the store to take the money and make the food for pickup just cancel it and give me my money back there’s a reason I chose delivery
-McDonalds|14795982037|1|2026-11-15|Up until recently, I have been able to access the app with no issues. I thought my service may have been the issue but the app still crashes on wifi. I’m missing out on points because the app only allows you to post one receipt within the 30 day window
-McDonalds|14795876838|1|2026-11-15|The app tracks you even when you aren’t using it.
-McDonalds|14795751708|1|2026-11-15|I won 2 months of Peacock and never got the prize. Customer service was of no help
+Wendys|14810980385|5|2026-11-19|Always pleasant workers, I come here for the customer service and hot food.  Keep up the good work!
+Wendys|14810769234|5|2026-11-19|The app and rewards are better than any other fast food burger chain, I love the deals. I enjoy the changes or deals and I accumulate reward points to redeem easier
+Wendys|14810715651|5|2026-11-19|Wendy’s better than most fast food! These guys in Cabot Arkansas are the best !
+Wendys|14810710123|3|2026-11-19|Can’t choose no ice for an option on drinks :( I don’t think the digital frosty key chain should count as a one offer per order thing… lowkey a HUGE rip off as now I will never get to use it and wouldn’t have purchased it if I knew this was the case :( but the nuggets are fire so whatever I guess
+Wendys|14810691444|5|2026-11-19|11/19/2026 went in for the Holiday Box was told they have it anymore so I asked was it just this Wendys or all wendysshe said just this wendys, we asked if it was possible to buy the hat she said they didn't have that either, our cashier was so unmotivated. Next time I will travel to another wendys instead of this one.
+Wendys|14810586836|1|2026-11-19|Allow payment at the window
+Wendys|14810576855|2|2026-11-19|My biggest complaint is that you can’t see any info about your order once it’s placed. This makes it hard to verify that you got everything. (Sometimes you will even get the wrong order entirely - likely because they don’t see your name, only your initials, from what I can tell. Very odd.
+Wendys|14810480075|5|2026-11-19|Love it
+Wendys|14810391885|2|2026-11-19|The wait time is astronomical.
+Wendys|14810323894|2|2026-11-19|Extensive wait for mobile order without explanation or apology
+Wendys|14810059790|5|2026-11-19|I go errday
+Wendys|14809986847|5|2026-11-19|Always works great
+Wendys|14809919390|5|2026-11-19|Excellent food, so much so that I own shares in the restaurant. The app was written, but not tested well for ease of use.
+Wendys|14809866471|1|2026-11-19|It’s nothing like it used to be.  First came the shredded lettuce, which totally stinks.  Then they added pickles…  Now the chicken breast is GONE  and they replaced it with a heavily crusted, crunchy breaded thin piece of processed chicken.  My fav fast food is gone.
+Wendys|14809785675|5|2026-11-19|Only fast food place with the best salad options! Love the Caesar!!
+Wendys|14809695272|1|2026-11-19|They were rude and unhelpful and my online order took a very long time
+Wendys|14809651638|1|2026-11-19|Ordered the new holiday event item and they forgot my nuggets, fries & holiday hat.
+Wendys|14809554962|5|2026-11-19|Ur food
+Wendys|14809083061|5|2026-11-19|Es muy buena la comida
 Wendys|14807683681|5|2026-11-18|Ladies here work hard and are very nice 🙏❤️
 Wendys|14807254269|1|2026-11-18|App always has loading issues, checkout issues, etc. forces me away from the restaurant. Even after troubleshooting.App sucks
 Wendys|14807156018|1|2026-11-18|I hate this app. For the second time now I’ve ordered at the wrong location. First time I thought… user error you’re an idiot. There’s zero reason that you can’t click on a location on the map and order that way. I don’t care that I’m closer to one. I often want to pick the one that’s on my route even if it’s technically “further”. Why do u have to play address match and scroll down the list to find it.
@@ -79,25 +98,12 @@ Wendys|14803045063|1|2026-11-17|They never have the food ready for pickup
 Wendys|14803027359|1|2026-11-17|Absolutely rude. Pull forward on mobile order placed 20 minutes ago. Order incorrect. Please review I haven’t bought anything from this store in months
 Wendys|14802897425|1|2026-11-17|Ordering via the app is a nightmare
 Wendys|14802885944|2|2026-11-17|The last three times I’ve canceled my order because it’s so slow at this. Wendy’s probably one of the worst restaurants I’ve been to the only reason I keep trying to order from. Is there only a block from my house
-Wendys|14802783117|1|2026-11-17|Why do I have to put money on an Apple Card in order to pay?
-Wendys|14802751759|1|2026-11-17|This location is ALWAYS out of chili BUT the app allows me to order chili or taco salad…EVERY TIME I order it whether or not they have chili or not. ALL other food app I use won’t let me order food they’re out of. They RARELY even get order right chili aside. Then it takes many days to refund my card when ordering from app and they don’t have what I ordered. One time I actually never received my refund.
-Wendys|14802745030|2|2026-11-17|Couldn’t figure out how to select the drink that I wanted. So I’m getting something, but I don’t want but can’t change.
-Wendys|14802492663|1|2026-11-17|Your prices have gone up so much it’s pathetic. I used to eat here multiple times a week. You’re losing my business quickly. Fix it
-Wendys|14802280820|1|2026-11-17|Thanks for the rewards that glitch and don’t work half the time ig. Yall app hasn’t worked well for 5 years like get it together
-Wendys|14801953771|2|2026-11-17|App loads for a very long time and only works once you close the app and reopen. I have mistakenly placed more than one order at a time due to this since you can’t always tell if the previous order went through.
-Wendys|14801771287|5|2026-11-17|Good deals and easiest app to use out of all the restaurant apps.  Some apps are terrible.  This one is user friendly.
-Wendys|14800170301|5|2026-11-16|I love the nuggets. Big fan of
-Wendys|14800096175|1|2026-11-16|Wait did almost an hour in line pulled up at 10:07 and didn’t get food until 11 o’clock had no burgers or regular nuggets
-Wendys|14799967254|1|2026-11-16|My food took forever and my fries and burger are cold and there is no chili on my chili cheese potato that I had to pay extra for
-Wendys|14799878355|5|2026-11-16|Excellent
-Wendys|14799672011|5|2026-11-16|Ahhhhhhhhh Yummeerrrrrrs   🍔🍟🍦🥤
-Wendys|14799658909|4|2026-11-16|Great take out
-Wendys|14799551056|5|2026-11-16|Wendy’s is always great to get food for your family at a great price fast. The app gives great deals I got two biggie deals with two frosty and two baked potatoes for the biggie deal then I bought two more frostys and two more baked potatoes for $32.00 and there was a coupon for 5.00 off online ordering I ordered ahead went inside because it’s faster to get your mobile order inside and got my food. I got this deal for a steal thanks Wendy just fed my family for the low!!!
-Wendys|14799435265|5|2026-11-16|It’s convenient to use multiple  ways to save in one order with the ability to use offers along with rewards I can save allot more than other fast food places McDonald’s makes wait a half hour before I can use another offer it’s bs thanks Wendy’s for thinking about the customer
-Wendys|14799207257|5|2026-11-16|Very slow and got order wrong twice!
-Wendys|14799110720|1|2026-11-16|Contact portal is impossible to navigate and does not submit responses - been this way long as I know, and I’m over it. No accountability when my order is messed up every single time. I can’t waste my time with this anymore
-Wendys|14799098728|5|2026-11-16|I love this location! They always get my order right and the employees are so friendly. I always go here when I’m visiting family.
-Wendys|14799018431|1|2026-11-16|This app has never worked. I’ve lost points because the cashier could not see that I used them for free food. No cust serv ever answered my calls to help. It takes 40 min before my access code arrives and then Im locked out after trying too many times.
+Dominos|14810857618|5|2026-11-19|Domino’s is ALWAYS on time!!!!!!! With taste, quality, and delivery!!!!!! 🖤🖤🖤
+Dominos|14810799717|5|2026-11-19|Good Service, I need the app in spanish
+Dominos|14810744062|5|2026-11-19|Love my Dominos!!
+Dominos|14810147789|4|2026-11-19|Love to eat Dominos pizza.  So delicious!  Would eat pizza every single day, if I could!!
+Dominos|14810119237|4|2026-11-19|Need new food items already this is good but terrible selections
+Dominos|14809723651|3|2026-11-19|The tracking function hasn’t worked for months.
 Dominos|14807296415|1|2026-11-18|I ordered today at 7 pm I received my order like promised to open to burnt pizza I tried calling store on Beulah rd to be hung up on several times and still waiting for someone to answer my call on hold fir 35 minutes and still waiting for someone to answer
 Dominos|14806778441|5|2026-11-18|Reduce your delivery costs
 Dominos|14806688662|1|2026-11-18|I have notifications for special offers and deals set to off but I still get them anyway
@@ -142,102 +148,117 @@ Dominos|14771383863|4|2026-11-09|Prepacked chicken Caesar salad was brown. Took 
 Dominos|14767604084|3|2026-11-08|I can’t remove ingredients from my order. For example no onions on a Sandwhich, I can only select light or normal. What happen to none? Update: Still no fix, can’t select “none” for ingredients!
 Dominos|14764441151|3|2026-11-07|Dominoes app has always treated me good. But after this recent update, the delivery method i input was “leave at door”, but in the tracker it ended up as “hand it to me”. I was sick. Also, please let us put a pin on exact delivery location. My complex has a weird set up with the apartment numbers and it took my delivery driver ages to find my place. And for some reason, they couldnt call or text me.
 Dominos|14763596221|1|2026-11-07|The forgotten password word option doesn’t seem to work, I have yet to receive a link or a password!!! Pointless…
-Dominos|14763289282|3|2026-11-07|A few times as I’ve tried to order through the app, it’s frozen every single time, every time as I try to press a deal in national coupons, it blinks then freezes and eventually I just have to call the store and have them discount it, it’s time consuming, it defeats the purpose of deals button and is all around not fun for anyone involved.
-Dominos|14763256000|1|2026-11-07|forces upgrade to view order tracking. ‼️Forget easy access to the tracker. When will I learn? Plus, persistant  notification for rewards when I have ZERO!  FAIL.
-Dominos|14759723408|5|2026-11-06|How is Dominos Pizza doing the best app optimization out of ANYONE, including Apple, lol!   Great job to the team who designed this. It’s perfection. I think other apps need to use you for inspiration.
-Dominos|14759586750|1|2026-11-06|I ordered a domino solely because of the Minecraft promotion, and never got the code. I contacted customer support days ago and never got a reply. The domino is overpriced so I wouldn’t have bought it without the promo
-Dominos|14756060550|1|2026-11-05|If you don’t stop trying to guilt me into donating by showing me pictures of sick children during the checkout process I’m going elsewhere. It’s disgustingly manipulative.
-Dominos|14755756987|1|2026-11-05|Todo está muy rico pero mucho se tardan
+Starbucks|14811242133|5|2026-11-19|Love it
+Starbucks|14810912362|2|2026-11-19|They should make it to where you can make requests on a text instead of regular options that limit online orders to certain abilities
+Starbucks|14810729341|5|2026-11-19|I love all the drinks
+Starbucks|14810672523|5|2026-11-19|Good
+Starbucks|14810618340|5|2026-11-19|Hi my nickname is Matcha Michelle and you’re probably wondering how I got here. Well, I just had my daily Venti banana bread matcha and as I sit here enjoying the last sips I’m contemplating on making my second purchase of the day. That’s how much I really enjoy my matcha and the ease of the app to order it whenever I want. Thanks Starbucks for this wonderful app/matcha flavor!
+Starbucks|14810583946|5|2026-11-19|TBH I have been an avid Starbucks customer since before when was when and this location literally never misses my drinks are always made perfect, in a very timely manner, and done with a genuine sense of compassion and care for me as a customer this truly restores my morning and also some days keeps me from losing hope for our entire human race. I just want to say thank you to management for creating and keeping such an amazing experience for your employees because when it dwindles down to me that’s when it matters #starbucksforpresident
+Starbucks|14810521641|5|2026-11-19|Dear Starbucks since the moment I’ve laid my eyes on you I knew you were gonna be there for me forever
+Starbucks|14810467252|5|2026-11-19|I love how accessible the app is. Everything is well organized and set up for easy ordering.
+Starbucks|14810375770|4|2026-11-19|Considering I mostly go to Starbucks for/with my kids I wish there was an option to turn any frapp into a non-caffeinated crème option
+Starbucks|14810355351|5|2026-11-19|Todos los días me tomo mi té matcha debería. De dar más promoción por ser cliente diario
+Starbucks|14810318869|5|2026-11-19|Me encanta ir  y ver personas hablando o simplemente un grupo de amigas riendo  A mis 4 niñas les encanta
+Starbucks|14810286419|5|2026-11-19|The Starbucks app is super convenient and easy to use! I love being able to order ahead, customize my drinks, earn rewards, and skip the line. It makes my coffee runs so much easier. Highly recommend!
+Starbucks|14810248543|5|2026-11-19|Drink /refresher
+Starbucks|14810195735|5|2026-11-19|I feel like this makes me so happy when I come here
+Starbucks|14810090908|2|2026-11-19|I think it’s weird that not all Frappuccino flavors come in just crème based on the app. And when you ask for crème based in store the baristas get confused. I enjoy a Frappuccino, the cookie crumble is my favorite, but I don’t want coffee in it. I miss the broader variety for crème based Frappuccinos!
+Starbucks|14810001785|5|2026-11-19|Free drinks on your birthday!!!! And special offers.
+Starbucks|14809978159|5|2026-11-19|This is the best app ever I ordered this to a highschool it’s my favorite app
+Starbucks|14809871298|5|2026-11-19|Love my starbuckies coffee ♥️
+Starbucks|14809825275|5|2026-11-19|I love everyone at this Starbucks they are so kind and helpful
+Starbucks|14809742158|4|2026-11-19|I personally think the Starbucks app is useful when in a rush you can just order ahead and go. But I really wish it wouldn’t make you recharge the gift card to use the rest of the balance
+Starbucks|14809742043|5|2026-11-19|The new furniture is much better than the original comfy chairs
+Starbucks|14809517601|5|2026-11-19|Love ittttt
+Starbucks|14809423090|5|2026-11-19|So easy to use the Starbucks app and immediately see my recent orders and favorites modification. The only update I would make would be ability to update nutrition with modification in your favorites. A nice aesthetic that is cohesive with the Starbucks feel.
+Starbucks|14809403141|5|2026-11-19|This app has improved over time. Now it is easier to buy in app and add money. I used it regularly!
+Starbucks|14809325102|5|2026-11-19|Can’t go a morning without Starbucks!
+Starbucks|14809318248|5|2026-11-19|Super efficient and very operationally easy
+Starbucks|14809291621|5|2026-11-19|Fresh , friendly, good menu And positive energy
+Starbucks|14809228191|5|2026-11-19|I love it
+Starbucks|14809138964|5|2026-11-19|Starbucks for me is the best coffee,here in tice valley Blvd all the employees are friendly and knowledgeable.
+Starbucks|14809132850|5|2026-11-19|starbucks is my king and my life and i can’t live without it
+Starbucks|14809129319|2|2026-11-19|I am increasingly disappointed with Starbucks’ continued decision to limit customization options within its mobile app. Rather than improving the ordering experience, these changes are making it unnecessarily restrictive and inconvenient for customers who have specific drink preferences.  Most recently, the option to add regular sugar packets to beverages has been removed. This is an extremely basic customization, and there is no reasonable explanation for why customers should no longer have access to it when placing a mobile order.  What makes this situation even more frustrating is that previously saved favorite drinks can still retain customization options that are no longer available through the regular ordering menu. This creates an inconsistent experience where customers who saved their preferred drinks can continue ordering them, while others are unable to select those same options.  Additionally, the app itself has become increasingly difficult to navigate. What was once a straightforward ordering process now feels unnecessarily complicated. Finding menu items and customizing drinks should be simple and intuitive. A redesigned interface does not automatically mean an improved experience. New isn’t always better, especially when useful functionality is sacrificed in the process.  Starbucks has built much of its brand around offering personalized beverages. Continuously removing customization options directly contradicts that commitment. Customers should not have to rely on previously saved orders or visit a store in person simply to request standard ingredients that were previously available.  I am requesting that Starbucks take the following specific corrective actions:  1. Restore previously available drink customization options, beginning with the ability to add regular sugar packets. These options should be available directly through the standard mobile ordering menu, not restricted to previously saved favorites. 2. Ensure consistent customization access for all customers. If an ingredient or modification remains available through an existing saved order, customers should also be able to select it when placing a new order, provided the ingredient is available at that location. 3. Address the app’s navigation problems. Review the recent interface changes, simplify the ordering process, and make drink customization options easier to locate. Where redesigns have reduced usability, Starbucks should be willing to revise or reverse those changes. 4. Incorporate meaningful customer feedback into future updates. Test proposed changes with actual app users before releasing them, particularly when those changes eliminate familiar features or affect how customers personalize their orders. 5. Provide transparency and accountability. Clearly explain why customization options have been removed, identify whether those restrictions are temporary or permanent, and communicate what steps Starbucks intends to take to address customer concerns.  I am also requesting a direct, substantive written response from Starbucks that addresses each of these concerns. Specifically, I expect confirmation of whether the removed customization options will be restored, an explanation of the decisions behind their removal, and a clear outline of any planned corrective actions, including anticipated timelines. If Starbucks does not intend to restore certain features, I would like an explicit explanation of why.  Please ensure this complaint is forwarded to the appropriate mobile app development or customer experience team for review. I am not seeking a generic acknowledgment, an automated response, or a statement that my feedback has simply been passed along. I am requesting specific answers to the issues raised and a meaningful explanation of how Starbucks plans to address them.  As a customer, I expect better from a company that emphasizes personalization, convenience, and customer satisfaction. These ongoing changes are disappointing and represent a significant step backward.  Innovation should enhance the customer experience, not eliminate features people have relied on for years. New does not automatically mean better. Starbucks needs to demonstrate that it values customer choice by restoring essential functionality, improving the ordering experience, and responding directly to the concerns of the customers who use its app.
+Starbucks|14809086487|5|2026-11-19|Yes, I’m the typical Starbucks lover. In fact, when texting my whereabouts to friends and family I use “SBUX” as my location. That is their Stock Exchange address. I frequently travel around our great Nation and I honestly find comfort in walking into a Starbucks. I know I will have no issue getting my Venti water, venti black iced tea and my venti iced coffee w/extra half &half when feeling decadent. And, their bathrooms of course! I find them clean about 75% of the time. Before Covid it was more like 95%.   Starbucks egg white bites will do in a pinch when low on Protein and the w ch
+Starbucks|14809012037|1|2026-11-19|Come on Starbucks
+Starbucks|14808993550|5|2026-11-19|This is my go to Starbucks! The staff is always friendly, the service is quick, and my drinks are always made just right. The atmosphere is clean and welcoming. I always have a great experience here, which is why I keep coming back! Love you Starbies
+Starbucks|14808838743|5|2026-11-19|25th n North Ave Store has best Service
+Starbucks|14808828315|5|2026-11-19|Love the happy attitude by everyone in the morning always on the hustle and still maintain a smile on their faces and positive attitude…
+Starbucks|14808766438|5|2026-11-19|Amazing service
+Starbucks|14808696692|4|2026-11-19|Some features/organization could be better or easier (like seeing price of add ons instead of having to go back and forth to cart) but overall easy to figure it out
+Starbucks|14808684400|5|2026-11-19|I normally go to American Canyon Starbucks and they usually always do such a great job sometimes they’re a little slower because they’re so busy. But the other day I went to Pinole and made the mistake of going in. It was so dirty at every table there was a breeze everywhere there was gnats flying around and they didn’t even call my name when my drink was made. Shows each store customer service isn’t valued the exact same way every time I walk into Starbucks whether it be at 5:30 in the morning or nine in the morning, they always greet me at the door.
+Starbucks|14808666623|5|2026-11-19|Love it
+Starbucks|14808588794|2|2026-11-19|I love this app. It’s so easy however there are no light ice button modifications anymore and I like light ice for multiple reasons. Number one eyes hurts my teeth number two. I literally don’t get but like five sips of drink when they put ice in it and it drives me insane because I’m spending a lot of money.
+Starbucks|14808575355|5|2026-11-19|I wanna say how wonderful and convenient it is to have the app to do a morning stop, makes things quick and easy. Love my local Starbucks !!!!!!
+Starbucks|14808512733|5|2026-11-19|You can’t go wrong when your day starts with a Starbucks latte. I love the sugar free vanilla or the white Peppermint mocha ❤️
+Starbucks|14808465890|5|2026-11-19|I love my starbies
+Starbucks|14808297504|5|2026-11-19|I’ve ordered the same mocha every morning for 21 years! Placing the order on the app just saves me time! I love it!
 Starbucks|14808186472|5|2026-11-19|Best staff around!
 Starbucks|14806725130|5|2026-11-18|I recently made an online order while riding on the freeway and accidentally ordered from the wrong store. I immediately realize what I had done and tried to cancel it.  I could not, though, and we had to drive out of our way to pick up the drinks.  I wish there was a one or two minute grace period for mistakes like that.
 Starbucks|14806681936|5|2026-11-18|Yup
 Starbucks|14806470722|5|2026-11-18|My Starbucks app stays open on my iPhone all day with no way to close it.
 Starbucks|14806233259|5|2026-11-18|It’s so convenient and easy. Don’t need to wait to order.
-Starbucks|14805915715|5|2026-11-18|You’re just what I needed
-Starbucks|14805868230|5|2026-11-18|Love Starbucks and I grew up going to Starbucks
-Starbucks|14805841030|1|2026-11-18|Have you guys seen the new Duo?
-Starbucks|14805696792|5|2026-11-18|Para alguien que viene de México
-Starbucks|14805657275|5|2026-11-18|Love it
-Starbucks|14805545471|5|2026-11-18|I Love all the holiday Starbucks Drinks & Treats … Great job guys
-Starbucks|14805529521|5|2026-11-18|I’ve been using this for years and I am pleased with it. I love how I can use my own card now and the stars make it so much easier to get a discount on my drink!
-Starbucks|14805470595|5|2026-11-18|Good crew, good spot.
-Starbucks|14805373921|5|2026-11-18|Easy to use and my recent orders are there to easily order again
-Starbucks|14805286552|5|2026-11-18|Same.
-Starbucks|14805182423|5|2026-11-18|I loveeeee Starbuck
-Starbucks|14805144635|5|2026-11-18|Love the easy ordering!
-Starbucks|14805128460|5|2026-11-18|This is the best app for ordering a drink or food.
-Starbucks|14805117907|5|2026-11-18|The tiramisu latte that I got was amazing. Modified to only 180 calories
-Starbucks|14805048864|5|2026-11-18|Its a Joy to order from Starbucks & be greeted with a kind word and Smile the coffee is a Plus!
-Starbucks|14804930587|5|2026-11-18|Love the app for expedited pick up.
-Starbucks|14804921545|5|2026-11-18|So easy abd convenient
-Starbucks|14804895204|5|2026-11-18|The app is so easy to navigate
-Starbucks|14804876798|5|2026-11-18|Your rewards program is great. The games are not if you win something you can very rarely redeem it.  Because the game does not cooperate with the app.   Been playing the game for as long as I’ve been a member and I’ve never been able to redeem anything from anything I want on any game that you have.  Sorry to be so negative. It’s just very frustrating when you play a game and you can’t redeem your prize.   And really I just do it for the coffee, but it’s irritating. I can’t redeem my prizes. Looking forward to your reply.
-Starbucks|14804840158|5|2026-11-18|The new update is so easy to use! Love it! ❤️🔥
-Starbucks|14804788365|5|2026-11-18|I absolutely love Starbucks! The drinks are always amazing, the atmosphere is welcoming, and the employees are always so kind and friendly. I genuinely enjoy coming here, and the service makes every visit even better. Starbucks never disappoints, and I will always be a returning customer! Definitely one of my favorite places!
-Starbucks|14804761985|4|2026-11-18|I give it four stars only because you cannot cancel if you made a mistake in the mobile app
-Starbucks|14804742467|5|2026-11-18|i love starbucks and their app is so festive when it’s holiday time
-Starbucks|14804620018|5|2026-11-18|It’s always great to place an order when you’re traveling and just run in and pick it up on the go thanks, Starbucks!
-Starbucks|14804402989|1|2026-11-18|Please add it!
-Starbucks|14804352926|5|2026-11-18|Great
-Starbucks|14803228793|5|2026-11-17|Love the Starbucks app❤️
-Starbucks|14802973438|5|2026-11-17|I am blind and use the VoiceOver screen reader on my iPhone. I use the Starbucks app every week, sometimes several times a week, and have always appreciated the accessibility and ease of use. In a recent update, I found that I was no longer able to select the size for my beverage. The button was there, but VoiceOver did not see it, nor could I tap on the button with VoiceOver running. I called in and provided feedback. I just downloaded the most recent app, and I was elated to see that this has been fixed! My gratitude to the individuals responsible for making sure the app is accessible with a screen reader, And for continuing to prioritize accessibility. You are making a difference!
-Starbucks|14802714333|5|2026-11-17|Always clean and friendly baristas
-Starbucks|14802643211|5|2026-11-17|Always great service and even better drinks and food! My #1 go to!
-Starbucks|14802432499|5|2026-11-17|amazing i love very nice worker
-Starbucks|14802399014|5|2026-11-17|5 stars!!
-Starbucks|14802078240|5|2026-11-17|I stop in almost every day at the Starbucks on Erie Boulevard in Dewitt. They work so hard and are always courteous! Their lattes are always delicious ! Thank you Starbucks, and thank you team!
-Starbucks|14802051725|3|2026-11-17|App is easy to use, but I hate how it makes me reload a gift card someone gifted me in order to use online once the balance is over 0.00 instead of giving me the option to just pay remaining balance!!
-Starbucks|14801987850|1|2026-11-17|I have had issues to open the app. SOS!
-Starbucks|14801981774|5|2026-11-17|I love the new drinks
-Starbucks|14801906122|5|2026-11-17|Love Starbucks lovely
-Starbucks|14801749487|5|2026-11-17|Easy to use and love my points !
-Starbucks|14801726271|5|2026-11-17|No matter where I am, no matter what city or country, when I see you…I know the mornings will be good.
-Starbucks|14801709893|1|2026-11-17|Congratulations to Starbucks corporate for finding yet another way to suck the joy out of Christmas. Taking the Chestnut Praline Latte off the holiday menu while ignoring the customers who practically beg for its return is a special kind of corporate stupidity.  Imagine being a multibillion-dollar company and still being this spectacularly out of touch with your customers. Nobody asked for your latest overpriced holiday experiments. We asked for the damn Chestnut Praline Latte.  You sell Chestnut Praline creamer in grocery stores but can’t manage to serve the actual drink? Brilliant. Truly groundbreaking levels of incompetence.  Maybe pull your heads out of your corporate asses, stop pretending to care about customer feedback, and bring back the drink people actually want.  You’re not spreading holiday cheer. You’re putting Christmas on a performance improvement plan.
-Starbucks|14801698990|1|2026-11-17|There’s no one I can contact about this problem
-Starbucks|14801669526|5|2026-11-17|I created my own frappe I think they should let me stamp it 😂😂#gottalovestarbucks
-Starbucks|14801652652|4|2026-11-17|The Starbucks app is fun & easy to use but there’s no way yo add cream cheese to your bagel order 😳🧐🧐
-Starbucks|14801606935|5|2026-11-17|Easy to use with convenient
-Starbucks|14801573690|5|2026-11-17|Im fat
-McDonalds|36593589-891b-4fe4-b58a-77a5c9e0d79a|5|2026-11-19|100 percent
-McDonalds|4e76b817-681d-4a14-bafa-c93d79b693b7|1|2026-11-19|A lot of step in app , to claim for free and discounted items.( MCD APP)Not a user friendly to customers. limited choice....
-McDonalds|a37f8cd6-b5ca-4a05-8ce9-3541eb7caf88|5|2026-11-19|Deliciously Great
-McDonalds|efa0e8d2-2dfc-4ad3-bc88-1be4644eeb51|5|2026-11-19|Amazing app after updates
-McDonalds|450bc2c9-c10f-439b-8740-f3771981e7a5|5|2026-11-19|Very good test results
-McDonalds|9ea818f7-d23f-4cc1-bdfb-34afb096fa69|5|2026-11-19|good 👍😊
-McDonalds|4117412f-921a-4bb4-8e1e-c1b84aaa73d3|5|2026-11-19|my late night desert 🍦🍧🍔
-McDonalds|0df78670-082f-4976-96e0-ef875989b5a0|5|2026-11-19|good
-McDonalds|7df3a217-0019-4f6c-95ca-ab6e7964d9d5|5|2026-11-19|all places stuff good
-McDonalds|1aa5e36f-d806-4730-b843-b681af159d3f|5|2026-11-19|ok
-McDonalds|45a1fec1-d927-4d36-8710-6eb822932f9e|5|2026-11-19|Easy to navigate and use. I'm truly lovin'it😁
-McDonalds|5acf59a1-458c-414a-aa31-c03f593cd90b|5|2026-11-19|good keep it up
-McDonalds|9a6025fb-fa03-4f2a-9265-4245965ce27b|5|2026-11-19|McDonald's is always my and my daughter's favourite I'm loving it
-McDonalds|bfdf6d58-866f-4c5a-9aaf-6b1a56a3a52f|5|2026-11-19|am loving it
-McDonalds|e8f475b3-a038-4f31-b052-6d6404acbc87|5|2026-11-19|This is a very good app, it provides various offers on different types of mills.
-McDonalds|ab087c2a-c975-4a1a-be93-ca9da3e44424|5|2026-11-19|best 👌
-McDonalds|390cd342-15f3-4601-9716-42b9ca622cf3|5|2026-11-19|I'm loving everything about it
-McDonalds|e9cadee7-1ed4-47a7-8bd6-d8df0f205e24|5|2026-11-19|I really love McDonald's more than any other fast food chains.💙❣️💙
-McDonalds|fdb442d4-5a9c-44f2-a883-0465cc356a40|5|2026-11-19|definitely 💯
-McDonalds|c8197705-3ad4-4aa6-b76b-2f28e757a96e|5|2026-11-19|❤️❤️❤️❤️❤️👌👌👌👌👌
-McDonalds|ed2bf378-1412-4f0d-9fd4-ce88bae5d087|4|2026-11-19|Very big fan of Mc Donald's. Entire family enjoys a Mc D meal atleast twice a week.
-McDonalds|dfbd960a-9f46-4481-bc5f-84a46f21f7bd|5|2026-11-19|this is a pretty great apps especially how good the deals are...
-McDonalds|1619b0ec-f5cb-455e-bcc2-cee5527bdd21|5|2026-11-19|love ko to!!!
-McDonalds|e5e97f92-3ca4-41e2-b604-f73cc26c110b|5|2026-11-19|asanda and anele phoswa best service
-McDonalds|001612e8-fe02-4078-a9a1-11fb700a9a56|5|2026-11-19|Good
-McDonalds|6cb9a24a-6b01-48cb-ab2c-62ac55f83a04|5|2026-11-19|good
-McDonalds|42007631-eb63-4bb0-aed4-aec54ebf0814|5|2026-11-19|v good 👍
-McDonalds|bc56f9e0-2dc2-4a52-81ea-d5eedde524dd|5|2026-11-19|I Love it Soo much offers ITS THE BEST ❤️❤️
-McDonalds|fe17eb61-7ab5-4c48-8988-2e7da963255f|5|2026-11-19|satisfied
-McDonalds|7fd4a89a-b6f3-4080-9712-f783c6089949|5|2026-11-19|good💯
-McDonalds|bae904d9-090c-4f98-8448-97e0da9f7a1b|2|2026-11-19|goood
-McDonalds|21774c61-f78a-4e7c-8613-8388838d1f11|4|2026-11-19|🤭🤭🤭🤭🤭🤭
-McDonalds|4a2fb8a3-c1bf-4b2e-9a82-bb89b45db114|5|2026-11-19|please can you program the McDs Spain app to have a choice of languages
-McDonalds|d847a671-c54b-4ac6-b42b-b8b186a29c76|5|2026-11-19|excellent
-McDonalds|5a1e2415-c05d-4eee-8cbd-65726ae4a1c1|5|2026-11-19|McDonald's it's very good it's delicious 😋
-McDonalds|1bb04e89-4d29-4000-9b68-3549b15742e7|5|2026-11-19|I get many points and happy to enjoy mcd so much
-McDonalds|eb40eeec-2812-4c70-b8f4-658f3aa42686|5|2026-11-19|Keep up the Good Work
-McDonalds|66df1f8c-56f5-4041-b3bb-e16295b0f4f3|5|2026-11-19|I love it as sometimes I'm able to get food for free with my points
-McDonalds|cc07582a-65be-4f17-94a1-0e0c23c3bd4b|5|2026-11-19|easy to play, easy to eat
-McDonalds|fb8ba91b-0f46-4205-b298-8c7358eaf77e|5|2026-11-19|Ordering with an app saves me much time because I place my order while on the way so I just pick up when I reach the town. I also like the rewards, which means once in a while I get a free meal.
+McDonalds|96268f2f-0362-47ef-a1af-849c43ffc0fc|5|2026-11-20|Secunda Mc Donalds is the best. Friendly staff, helpful and always keeping clean..
+McDonalds|b46fb54a-528c-4ad8-8320-ecbefcc3ae09|5|2026-11-20|mempersonakan kehidupan..
+McDonalds|138c5977-1fb0-4169-b0b6-bba7ff4c7ea8|5|2026-11-20|always on top
+McDonalds|19bf543d-44c8-422e-b2d8-8040f9424f30|5|2026-11-20|I really love your ice cream its so smooth and delicious and the fries 🍟 are number 1
+McDonalds|09c26a7b-42f7-496e-9d6d-07ec654c3774|5|2026-11-20|Best app ever! ✨
+McDonalds|52a70308-c97c-46c6-86df-fa6154dc3d82|4|2026-11-20|Czasem kody zakupione za punkty nie działają
+McDonalds|a5625a08-56fa-482f-85f5-480590f6122c|5|2026-11-20|it's very good meal in this app
+McDonalds|10ed13f4-7e13-4bcb-a3e7-60c98bfde1af|5|2026-11-20|loving the app, purchases are easy and fast
+McDonalds|730902f0-2e52-4566-b9af-d863b179b688|5|2026-11-20|Rewards are excellent.
+McDonalds|2e6ba1ee-406f-4083-aa2a-81f9341a5e81|1|2026-11-20|the menu having no search button nor vegetarian filter is absurd
+McDonalds|a43cea3d-7865-433a-97d4-f0dae52b63ff|5|2026-11-20|i love Mc
+McDonalds|d6291fda-6902-48b1-b616-4c7e4387df10|5|2026-11-20|10 to 10
+McDonalds|4fe621c9-bedf-4b79-8ded-fe6e761b7d32|5|2026-11-20|Good Work For Mack D
+McDonalds|72276987-f428-4af5-a8eb-93ad7a090139|5|2026-11-20|very yummy fast food ever and so affordable🫶
+McDonalds|32acae15-6b24-415d-8af5-75a8d0f9f755|5|2026-11-20|thank you so much
+McDonalds|0ae8a22d-5a1c-40ed-92d5-90ac39d10ad4|5|2026-11-20|very good
+McDonalds|0436451c-41ef-4181-a19b-675f6078f053|5|2026-11-20|always the best
+McDonalds|8ed878b2-bf1c-4b09-bbc5-44634406d149|1|2026-11-20|Ordered food delivery through the app. Half of the order was missing and it was really hard to find the customer service contact. Which in turn was exceedingly unhelpful. Just use e.g. Wolt or such directly, at least then you have a direct connection to the deliverer.
+McDonalds|8f4192a5-8c81-4a89-bbac-c6e56a0dde1a|5|2026-11-20|just the best in almost everything
+McDonalds|157fa11f-9b18-4bcd-9c50-21d70465615d|5|2026-11-20|McDonald's good
+McDonalds|5a4b6019-5e0b-491c-b5d2-e28ab5e1a635|5|2026-11-20|ok
+McDonalds|5a435b40-5c7c-4338-aed1-91cceae01f6d|5|2026-11-20|The quality of food is excellent
+McDonalds|f928c81d-69b1-4053-9d11-275e04634558|5|2026-11-20|terima kasih McDonald's. Tempat saya makan, silaturahim & buat kerja. Berbaloi guna McDonald' app. Ada reward & boleh dapat minuman free.
+McDonalds|beddf503-7f5e-430d-b9c9-6a8b15f13aff|4|2026-11-20|easy to navigate
+McDonalds|d9f7b84f-16bf-4349-a1fe-c7363327fa4c|5|2026-11-20|i love you mcdo
+McDonalds|027b336d-72db-44c4-81ae-013a3251ab2e|5|2026-11-20|I love it 😀 😍 ❤️
+McDonalds|23adf6fc-ce84-4549-a1e7-b6565ff44c9c|5|2026-11-20|keep this apps and promos always😁❤️
+McDonalds|8bea86a7-e72e-4208-ad83-d3c4e979cf76|5|2026-11-20|good app mudah untuk order
+McDonalds|bfc3c323-d10d-493d-b8d8-0b0afefee077|5|2026-11-20|you know the story Mac d.
+McDonalds|38c4b10f-c94d-4958-9a28-9ee6b37e564f|5|2026-11-20|gooddd
+McDonalds|520ff261-e570-4b7d-9b9c-df20a116bef5|5|2026-11-20|good to eat
+McDonalds|e1376ea5-3141-4656-905c-1cad77e2d190|5|2026-11-20|all good
+McDonalds|57947612-544f-435c-95e7-879a582057be|5|2026-11-20|very good test
+McDonalds|e3b70d96-c55b-4678-bae1-12d183153712|5|2026-11-20|Amazing service n good food quality affordable as well
+McDonalds|ff49ae8c-9694-4d77-b766-fc4731c8dc5a|5|2026-11-20|McDonald's is very good
+McDonalds|44f42e15-703b-4082-b49d-efa1fd4f19b6|5|2026-11-20|hea äpp
+McDonalds|931cdaf6-8d94-4ba8-bb0d-fba81633b108|5|2026-11-20|the services and food 😋 outstanding
+McDonalds|094cb83f-d556-4978-8224-520910c634b2|5|2026-11-20|Its good
+McDonalds|1f9658a7-6566-4f1a-9417-7dd50ab9ad4c|5|2026-11-20|Buying from McDonald's got cooler with all the rewards and discounts I get. TY Mcdo!
+McDonalds|aa072a5c-b96b-4708-bad2-e7687d08a92c|5|2026-11-20|i'm so happy about this app i can get anyting i want but its free but u can earned points before u can get a free meal
+Wendys|00611c87-308c-4cd9-a608-1830e99dd478|5|2026-11-20|Smoothest fast food app I've experienced.
+Wendys|22b5e127-6757-40d7-82f0-073bb0c4a98c|1|2026-11-20|the app needs a serious over haul on the breakfast items. I cant do a mobile order with majority of the breakfast items
+Wendys|f15be6dd-8621-422f-9679-b387ab993b66|5|2026-11-20|the app is easy to use and they're very generous with their reward points. the only bad part is I can only get one item with my reward points
+Wendys|59ea5a7f-3e68-4d39-bd7a-f1dffc8ff396|1|2026-11-20|App lied. App says error but Google Pay says payment went thru. What's us with that?
+Wendys|8323bb5a-5c42-4e91-b112-af988a00c3b5|5|2026-11-19|I forgot to order 2 sodas. Wendy's covered them. thank-you always the best here.
+Wendys|6884686b-d54b-495d-b8f4-8ff57bcd195d|5|2026-11-19|👍🏾 GREAT!
+Wendys|cf9dbf8f-9986-4ec1-98f3-ef8279613d06|5|2026-11-19|thank you
+Wendys|d95049d0-9fba-4284-bc43-a8c25198ce49|5|2026-11-19|quick and efficient.
+Wendys|8f6cf49d-ad42-48b9-9cb2-71ea6a43a420|5|2026-11-19|Very easy to use app. All in restaurant options are available on the app.
+Wendys|33f0d030-f42d-468e-986f-f4322829685c|1|2026-11-19|I lost 1,280 points when switching phones.I get them back.if I get the points back in a timely manner,will upgrade rating to 3 stars.
+Wendys|23ab7201-a3fc-4462-80d1-ca70788110ed|3|2026-11-19|asks for location
+Wendys|45e4ded7-6568-41c3-be17-abead1917f2c|5|2026-11-19|great food
+Wendys|4ba32abe-f3b2-478b-b5d7-f4c807469ad2|3|2026-11-19|sometimes it's excellent and sometimes it's not... my Son of Baconator last week had 2 limp pieces of bacon, wish I had taken a pic
+Wendys|443c0b41-e3d5-470c-bbca-f5c57fd7c905|4|2026-11-19|,could use better non inflated deals like 1 year ago
+Wendys|fe6c94bd-55e7-4851-a9ba-5070f07c4b4c|1|2026-11-19|For a good while the banners stopped loading so while I get emails telling me to order specific items or play on the app it doesn't work. So if I want a special I have to order it in person and scan the code to get points/use a offer. Makes it not worth it.
+Wendys|25d8d973-e642-439e-a54d-09befc0b8ae7|1|2026-11-19|uninstalled and reinstalled multiple times and can't login
+Wendys|4ced64ea-5273-4b94-b6ab-b7a414a83c09|1|2026-11-19|the app is terrible. can't click on half the items
+Wendys|0252816c-a0c8-482f-8c40-980d3dd8d01e|1|2026-11-19|I used to like the Wendy's app but ever since they took away coupons for delivery and changed it to doordash and upcharged everything on the menu it has all went downhill. Even some of the coupons for picking up at the store don't work under very specific conditions that are not outlined. so you'll get to the drive-thru. your coupon won't work and you either have to pay or just go home. but it's all right. they changed back to yellow so I guess that's better
+Wendys|c3345aa7-d68c-46e3-bc61-ea15641abe80|5|2026-11-19|Decent app, rewards w/ purchase
+Wendys|a9974124-7c64-48f3-856a-6ed4286cbf07|5|2026-11-19|good app and easy to use
+Wendys|6894e289-deb6-48f7-b246-9ad515290479|4|2026-11-19|your debit card don't always work on this app
 Wendys|285d6dae-995f-440d-ae3f-4fb9a6a26932|5|2026-11-19|always great
 Wendys|d19c14e2-93d9-49a1-96df-b748cc14e91a|2|2026-11-19|carryout order was biggie double stack and received a crispy chicken. no lettuce for my sandwich. the rest was right.
 Wendys|1a0c2a19-55ff-49e2-a5c2-f9f1a146878e|5|2026-11-19|easy peasy
@@ -257,67 +278,73 @@ Wendys|a7a93ec3-5d09-4d92-bb64-da3223cfddf2|2|2026-11-19|this app is super glitc
 Wendys|7d665e36-b04d-43eb-95be-cb2dda205f44|5|2026-11-18|thank you
 Wendys|a31d929b-fc48-4650-8576-2188d7f4c1ba|5|2026-11-18|love the chicken nuggets
 Wendys|d1fe57b8-2fe8-48be-a323-0231a9a7a051|1|2026-11-18|often doesn't work. many times I abandoned cart and don't even bother going because the app doesn't work so they lose out on sales
-Wendys|1bfe2a23-4ba4-48c7-acb3-5af2e67805b6|5|2026-11-18|good update
-Wendys|76afdd49-1f0a-49a2-a3ad-efa6101b8417|5|2026-11-18|love wendys
-Wendys|0029579a-e8a9-4fd3-987f-a1448b758dc9|5|2026-11-18|love that you can use points and offers
-Wendys|34af6990-edef-4a0a-b0b6-125fb56f76ee|1|2026-11-18|The app doesn't work most of the time. The circle keeps spinning like there's slow internet but the Tim Hortons app works fine so I go there instead. Fix your app because you lost me as a customer 3 times this month.
-Wendys|de3c688b-046e-4d47-94de-333a5e37fdd5|2|2026-11-18|not very good offers and Wendys could use more options
-Wendys|a7858e86-1233-4fdb-9046-672253fe2037|5|2026-11-18|service at the drive thru was very slow, however the food was good as always!
-Wendys|94be580e-1cb8-486d-a8b9-a9c6408998b0|1|2026-11-18|app does not work. I can pick any burgers...
-Wendys|aac03a8e-889b-4d93-a0e3-441179433dda|4|2026-11-18|love it
-Wendys|c6b14196-ac28-4ccf-9e77-7d8d51aac332|5|2026-11-18|Best Burger for fast food!!
-Wendys|178ac12e-4735-4199-9768-c3f23e6a2054|4|2026-11-18|great app
-Wendys|102be888-fcb2-415b-bbd0-fab8f6152ec3|5|2026-11-18|Awesome
-Wendys|99fc7dd2-c0bd-478e-b239-44fefa50f1e0|5|2026-11-18|Easy to use and clean interface.
-Wendys|b23f95ed-77fc-477e-820e-67ae59a413eb|1|2026-11-18|good luck if you have a problem they make you call a 800 number for help on your order. no emails. holding for 2 hours and still nobody picking up. great way to lose customers
-Wendys|9f0cd7a1-4a2d-4e4b-845f-373d715b07f3|5|2026-11-18|wnedys
-Wendys|58a7b2e1-2b8e-4600-92a0-7d97d39ec097|5|2026-11-18|Wendy and Dave for the win.
-Wendys|aed84fb9-a231-4f31-9972-5ba1ac25c40b|2|2026-11-18|This against the stores not the app, if you take off mayo mustard and ketchup this is ignored and you get extra
-Wendys|33e070a7-38da-42ae-b1a1-45e101215eb5|1|2026-11-18|very pissed off said I could not use my boobook coupons that expire on 12/31/2026 why did I buy these ????!!!! state street Wendy's niskayuna 849pm
-Wendys|6fa0df22-3e73-4038-93a7-88c384c62a4b|3|2026-11-18|confusing
-Wendys|03600b01-88d0-45ef-aa3c-86fd927f116f|5|2026-11-18|works great
-Wendys|16ed35d7-d014-443c-bb58-2ffe69b8343e|4|2026-11-18|search staffing apps get people
-Wendys|61a0f991-672f-4e90-a2c2-e4d4e73332cf|1|2026-11-17|sketchy nearly fraudulent app. they HIDE UPCHARGES AND WON'T LET YOU SEE THE SUBTOTAL OF YOUR BAG UNTIL YOU GO TO CHECKOUT. WHY ARE YOUR UPCHARGE ITEMS NOT LISTED!!!
-Dominos|91b0e39e-2097-4cca-b480-4015e27c91bc|5|2026-11-19|Always get my order fast and Hot... it is always delicious!!!
-Dominos|18cc36b7-9a2b-48f1-9baf-c0e0bdf760f4|5|2026-11-19|good food
-Dominos|40900582-db90-4dc8-8080-8b093b251500|5|2026-11-19|We love being able to put in an order early with a later pickup time. Always hot and fresh
-Dominos|80563bbf-66ac-49e7-af5a-ce306e3730d4|4|2026-11-19|we order from Domino's all the time. at least once a week
-Dominos|f08dea3d-85c4-4a3f-9fe9-c0ee4a6a1055|4|2026-11-19|get pizza.
-Dominos|98a43819-2a67-458e-9fd3-32a7690de722|5|2026-11-19|the best place to get food
-Dominos|4f26c405-68e9-47db-924c-41b8bf33d236|1|2026-11-19|can't reset password and won't let me make a new account
-Dominos|89b26cd9-4e38-45ed-9ab9-9ac18b1efa89|5|2026-11-19|Great service!
-Dominos|d5c8de15-41e6-4a38-b83a-80537e58a791|1|2026-11-19|having technical issues
-Dominos|fba14c73-d168-4ba5-8e0a-61718a213a10|1|2026-11-19|I couldn't use my credit card on here
-Dominos|4ca76225-f346-4652-a86b-a12cae35050f|5|2026-11-19|always there when pizza is needed
-Dominos|1376b318-7f0e-4228-8b85-92f3730cf03d|5|2026-11-19|the best tasting pizza done right, at the right price
-Dominos|725a9d5c-84b9-40e3-8eb8-fcaf0d35b060|5|2026-11-19|Always fresh, good quality and fast. love it!
-Dominos|3c0af515-6af3-428b-a8f8-dc0809415d5d|5|2026-11-19|I LOVE THIS PLACE!
-Dominos|deed33c4-e004-41f2-a6a5-dd907cd637d2|5|2026-11-19|well best place to get food love dominoes lots
-Dominos|5edda0bc-890f-4dc3-aa1f-b43bff080c0c|5|2026-11-19|good service all around 👍
-Dominos|9c25957a-e0c3-4f10-95c0-52b3ebd6e38d|3|2026-11-19|I Never Have A Problem With Delivery
-Dominos|6565c882-88b8-40ef-8bfe-f65945533a0a|5|2026-11-19|yummy good
-Dominos|18b0bc09-b5ff-4a54-9da3-d6d82855d5f8|5|2026-11-19|not bad at all
-Dominos|abc6bb2a-3a74-436d-b7a1-5df55dcefbe9|5|2026-11-19|Monique is the best! she makes our food perfect every single time! almost envy time i order (& i order a LOT), she's cooking! ty Monique
-Dominos|6c5e6d6e-f5f2-4396-ae7c-085c90290c1e|5|2026-11-19|easy app to use. and great service at pick-up
-Dominos|58310a01-ba0c-4489-af87-7720207fe5c7|5|2026-11-19|I love the app it's fast and Domino's on 31 bypass in bowling Green Kentucky is amazing I've only had one problem out of two years ordering from them
-Dominos|b215a26d-fc6a-4c1a-bbac-337548c312b2|5|2026-11-19|best delivery in town
-Dominos|a1dd2303-df6c-42bf-a763-d2810d864042|5|2026-11-19|always happy with the food
-Dominos|7bb42015-b8cc-4e71-acdf-d44e2da60319|5|2026-11-19|Far West branch AMAZING
-Dominos|0d56949b-fea5-4402-9382-890bd822fc8e|5|2026-11-18|Speed and Kindness, this location rocks.
-Dominos|8b90c993-7f91-454d-a32e-13c338ccf58d|1|2026-11-18|Problem with the order actually going to the store. App will gladly process my payment but will not send my order to the store.
-Dominos|aed7c850-26ef-4f07-baec-52ffebee45d3|1|2026-11-18|This app never works for delivery orders. There is always some "technical issue" that keeps it from working. I always end up going online instead if I want to order. Very pointless and frustrating.
-Dominos|54ce6f1e-70d6-4430-a4ba-8df466744b52|1|2026-11-18|this app is cheeks
-Dominos|d40ea009-237f-492c-bfd7-0fc87d9932af|1|2026-11-18|The app sucks. It makes it too hard for people to get their items purchased. It's even worse when trying to talk to someone, and then sometimes when it gets here it's cold, and then they make it your fault.
-Dominos|62e89ece-e6e7-4930-b9a9-bbd51f2e4e6d|5|2026-11-18|😋😁
-Dominos|77868c3e-fc8c-4211-b898-0a3992402eaf|5|2026-11-18|✌️👍Hi🍕Dls!!!ea wesum llime.A 💚💜🧡 Bls
-Dominos|39d5cb80-e936-4611-a2b8-716705adf673|4|2026-11-18|I Love the New Domino single person Square Detroit style Pizza! it's Fantastic, Very Tasty!👌🏾😋
-Dominos|9d6f0c4c-a918-403d-9b96-66957d3a5c43|4|2026-11-18|Good pizza. Decent service. 6.99 Mix & match is the best deal. Pizzas are always cooked "well done".
-Dominos|8f396104-5861-421d-aaf7-dcf1c8257b97|5|2026-11-18|redeem rewards is nice feature 😁
-Dominos|3f5a10c2-b2ef-4364-8ada-59e6b9bc7760|5|2026-11-18|good service, fast delivery and a good product quality. 👌
-Dominos|a05cfc87-b0c8-465a-8d84-b413686fbce4|1|2026-11-18|They hide the price on everything until you look at it in checkout. corporate policy like this should be illegal.
-Dominos|8e8e4c01-6ebe-47bd-a1b4-8b61b5b6dce7|2|2026-11-18|I was going to give 5 stars but when I got my pizza it wasn't even cooked all the way. the whole pizza was doughy all the way through soft. I just ate the toppiings off of it.
-Dominos|1a76fa0a-c5a1-49f8-8f2e-d2e91b5a8c79|1|2026-11-18|sending notifications at 2am is pretty wild
-Dominos|e5b0ed43-d065-47a7-99bd-3fee4c98dd22|1|2026-11-18|Why on earth are you sending a notification at 11:19 pm for a deal that doesn't expire until February of next year? This could've waited until day time.
+Dominos|c27351e3-f8fb-4b73-9bee-04060d7465cd|5|2026-11-20|I love Domino's ❤️
+Dominos|a637942c-4695-4fdb-bb1a-fb63ed5bcee8|5|2026-11-20|Awesome food, fastest service
+Dominos|ea413ea8-e524-4e21-8b95-afd4c24b99ac|4|2026-11-20|this is a good Domino's location except for the owners are cheapskates and wouldn't get the AC fixed during the height of summer, making employees suffer.
+Dominos|ddf3a75d-2577-473f-a1c6-4d95df9ca9e3|3|2026-11-20|deals are inconsistent
+Dominos|a64e37f6-ffa1-4001-8195-1f7b23cd9672|5|2026-11-20|Fitchburg, MA location is ALWAYS on point!!!
+Dominos|621075ed-e6d7-4496-9bf0-4189ed00e5d3|5|2026-11-20|They serve good food.
+Dominos|d6343c68-dd2a-484b-952d-08deccd9e474|5|2026-11-20|very rarely do they get the order wrong, but people are human and can make mistakes.
+Dominos|1cec3d04-e5b2-4688-a860-bb9cc3f0c719|5|2026-11-20|always good deals
+Dominos|9ebf7b08-982f-4c40-8a13-2f2000d5fa06|5|2026-11-20|easy to order
+Dominos|3756f5ce-ce3a-4eec-95a3-0cfda32e5770|5|2026-11-20|luv it
+Dominos|3fe547b1-1533-4693-9906-87c632465ce9|5|2026-11-20|cheap and fast, never had a bad pizza here
+Dominos|db5f8074-c065-4f8d-8e59-119fc0b6f668|3|2026-11-20|your website sucks trying to order
+Dominos|106a9ef0-445e-42ae-9bd8-122ca0560434|5|2026-11-20|I love the Boones Creek Domino's.. Always hot and friendly devices. Leonard is the best!!
+Dominos|ead3313f-dd1f-4fb1-931f-4afcf1a64fdd|5|2026-11-20|great delivery drivers!
+Dominos|ee2f9dc1-63a3-45f6-946b-51f1b3701bec|5|2026-11-20|Domino's is amazing!!! They offer great deals and they never disappoint. A++!!!
+Dominos|bf811581-ecd3-4527-9d12-d641bdcbbed0|5|2026-11-20|very convenient
+Dominos|d109aaff-6dda-4fe0-ac3a-f49b0b7aed2c|5|2026-11-20|The Domino's in Attalla is the best. They always make my order perfectly and the customer service is great. If I could separate my reviews and leave another one for Gadsden it would literally read the exact opposite and on top of all that it is truly impossible to reach a live person on the phone. I have experienced numerous mistakes made to my orders over the last year and all of them could have been corrected relatively easily had I just been able to speak to someone on the phone.
+Dominos|dc9a6105-036b-4563-b659-9774f5871647|5|2026-11-20|i love you domino
+Dominos|876672cf-ec35-4ba1-8725-51d40ca2e697|5|2026-11-20|easy to navigate and understand and accurate 👌
+Dominos|568d60b5-dac7-485b-a49b-cf1812e21b36|5|2026-11-20|I love Domino's ❤️
+Dominos|d91d87bd-b10c-428e-aa7b-246bed131210|5|2026-11-20|excellent
+Dominos|5c840773-1fb8-4278-b9f4-b1c6424c9589|5|2026-11-20|consistent quality and service
+Dominos|9c14e84a-8cde-4fa1-a215-4c9d22d1c00a|5|2026-11-20|always done the way we order it ..
+Dominos|fe175fd3-7f0d-4db5-96aa-e354ff3fb8e1|5|2026-11-20|easy and fast. great sevice. thank you!
+Dominos|6d698de2-6c27-48b3-a80f-d4a44a159804|5|2026-11-20|easy
+Dominos|1886c345-da2c-4ef3-b84c-540928267c86|5|2026-11-20|Ive worked at Domino's before so zim always going to be partial to Domino's
+Dominos|c3aca421-ff39-4327-ac56-957aba9eac60|1|2026-11-20|I'm trying to ever the 20% off code and there's no place to add the code.
+Dominos|641332fa-bf08-4d7f-a27e-f34377d47bda|5|2026-11-20|I love my local Domino's
+Dominos|56665cbb-1b82-4cf8-a535-1e95ae6ec4be|5|2026-11-20|we order atleast once a week!!!
+Dominos|4c47a7ad-04e7-4236-8b2b-1d53694caa17|5|2026-11-20|they get it right every time!
+Dominos|4f79500f-bd6b-4fc4-ac97-313d8c08bc95|5|2026-11-20|always great and fast delivery
+Dominos|9f7b9a3a-5fa4-4001-bab9-e3293927f744|5|2026-11-20|have not been able to sign in for the past couple of days. have screenshots of being unable to reset password and for the single use code not being accepted. kinda hard to give you money when your app won't let me sign in
+Dominos|aa3c277c-d406-424c-ae65-4afd97053764|5|2026-11-20|fast service, great tasting pan pizza. Enjoy your next pizza. if only there was a pizza diet...
+Dominos|093aac43-94b0-47c7-97b2-757681e05f24|5|2026-11-20|Great food, friendly service!
+Dominos|3c5efb16-220d-4e68-b577-6e4499f4c6a0|5|2026-11-20|having trouble ordering through the app won't submit my order
+Dominos|8780e13e-e4ef-4ff6-8974-c8d582c3e77c|4|2026-11-20|mostly always good. A few times the food was so horrible tho. which is very rare. but it has happened. this last time was recently. and I finally contacted someone and they did make up for it! Other then that did is good delivery drivers are almost always decent and kind.
+Dominos|9a2aa747-6cb7-4441-b11e-a61f029f8e00|3|2026-11-20|missing a topping last time i ordered
+Dominos|fd0ae1c1-de9c-444d-9657-ff90ee496fa3|5|2026-11-20|yummy 😋
+Dominos|0233ad96-fe98-495c-ab07-7b16fc2e4ca5|5|2026-11-20|I can't get enough over these past 6 months. Trying Lake Wylie SC venue 1st time now, but Clover's solar-powered venue is AMAZING! fantastic staff & delicious food! app works gr8!
+Dominos|3ebbbde1-3fbc-4496-9e5f-22a44baeef1b|5|2026-11-20|love domino
+Starbucks|8a95a14d-3dc0-4f31-9e9d-fbd84d0a1760|1|2026-11-20|very bad customer service. took my money and didnt update the balance.
+Starbucks|1cee743f-8f1e-401d-9339-0a3ae9566acf|1|2026-11-20|a recent patch makes the recent and favorite lists empty all the time, and orders fail. so now I have money just stuck in an app that doesn't work
+Starbucks|3522ddf3-e038-4a30-a183-2cd660ccfc9e|1|2026-11-20|app logged me out, and I can't log back in. I just keep getting error messages, so any money I had loaded on the app is inaccessible. funny how Starbucks can access my money to invest it in whatever they want and benefit from my money, but I can't get my coffee with my money 🙄
+Starbucks|7332b42a-327c-4c51-98b0-537e5252abb6|3|2026-11-20|love the app, convenient to order from but now needs location to order? what is the point of saving your preferred stores when I need to turn on gps everytime I want something?
+Starbucks|b4bf3d1f-021a-45c3-a48f-abaae95ba7a9|5|2026-11-20|Was never a huge fan of Starbucks ,Until I tried their Peppermint Holiday coffee! Love them!! ❤️ 😍 Also, very friendly staff and they go above and beyond at my North Canton and Dressler Locations!!!
+Starbucks|8dc90ee3-a024-48b7-8938-1305c5cd7654|1|2026-11-20|Horrible app. Always having issues. Have to sign in 3 times before it let's me sign on or sometimes I still am not able to sign on. Awful.
+Starbucks|c9a169b8-b77c-4c78-8321-82223c47907e|1|2026-11-20|Requiring Chrome to sign in is one of the dumbest things I've ever seen in an app
+Starbucks|c3d91cd6-4f89-4620-8f91-ea1f7a3bd5b9|1|2026-11-20|will not let me login anymore. I've tried everything. app is broken
+Starbucks|def918b2-e3af-43a6-ba54-df1d195f6702|4|2026-11-20|so easy now
+Starbucks|e93110ed-b41f-472f-9086-bcc13bf89b90|1|2026-11-20|needs chrome, i am not a regular each time i launch it it needs to sign in and can only use chrome to sign jn
+Starbucks|e16dc4e6-4b7d-4614-a09a-d5ea58ac63c6|1|2026-11-20|Can't login with my default browser! I don't use Chrome as my default browser, so the app won't even let me log in.
+Starbucks|9db46e98-b2ca-44f5-b417-df8efcb71114|1|2026-11-20|What is the point in having a Starbucks app if I still have to wait for my order. I ordered at 7:45. It is 8:20 and I still don't have my coffee.
+Starbucks|dfc881e1-995c-418f-a504-311ead0948c3|5|2026-11-20|skilled baristas
+Starbucks|8c88643d-c8f7-49d3-9f89-b330039876d3|5|2026-11-20|love my coffee and desserts lot and love the special times I get to get what I want
+Starbucks|8d60e0a9-36be-445c-a71f-538f93defb18|4|2026-11-20|I like Starbucks. However, as someone who likes UI/UX, this app is a nightmare. The contents of the order use Instrument Sans, where everywhere else it's the usual font; the title bar does something different on every page: on order, it's in the middle; on gift cards, it scrolls with you; on home, it's got an animation; on the rewards it shrinks. Over all, love it 💕
+Starbucks|c6a10636-bebe-472f-9f3a-16623b79eda3|1|2026-11-20|app hasn't worked for weeks now, I login it kicks me back to the login screen.
+Starbucks|287d9851-ac58-4dbc-8bd3-ad5ad6687ee2|1|2026-11-20|I have a Gold card and gold status. that is supposed to be good forever once you hit it... tell me why the Starbucks app put me into Green status and took my gold away and I have a gold card even stored in the app??? 1 star due to this... and no help? bs
+Starbucks|1c81b6ec-deb4-41f8-ac1b-e4ad3e185f1a|5|2026-11-20|I'm a fan
+Starbucks|23014246-6d83-462e-98bb-7f8336223f19|1|2026-11-20|App stopped working. A few weeks ago it logged me out, and nothing I have tried allows me back in. Logging in on the web is fine, so it's clearly an app issue. Why break something that was working just fine for literally years? Good ol enshitification. Won't be buying anything if the app is broken, so good business choices, guys...
+Starbucks|f4cd4ed2-d1a4-44eb-99dc-8b3778f79514|1|2026-11-20|starbuks
+Starbucks|7cbd6fb6-e1c1-4de3-a611-2d0e4a15392b|1|2026-11-19|Please fix the login issue. I've tried updating Chrome, making it the default browser and signing in through Chrome first before the app but there's been no luck with logging in on the app. At least the web app still works on the browser.
+Starbucks|d81c79b7-8fcf-4c27-b1b5-0a2abc5bd291|5|2026-11-19|yehhhh
+Starbucks|8174d497-bd1c-41ed-84ed-699775cef30d|5|2026-11-19|well designed. easy to use.
+Starbucks|e60d3b16-caea-432e-a037-ab20fb4113eb|1|2026-11-19|When are you fixing this login issue. Or do we all just cancel our accounts and request a financial refund?
+Starbucks|f752c8d8-a4bf-4bec-a3b6-875c114b4033|5|2026-11-19|grateful loved
+Starbucks|64b7548b-385c-4a27-b83a-739be90163a1|5|2026-11-19|Great app! Love the customizations and rewards!
+Starbucks|de6db26d-0af4-414c-9ca8-dfbb84408905|5|2026-11-19|easy to order and fun updates
 Starbucks|618b915e-f507-4053-91a6-2d351f2fda4b|1|2026-11-19|still unable to authenticate login after updating. unlike others, I HAVE Chrome installed and it still won't authenticate. App is currently useless. update 11/19/2026... version in Play Store updated in 11/17 so uninstalled and reinstalled. exact same scenario as before... click sign in link, Chrome opens to enter user/pass, control passes back to app but no login occurs, just the sign in link which repeats the entire process. app is still useless.
 Starbucks|1f843c52-2e75-43c4-803f-53008f1a6348|1|2026-11-19|Hates their own employees, wish I could rate 0 stars
 Starbucks|f27d317f-e62d-48cc-b2a3-8dd09b7ffd4b|1|2026-11-19|I have attempted for months to fix the issue with not being able to order through the app, always getting the same message that ordering ahead is not available stand location that comes up. I have Uninstalled and reinstalled several times, tried to update and change settings with no luck. really disappointed as I used to be able to use the app freely and enjoy my starbucks experience, but no longer can.
@@ -331,30 +358,3 @@ Starbucks|2213031c-b808-4fd2-ae60-458dc69178a9|5|2026-11-19|Awesome service!
 Starbucks|cd144718-7e2c-480a-8019-159eef7fa49b|1|2026-11-19|Stop forcing us to turn on location services. Why did you change the way we check out? location services barely works. I would rather just choose my store in checkout, fix it. Also the new scroll for suggestions to add to your order doesn't work because you have so many buttons in the way. why don't you put it back to the way it was before. seriously your layout is awful now. Why do we have favorite stores if I can't just go straight to ordering?
 Starbucks|27e162fa-34c8-497c-afbe-8c8cb95e7ec9|1|2026-11-19|I've had and regularly used this app for years. Suddenly, for the past 3 or so months, I can no longer log in. I've cleared my cache, deleted and re-installed the app several times, but still can't get in. I don't get an error message, it just goes back to the sign in screen. My account &. password are both active, they work if I use Chrome.
 Starbucks|31c92033-1497-4dcd-a64b-a5472b9ea3de|1|2026-11-19|says your browser is out of date, will not allow me to sign in. deleted the app and downloaded it again, still getting the same error message
-Starbucks|19614ec1-7292-49e3-bb68-4dbb6f3e6d5d|5|2026-11-19|excellent
-Starbucks|6eb37ffa-a71d-4c5f-92fd-a7af9b7ab471|1|2026-11-19|doesnt work in australia
-Starbucks|026486d2-22ba-4bd3-9da5-7b44531ff95b|1|2026-11-19|unable to sign in
-Starbucks|e4e6c9ea-f1d2-4fc5-9b37-230eec8ed9e4|1|2026-11-19|Currently cr*p, after at least 2-3 weeks of people making it clear that Chrome shouldn't be part of this stupidity. Hopefully business dies with the app... Negative stars if possible... 🤞🏽 😒
-Starbucks|ee1fc1f2-e8de-4d89-8dbf-137f8c417cfc|1|2026-11-19|it kicked me out two weeks ago and I can't sign back in. super frustrating.
-Starbucks|d16ce91d-1432-4a06-9b97-e70945016e35|1|2026-11-19|No longer able to log into the app. I can log into the website without any issue. I called customer service and could barely understand their broken English. They told me there was a problem with the app. Great, that's why I was calling. However there was nothing they could do but read from their useless script. Not helpful and disappointing.
-Starbucks|205f914f-e4d2-4536-9bfc-6af88426191c|1|2026-11-18|Now requires google chrome to sign into their app which I've had for years without needing chrome, which I WILL NEVER install anywhere. I have uploaded funds from a gift card to the app. Now they're stranded funds. DONE, DONE with Starbucks, which is overpriced junk food for the most part.
-Starbucks|78c3b9e9-3c3d-40b9-ad4a-e82a7780fc36|1|2026-11-18|Awful had Starbucks on my phone, when I tried to sign in, got message that I had to update, attempted to update, delete big mistakes when I tried to upload back on phone, not able to. What a rip off and I had points as well, very disappointing, they have lost a faithful customer
-Starbucks|71269c31-1e65-42a7-8108-23cf47be21d1|1|2026-11-18|forcing users to use the Spyware that is Google Chrome is abhorrent and I will be deleting the app and my account. 👎
-Starbucks|2a0da17f-df48-4485-a556-e45a6fd93ec1|5|2026-11-18|I love Starbucks workers there are so nice. never had a problem with anything I order I recommend it to my family and friends 🙂 😀
-Starbucks|ef84609f-ddaf-4796-874a-f090ac3a4a9c|4|2026-11-18|A good app, it's everything you can want from a Starbucks app
-Starbucks|47834dd8-7324-42f0-bd50-73fd44b1a6cc|5|2026-11-18|I love that they have many tea options! They are good baristas also! Happy Thanksgiving to Everyone!
-Starbucks|e517e450-1d85-4ee1-b663-24537deee676|5|2026-11-18|Starbucks makes me happy!
-Starbucks|e8026397-904f-4928-b500-ea6d06ffb81e|2|2026-11-18|I am very upset lost my StarBUCKS app scan and pay a few weeks ago Motto G Play 2024 ..
-Starbucks|fc978a20-dae7-4a1d-b626-db3c95baaae5|1|2026-11-18|I can't sign into my account via the app anymore. I have cleared the cache, uninstalled and reinstalled the app, turned off my VPN (which I have never had to do before), and turned locations back on. I am able to get into my account online. That tells me the problem is with the app.
-Starbucks|0e14c1c5-fcc6-464c-82fd-4b0e17c6dd09|5|2026-11-18|I literally love this app so much, it makes ordering extremely accessible and easy, and as somebody who goes to starbucks almost everyday, being able to collect the stars comes in sm handy!
-Starbucks|6215ef8b-445d-47a1-971b-827fda458d65|5|2026-11-18|Tellement pratique et conviviale l'appli. J'adore l'utiliser partout quand je voyage.
-Starbucks|de1fee13-67d6-48fb-95b7-3a4fae22e49d|3|2026-11-18|The app has always been very stable and user friendly but the latest update has removed locations from favorites. When ordering online for pickup you must now search for your city and only then do your favorite locations show up. A bit frustrating to have this extra step to take.
-Starbucks|dd42403f-95b5-4ec0-9e6f-273b9742061a|5|2026-11-18|Excellent service 👏!
-Starbucks|e6f7fe21-163d-4fc8-807a-0bc32a6c23f1|1|2026-11-18|update is forcing me to use Google chrome... my phone is a android I use Google... but dont understand why I would need to sign in through Google chrome, when I have the Starbucks app.
-Starbucks|ee51c312-43f4-4747-8937-309f76b5071e|5|2026-11-18|Quick, efficient, and detailed.
-Starbucks|3ceb2e44-3861-4f88-b305-f19660c001df|1|2026-11-18|This app forces you to use chrome for login. I can't use chrome making this app useless now.
-Starbucks|2c0dcb22-c35f-45f5-ae17-f6e2a0fed399|1|2026-11-18|No longer works on Android without logging in through Chrome. A native app is supposed to be self-contained and convenient. If you have to open a specific web browser to authenticate, the app is essentially just a bloated shortcut to a website you could already visit on your own. The convenience of a standalone app was the only reason I was going to Starbucks at all. It's hard to find another one now.
-Starbucks|f80223b8-207b-4e61-b72e-170b506263b4|5|2026-11-18|chai lattes are life lol
-Starbucks|84d0bb6b-0104-4922-a8a5-a4f21b945128|5|2026-11-18|I never have issues when trying to order ahead. The app is really easy to use!
-Starbucks|0f07c893-2bb3-44e5-9c1c-550290bd09d9|1|2026-11-18|needs Google chrome to log in and won't accept any other browsers whatsoever. not using your app anymore until you fix this issue.
-Starbucks|3d0e5fa5-c1f8-43d7-b9ab-0698e566d0d6|5|2026-11-18|Great for ordering my morning pick me up before work.
