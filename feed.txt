@@ -1,3 +1,8 @@
+14834635330|1|2026-11-25|Not great with online payment|Perfect entry- can’t add
+14834518020|5|2026-11-25|Burger King at 376 Hughes Rd Madison, AL 35758|I recently visited this BK and it was great! Jessica helped us and she was warm and friendly! She had a great attitude!I love me a Whopper with cheese and love their fries when they are prepared and served fresh and hot! This visit I was definitely not let down! The fries were crispy and the burger was big and delicious like a Whopper should be! It had the wrap around the sandwich keeping all the goodness in my mouth and not on my clothes! I will be back! Only problem is I was informed this location may be closing, what a disappointment! Why mess with perfection?!?!?
+14834323501|3|2026-11-25|Slow Drive Through|The food has been much better the last couple of months, but the drive through is SLOW!!!
+14834053712|5|2026-11-25|Th bestest|Willybus
+14833278322|1|2026-11-25|Smh|The app is useless smh
 14831239439|5|2026-11-24|Love it|Amazing
 14830643874|2|2026-11-24|Not as good as it should be|Most delivery apps will show you when the driver is in route and where they are, Burger King? Nope!? Your drivers been in route for and hour and a half, you get your food whenever you get it 🤣 its 2026, figure it out
 14830457170|3|2026-11-24|Dinner|Good was tasty and warm. Delivery was good, however no straws were available with the drinks, this seems to be the norm.
@@ -43,11 +48,13 @@
 14795822687|1|2026-11-15|Current version issue|App freezes when you try to add a transaction ID and get crowns.
 14795690950|2|2026-11-15|Reported undercooked food and my account was blocked in retaliation instead|Went from my favorite fast food that I tried to hold accountable when employees intentionally served bad food to detour customers returning to having my account blocked for reporting my local lazy employees.
 14795237655|5|2026-11-15|Very efficient and time saving|The experience so far is good.
-14794307347|4|2026-11-15|Krazy Keyz|I love this Burger King
-14792929194|5|2026-11-15|Delicious|Great
-14791789075|2|2026-11-14|So how do I order??|I got the app. I see lists of items it goes nowhere. I want BK tomorrow.
-14791655871|1|2026-11-14|Pick up time|I order in the app pick the time I want to pick up and my food is NEVER ready when I get to the window!! I waited tonight at least 15-20 minutes food was not ready and onion rings were not even eatable!!!
-14791327129|3|2026-11-14|Cannot order extra cheese on Whopper|Don’t use if “burger your way” means extra cheese. Other than that, app is okay.
+2e70f7f4-eb86-4f46-b2b2-6133013de794|1|2026-11-26||have not used, to expensive for delivery!!
+7c40348a-1304-4008-9a6d-8ff8925b5aeb|5|2026-11-26||Forget the rest of the brick & morter burger joints. Can't beat flame broiled burgers. Have it your way, and get eating. 😊
+349adc1e-dcf3-4a29-9356-23ddc4b4b4c5|5|2026-11-26||LOVE the BK app!
+f4ea1ba5-2ff6-4823-9c3e-4c22e0f6d5ae|4|2026-11-26||I love BK food. They serve a good variety of food, and the app allows u to eat it with good deals. The Whoppers are oh so fresh and always freshly cooked. And the sides are equally delicious. Kudos to BK.
+ae660491-e7d8-4ef1-a50d-01287c36ebd7|5|2026-11-26||Great App.
+82b06d83-eb73-4bd9-b77f-25091e1a846e|5|2026-11-26||It works. The deliveries are fast. We have ours linked to our Walmart app. That gives the option for 25% off and it is always there just as advertised. Only allows One Offer per order. Since burgers etc cost so much nowadays, you can remove the 25% off and apply a free Whopper or a Buy One Get One coupon for an additional $2 or $3 off discounted then the 25% off. There has been no shortage of coupons or free Whopper etc. Their delivery and driver tip fees have been good.
+b83b5e70-99f3-4cc4-932c-d5e792c41526|5|2026-11-25||I'm Loving my Burger King in Dolton my meals are on time hot and fresh. Thanks BK of Dolton. Keep up the great work.
 61372bee-95a1-48b7-aa9b-8f643b5ac149|1|2026-11-25||Be sure you have the right delivery address. They won't refund your money. EDIT: I did reach out and you didn't make it right, thus my review.
 64a65d02-43b5-44ea-acd4-8dc907118c54|1|2026-11-25||Worst ordering app ever. Placed a order on the 19th can't pick up order cause of a system issue at store have to go through the app so try to cancel said order no option to cancel no option to request refund no was everything ok option try to chat with them and they don't keep said convo no widow to open chat back up so you have to start over and resubmit everything again horrible app I wish I could give 0 stars
 d4b0a560-8be5-4062-817c-99a8debc6b56|5|2026-11-25||they all ways have the best food and fries around
@@ -141,10 +148,3 @@ f386f1c8-29ba-46a4-a2cb-a192cf51d91e|5|2026-11-18||They always have good coupons
 b2717d84-1dd9-424c-a670-2f0d018f5229|3|2026-11-17||needs to have options to swap the bun. my child is allergic to sesame and they have to remake it every time. it makes me feel bad for the waste and should just be a built in option.
 983db7ad-8f5e-4953-be4b-a8ab0d9a4347|1|2026-11-17||To create an account, I have to check email to get a code... to check email, I have to open email app and read the code. Back to the BK app, I have to select create an account and get a NEW code. Stuck in an endless loop. Utterly worthless. What nimrod designed this method?
 3e621b2c-02fb-4a06-976c-06743a2a0af5|1|2026-11-17||Now requires invasive location accuracy and won't let you use it even if you select "No Thanks". You do not need my precise location to give me my food when I can just manually select a location in the app. Worked fine previously with only approximate.
-4213b9e5-5716-47a1-a196-0c70ab60f37d|1|2026-11-17||Completed the survey on the back of my receipt and did not get a survey code. :( I did get a great order and some tasty nuggets.
-ffbc44e2-6733-4bea-827f-9c4a39256b54|5|2026-11-17||ol'boy the king is back
-3bc9c4c4-d976-408c-ba47-41f88eaa73d6|5|2026-11-17||The food is always, ALWAYS hot, freshly made and looks pretty. The associates are very professional and polite. I've only used the drive-thru so can't comment on the dining room but the exterior is usually well-maintained. However, with all the other positives, I'm sure the inside is probably neat and clean as well. The BK near me is subpar so I drive 20 minutes away to visit this location.
-c1127fcc-1903-4f84-88a4-971bc62e1eeb|5|2026-11-16||Easy to use..
-969c1033-10b1-449e-82d7-c02550b15f19|2|2026-11-16||First I couldn't get the girl to scan my phone. The food in Walton,ky was disgusting. The bun was very old, I asked for a double cheese burger, there was nothing on the burger except a drop of ketchup. The burger was so cold the cheese slid off. The manager was making faces, and let me know they don't do refunds! At that point I left. NO Customer service! Do better Burger King.
-80efab4f-95b3-4385-a66d-17f97283b3cf|1|2026-11-16||app is so glitchy and will not let you order anything
-2d6a062e-4fc3-429b-b439-4054aa4261fd|1|2026-11-16||app intentionally disconnects when rating the digital assistant low and yes, the issue happened after updating
